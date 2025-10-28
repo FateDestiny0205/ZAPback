@@ -2,20 +2,20 @@
 icon: user-unlock
 ---
 
-# 首充用户LTV
+# First deposit user LTV
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 玩家分析 → 首充用户LTV。
-* 功能说明:查看商户各个推广商以及渠道的用户LTV数据。
+* The path in the left navigation bar: Data Center → Player Analysis → First-time deposit user LTV.
+* Function description: View the user LTV data of various promoters and channels of the merchant.
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 首充人数：首充玩家数量。
-* 当日LTV：当日首充用户的充提差 / 当日首充人数。
-* 次日LTV：1 - 2日首充用户的充提差 / 当日首充人数。
-* 3日LTV：1 - 3日首充用户的充提差 / 当日首充人数。
+* Number of first-time deposit players: the number of first-time deposit players.
+* LTV of the day: the difference between the deposit and withdrawal of the first-time deposit user on the day / the number of first-time depositors on the day.
+* Next day LTV: The difference between deposits and withdrawals for first-time deposit users on the 1st and 2nd day / the number of first-time depositors on the same day.
+* 3-day LTV: The difference between deposits and withdrawals for first-time deposit users from 1 to 3 days / the number of first-time deposit users on that day.
 
-N日LTV：1 - N日首充用户的充提差 / 当日首充人数。
+N-day LTV: 1 - The difference between deposits and withdrawals of first-time deposit users on N days / the number of first-time deposit users on that day.
