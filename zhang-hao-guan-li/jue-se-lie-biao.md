@@ -2,21 +2,21 @@
 icon: user-vneck-hair
 ---
 
-# 角色列表
+# role list
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：账号管理 → 角色列表。
-* 功能说明:用于创建、编辑角色，并给角色分配对应界面查看权限。
+* The path in the left navigation bar: Account Management → Role List.
+* Function description: Used to create and edit roles, and assign corresponding interface viewing permissions to roles.
 
 <figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
 
-**2. 配置说明**
+**2. Configuration instructions**
 
-* 角色名称：角色的名称。
-* 角色类型：设置角色类型。
-* 备注：设置角色备注信息。
-* 角色权限：给角色分配后台界面权限。
-* 预览：预览角色已分配的权限界面。
+* Role Name: The name of the role.
+* Role type: Set the role type.
+* Remarks: Set the role remark information.
+* Role permissions: Assign background interface permissions to roles.
+* Preview: Preview the assigned permissions interface of the role.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (238).png" alt="" width="237"><figcaption></figcaption></figure></div>

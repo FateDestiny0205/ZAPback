@@ -2,5 +2,5 @@
 icon: ban-bug
 ---
 
-# 封禁管理
+# Ban management
 

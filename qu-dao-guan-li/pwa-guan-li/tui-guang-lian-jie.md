@@ -2,24 +2,24 @@
 icon: link
 ---
 
-# 推广链接
+# Promotional link
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：渠道管理 → PWA管理 → 推广链接。
-* 功能说明:给商户推广商配置PWA推广链接。
+* The path in the left navigation bar: Channel Management → PWA Management → Promotion Links.
+* Function description: Configure PWA promotion links for merchant promoters.
 
 <figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
-**2. 新增推送链接配置说明**
+**2. Added push link configuration instructions**
 
-* 运营商：选择新增推广链接的商户。
-* 渠道：可选择推送的类，取值来源 渠道管理 / 渠道账号。
-* 链接名称：推广链接名称。
-* 商店模板：设置PWA展示模板，取值来源 渠道管理 / PWA管理 / 商店模板。
-* 落地页域名：设置落地页域名，取值来源 渠道管理 / PWA管理 / 域名管理。
-* 推送内容：推送的内容信息。
-* 采用斗篷：待开发。
-* 标题：待开发。
-* 正文：待开发。
-* 上传图片：待开发。
+* Operator: Select the merchant to add the promotion link.
+* Channel: You can choose the push category, and the value source is channel management/channel account.
+* Link name: Promotional link name.
+* Store template: Set the PWA display template, the value source is channel management / PWA management / store template.
+* Landing page domain name: Set the landing page domain name, the value comes from channel management / PWA management / domain name management.
+* Pushed content: Pushed content information.
+* Adopt a cloak: To be developed.
+* Title: To be developed.
+* Text: To be developed.
+* Upload pictures: To be developed.

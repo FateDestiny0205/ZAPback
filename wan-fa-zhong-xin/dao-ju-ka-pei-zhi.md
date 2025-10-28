@@ -2,64 +2,64 @@
 icon: cards-blank
 ---
 
-# 道具卡配置
+# Prop card configuration
 
-**1.功能说明**
+**1. Function description**
 
-配置道具卡的对应游戏、过期时间、是否触发小游戏、旋转次数、名称图标等基础信息
+Configure basic information such as the corresponding game of the prop card, expiration time, whether to trigger mini-games, number of spins, name icon, etc.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
-可按道具卡的游戏品牌、游戏来筛选
+You can filter by the game brand and game of the prop card
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：道具卡ID
+(1) ID: prop card ID
 
-（2）道具卡名称：道具卡的名称
+(2) Prop card name: the name of the prop card
 
-（3）标题：H5前端展示标签
+(3) Title: H5 front-end display tag
 
-（4）说明：H5前端Tips或说明
+(4) Description: H5 front-end Tips or instructions
 
-（5）游戏品牌：游戏所属的品牌
+(5) Game brand: the brand to which the game belongs
 
-（6）游戏：具体的游戏及游戏ID
+(6) Game: specific game and game ID
 
-（7）道具图标：道具的图标
+(7) Prop icon: icon of the prop
 
-（8）过期时间（分钟）：道具卡的过期时间，过期道具卡消失
+(8) Expiration time (minutes): the expiration time of the prop card, the expired prop card disappears
 
-（9）是否触发小游戏：道具卡是否会触发小游戏
+(9) Whether to trigger the mini-game: whether the prop card will trigger the mini-game
 
-（10）免费旋转次数：道具卡的效果，赠送的免费旋转次数
+(10) Number of free spins: the effect of the prop card, the number of free spins given
 
-（11）状态：道具卡开关状态
+(11) Status: prop card switch status
 
-（12）最后操作人：最后操作本条信息的后台用户
+(12) Last operator: the background user who last operated this information
 
-（13）操作时间：最后操作本条信息的操作时间
+(13) Operation time: the last operation time of this information
 
-（14）操作：编辑或者删除道具卡
+(14) Operation: Edit or delete prop card
 
-**4.新增道具卡**
+**4. Added prop card**
 
-（1）游戏品牌：游戏所属的品牌，需要手动选择
+(1) Game brand: The brand to which the game belongs needs to be selected manually.
 
-（2）道具卡名称：道具卡的名称
+(2) Prop card name: the name of the prop card
 
-（3）标题：H5前端展示标签
+(3) Title: H5 front-end display tag
 
-（4）说明：H5前端Tips或说明
+(4) Description: H5 front-end Tips or instructions
 
-（5）游戏：具体的游戏及游戏ID
+(5) Game: specific game and game ID
 
-（6）是否触发小游戏：道具卡是否会触发小游戏
+(6) Whether to trigger the mini-game: whether the prop card will trigger the mini-game
 
-（7）可旋转次数：道具卡的效果，赠送的免费旋转次数
+(7) The number of spins available: the effect of the prop card, the number of free spins given
 
-（8）过期时间（分钟）：道具卡的过期时间，过期道具卡消失
+(8) Expiration time (minutes): the expiration time of the prop card, the expired prop card disappears
 
-（9）图标上传：可以上传道具卡图标
+(9) Icon upload: prop card icons can be uploaded

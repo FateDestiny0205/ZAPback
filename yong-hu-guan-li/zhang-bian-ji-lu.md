@@ -2,50 +2,50 @@
 icon: file-waveform
 ---
 
-# 帐变记录
+# Account change records
 
-**1.功能说明**
+**1. Function description**
 
-用于详细记录用户账户资金的每一次变动情况
+Used to record in detail every change in user account funds
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
-2.1渠道
+2.1 Channels
 
-可按国家、运营商进行筛选，便于分析不同市场与来源的差异。
+You can filter by country and operator to facilitate analysis of differences in different markets and sources.
 
-2.2用户信息
+2.2 User information
 
-可按用户ID、用户手机来进行筛选，便于定位特定用户
+You can filter by user ID and user mobile phone to facilitate locating specific users.
 
-2.3账变类型
+2.3 Account change types
 
-可按账变类型筛选，可定位该账变记录的类型
+You can filter by account change type and locate the type of account change record.
 
-2.4时间类型
+2.4 Time type
 
-可实现自定义时间的筛选
+Custom time filtering possible
 
-**3.列表字段**
+**3.List fields**
 
-（1）渠道：用户注册渠道
+(1) Channel: User registration channel
 
-（2）用户ID：用户的ID，点击ID可打开用户详情页面
+(2) User ID: User’s ID. Click the ID to open the user details page
 
-（3）用户手机号：用户绑定的手机号
+(3) User mobile phone number: the mobile phone number bound by the user
 
-（4）账变类型：账变的类型，比如下注、取消下注、返奖、充值等
+(4) Type of account change: Type of account change, such as betting, canceling bets, rewards, recharge, etc.
 
-（5）变更方式：账变方式，增加或扣除
+(5) Change method: Account change method, addition or deduction
 
-（6）状态：成功/失败状态
+(6) Status: success/failure status
 
-（7）账变前余额：用户账变前的余额，包含总额、真金、彩金、打码量、冻结金额
+(7) Balance before account change: The balance before the user's account change, including total amount, real gold, bonus, coding amount, and frozen amount
 
-（8）账变金额：用户账变金额，包含总额、真金、彩金、打码量、冻结金额
+(8) Account change amount: User account change amount, including total amount, real gold, bonus, coding amount, and frozen amount
 
-（9）账变后余额：用户账变后余额，包含总额、真金、彩金、打码量、冻结金额
+(9) Balance after account change: balance after user account change, including total amount, real gold, bonus, coding amount, and frozen amount
 
-（10）账变时间：用户账变的发生时间
+(10) Account change time: the time when the user’s account change occurs

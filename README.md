@@ -2,146 +2,146 @@
 icon: calendar-days
 ---
 
-# 仪表盘
+# Dashboard
 
-#### **数据总览**
+#### **Data Overview**
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-**1.功能说明**
+**1. Function description**
 
-仪表盘用于展示平台的核心运营数据，帮助管理者在第一时间掌握整体情况。页面以总览为主，直观反映当前业务的运行状态与趋势
+The dashboard is used to display the core operational data of the platform and help managers grasp the overall situation at the first time. The page is mainly overview, which intuitively reflects the current business operating status and trends.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-该功能用于对仪表盘数据进行 条件筛选和时间查询，方便管理者按需查看不同维度的数据表现
+This function is used to perform conditional filtering and time query on dashboard data, making it convenient for managers to view data performance in different dimensions as needed.
 
-2.1渠道筛选
+2.1 Channel screening
 
-可按国家、运营商、渠道 进行筛选，便于分析不同市场与来源的差异。
+You can filter by country, operator, and channel to facilitate analysis of differences in different markets and sources.
 
-2.2时间范围
+2.2 Time frame
 
-支持选择今日（选择今日还会显示与昨日的增减趋势）、昨日、本周、本月，快速获取对应周期的数据。
+Supports selecting today (selecting today will also display the increase and decrease trend with yesterday), yesterday, this week, and this month to quickly obtain data for the corresponding period.
 
-**3.数据说明**
+**3.Data description**
 
 <div align="left"><figure><img src=".gitbook/assets/image (2).png" alt="" width="289"><figcaption></figcaption></figure></div>
 
-特殊说明1：前缀会根据选择的日期筛选而进行改变，以今日注册为例，选到昨日就变为昨日注册，以下说明都是以今日数据为例
+Special note 1: The prefix will be changed according to the selected date filter. Taking today's registration as an example, if you select yesterday, it will become yesterday's registration. The following instructions are based on today's data as an example.
 
-特殊说明2：今日较昨日的变动情况：如下图，只在选择今日数据时会显示，如果今日数据高于昨日数据，则显示绿色向上箭头，表示今日数据高于昨日数据，反之则是红色向下箭头，表示今日数值低于昨日数据，后面所跟的数值为今日-昨日数据的差值，后面所跟的百分比为变化百分比=（今日-昨日差值）/昨日值\*100%
+Special Note 2: Changes between today and yesterday: As shown below, it will only be displayed when today's data is selected. If today's data is higher than yesterday's data, a green upward arrow will be displayed, indicating that today's data is higher than yesterday's data. Otherwise, a red downward arrow will be displayed, indicating that today's value is lower than yesterday's data. The following value is the difference between today and yesterday's data, and the following percentage is the change percentage = (today-yesterday's difference)/yesterday's value\*100%
 
 <div align="left"><figure><img src=".gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-3.1今日注册
+3.1 Register today
 
 <div align="left"><figure><img src=".gitbook/assets/image (4).png" alt="" width="348"><figcaption></figcaption></figure></div>
 
-（1）今日注册：今日的注册总人数，是真实注册人数和裂变注册人数之和
+(1) Today’s registration: The total number of registrations today is the sum of the real number of registrations and the number of fission registrations
 
-（2）真实注册：即不包含裂变带来的今日注册人数
+(2) Real registration: that is, the number of registrations today excluding fission.
 
-（3）裂变注册：即由玩家带来的下级注册人数
+(3) Fission registration: the number of lower-level registrations brought by players
 
-3.2今日充值
+3.2 Recharge today
 
 <div align="left"><figure><img src=".gitbook/assets/image (5).png" alt="" width="345"><figcaption></figcaption></figure></div>
 
-（1）今日充值：今日的充值金额
+(1) Today’s recharge: today’s recharge amount
 
-（2）今日充值人数：今日的充值总人数
+(2) Number of people recharging today: Total number of people recharging today
 
-3.3今日提现
+3.3 Withdraw cash today
 
 <div align="left"><figure><img src=".gitbook/assets/image (6).png" alt="" width="341"><figcaption></figcaption></figure></div>
 
-（1）今日提现：今日的提现金额
+(1) Today’s withdrawal: today’s withdrawal amount
 
-（2）今日提现人数：今日的提现总人数
+(2) Number of people withdrawing money today: Total number of people withdrawing money today
 
-3.4今日重提差
+3.4 Re-raise the difference today
 
 <div align="left"><figure><img src=".gitbook/assets/image (7).png" alt="" width="340"><figcaption></figcaption></figure></div>
 
-（1）今日重提差：今日的充值金额-提现金额的差值
+(1) Today's re-withdrawal difference: the difference between today's recharge amount - the cash withdrawal amount
 
-3.5今日投注
+3.5 Today’s Betting
 
 <div align="left"><figure><img src=".gitbook/assets/image (8).png" alt="" width="346"><figcaption></figcaption></figure></div>
 
-（1）今日投注：今日的投注金额，包括真金投注和彩金投注
+(1) Today’s betting: Today’s betting amount, including real money betting and bonus betting
 
-（2）今日投注：今日的真金投注金额
+(2) Today’s Betting: Today’s real money betting amount
 
-（3）今日投注：今日的彩金投注金额（有彩金的话优先消耗彩金进行投注来完成打码任务）
+(3) Today’s Betting: Today’s bonus betting amount (if there is a bonus, priority will be given to spending the bonus to place bets to complete the coding task)
 
-3.6今日输赢（指平台的盈亏情况）
+3.6 Today’s win or loss (referring to the profit and loss of the platform)
 
 <div align="left"><figure><img src=".gitbook/assets/image (9).png" alt="" width="338"><figcaption></figcaption></figure></div>
 
-（1）今日输赢：玩家总投注额-玩家中奖派彩， 正数代表平台盈利（玩家总体输钱），负数代表平台亏损（玩家总体赢钱）
+(1) Today’s win or loss: the total amount of players’ bets - the player’s winnings. A positive number represents the platform’s profit (the overall player loses money), and a negative number represents the platform’s loss (the overall player wins).
 
-（2）真金输赢：玩家真金总投注额-玩家中奖派彩
+(2) Real money winnings and losses: Players’ total real money bets – Players’ winnings and payout
 
-（3）彩金输赢：玩家彩金总投注额-玩家中奖派彩
+(3) Lottery winnings and losses: player’s total betting amount – player’s winnings
 
-3.7今日彩金
+3.7 Today’s bonus
 
 <div align="left"><figure><img src=".gitbook/assets/image (10).png" alt="" width="346"><figcaption></figcaption></figure></div>
 
-（1）今日彩金：用户获得彩金总金额（除佣金金额以外）
+(1) Today’s bonus: the total amount of bonus received by the user (excluding commission amount)
 
-#### 分时数据对比
+#### Time-sharing data comparison
 
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-**1.功能说明**
+**1. Function description**
 
-该功能用于对运营商、渠道的核心数据进行分时段（时间粒度为半小时）对比分析，帮助管理者洞察不同时间段的用户活跃与资金变化情况
+This function is used to conduct comparative analysis of core data of operators and channels by time period (time granularity is half an hour), helping managers gain insight into user activity and fund changes in different time periods.
 
-**2.筛选与查询**
+**2. Filtering and query**
 
-该功能用于对分时数据进行 条件筛选和时间查询，方便管理者按需查看不同维度的数据表现
+This function is used to perform conditional filtering and time query on time-sharing data, making it convenient for managers to view data performance in different dimensions as needed.
 
-2.1渠道筛选
+2.1 Channel screening
 
-可按国家、运营商、渠道 进行筛选，便于分析不同市场与来源的差异。
+You can filter by country, operator, and channel to facilitate analysis of differences in different markets and sources.
 
-2.2用户筛选
+2.2 User filtering
 
-可按总用户、新用户、老用户进行筛选，便于分析不同用户类型
+You can filter by total users, new users, and old users to facilitate analysis of different user types.
 
-2.3指标筛选
+2.3 Indicator screening
 
-可按在线人数、注册人数、充值金额、充值人数、付费率、充值ARPPU（充值金额/充值人数）、活跃ARPU（充值金额/活跃人数）、提现金额进行筛选
+You can filter by the number of people online, number of registered people, recharge amount, number of rechargers, payment rate, recharge ARPPU (recharge amount/number of rechargers), active ARPU (recharge amount/number of active people), and cash withdrawal amount
 
-2.4时间筛选
+2.4 Time filtering
 
-可按今天、昨天、最近3天、最近7天、上周、本月、上月、自定义日期（选中单日/日期区间）
+You can press today, yesterday, last 3 days, last 7 days, last week, this month, last month, custom date (select a single day/date range)
 
-#### 热门游戏下注人数分布
+#### Distribution of bettors on popular games
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-**1.功能说明**
+**1. Function description**
 
-该功能用于查看数据总览中筛选出的运营商、渠道的热门游戏下注的人数分布饼状图
+This function is used to view the distribution pie chart of the number of people placing bets on popular games for operators and channels filtered out in the data overview.
 
-**2.厂商选择**
+**2.Manufacturer selection**
 
-上方可以选择游戏厂商，全部还是单个厂商
+You can select game manufacturers above, all or a single manufacturer
 
-#### 游戏品牌下注人数分布
+#### Distribution of game brand bettors
 
 <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-**1.功能说明**
+**1. Function description**
 
-该功能用于查看数据总览中筛选出的运营商、渠道的热门游戏品牌（即PG、Ezugi、Evoplay等游戏）下注的人数分布饼状图
+This function is used to view the distribution pie chart of the number of people betting on popular game brands (i.e. PG, Ezugi, Evoplay, etc.) from operators and channels selected in the data overview.
 
-**2.厂商选择**
+**2.Manufacturer selection**
 
-上方可以选择游戏厂商，全部还是单个厂商
+You can select game manufacturers above, all or a single manufacturer

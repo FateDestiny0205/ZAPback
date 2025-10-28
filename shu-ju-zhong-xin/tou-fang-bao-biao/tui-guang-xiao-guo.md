@@ -2,24 +2,24 @@
 icon: hand-point-left
 ---
 
-# 推广效果
+# Promotion effect
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 投放报表 → 推广效果。
-* 功能说明:以月为单位，查看商户各个推广商和渠道的直推和裂变数据。
+* The path in the left navigation bar: Data Center → Delivery Report → Promotion Effect.
+* Function description: View the direct promotion and fission data of various promoters and channels of the merchant on a monthly basis.
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 注册人数：所选时间内的注册人数。
-* 首充人数：所选时间内的首冲人数(包括之前注册，但是在所选时间内才进行首冲的人)。
-* 首充金额：所选时间内的首冲人数的首充金额之和。
-* 充值人数: 所选时间内的所有充值人数。
-* 充值金额: 所选时间内的所有充值金额。
-* 提现人数: 所选时间内的所有提现人数。
-* 提现金额：所选时间内的所有提现金额。
-* 充提差: 充值金额-提现金额。
-* 提现手续费: 玩家提现时扣除的手续费。
-* 赠送金额: 玩家除游戏返奖以外获得的所有奖励。
+* Number of registrants: Number of registrants during the selected time.
+* Number of first deposits: the number of first deposits within the selected time (including those who registered before but made their first deposit within the selected time).
+* First deposit amount: The sum of the first deposit amounts of the first depositors during the selected period.
+* Number of people who have recharged: All people who have recharged within the selected time.
+* Recharge amount: All recharge amounts within the selected time.
+* Number of withdrawals: All withdrawals within the selected time.
+* Withdrawal Amount: All withdrawal amounts within the selected time period.
+* Difference between deposit and withdrawal: deposit amount - withdrawal amount.
+* Withdrawal handling fee: The handling fee deducted when players withdraw money.
+* Bonus amount: All rewards a player receives except game rebates.

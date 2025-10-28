@@ -2,21 +2,21 @@
 icon: cloud-binary
 ---
 
-# 推送数据
+# Push data
 
-1\. 界面位置
+1\.Interface location
 
-* 左侧导航栏路径：渠道管理 → PWA管理 → 推送数据。
-* 功能说明:记录PWA推送信息记录。
+* The path in the left navigation bar: Channel Management → PWA Management → Push Data.
+* Function description: Record PWA push information records.
 
 <figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
-2\. 表格字段计算公式
+2\. Table field calculation formula
 
-* 应推人数：推送的总人数。
-* 到达人数：实际成功接收到推送的人数。
-* 到达率：(到达人数 ÷ 应推人数) × 100%。
-* 推送点击数：用户(UV)点击了推送消息的次数。
-* 推送点击率：（推送点击数 ÷ 到达人数）× 100%。
-* 推送安装数：用户通过点击推送，最终完成了安装的次数。
-* 点击安装率：（推送安装数 ÷ 推送点击数） × 100%。
+* Number of people to be pushed: the total number of people to be pushed.
+* Number of arrivals: The number of people who actually successfully received the push.
+* Arrival rate: (number of arrivals ÷ number of people to be recommended) × 100%.
+* Number of push clicks: The number of times the user (UV) clicked on the push message.
+* Push click-through rate: (number of push clicks ÷ number of arrivals) × 100%.
+* Number of push installations: The number of times users finally completed installations by clicking push.
+* Click-to-install rate: (number of push installs ÷ number of push clicks) × 100%.

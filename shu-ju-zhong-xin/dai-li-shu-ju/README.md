@@ -2,5 +2,5 @@
 icon: people-arrows
 ---
 
-# 代理数据
+# proxy data
 

@@ -2,40 +2,40 @@
 icon: calendar-users
 ---
 
-# 用户邀请
+# User invitation
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 玩家分析 → 用户邀请。
-* 功能说明:查看用户邀请下级的数据。
+* The left navigation bar path: Data Center → Player Analysis → User Invitation.
+* Function description: View the data of subordinates invited by users.
 
 <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-**2. 代理玩家表格字段说明**
+**2. Agent player form field description**
 
-* 邀请码：玩家的邀请码。
-* 团队等级：代理团队等级。
-* 总奖金：玩家获得的返佣和返利彩金。
-* 邀请成功奖金：成功邀请获得的彩金。
-* 邀请任务奖金：玩家完全邀请任务获得的彩金。
-* 受邀注册人数：受邀请注册的人数。
-* 受邀充值人数：受邀请充值的人数。
-* 有效邀请人数：邀请并成功注册的人数。
-* 充值金额：受邀请充值的总金额。
-* 充值返佣：玩家获得下级充值返佣金额。
-* 提现金额：受邀请注册的玩家提现总金额。
-* 投注返佣：玩家获得下级投注返佣金额。
+* Invitation code: The player's invitation code.
+* Team level: Agent team level.
+* Total bonus: the rebate and rebate bonus received by the player.
+* Invitation success bonus: Bonus received from successful invitation.
+* Invitation task bonus: The bonus received by the player for fully inviting the task.
+* Number of invited registrations: the number of people invited to register.
+* Number of people invited to recharge: the number of people invited to recharge.
+* Effective number of invitees: the number of people invited and successfully registered.
+* Recharge amount: the total amount of invited recharge.
+* Recharge rebate: Players receive lower recharge rebates.
+* Withdrawal amount: The total amount withdrawn by invited registered players.
+* Betting rebate: Players receive lower-level betting rebates.
 
-3\. 受邀人表格字段说明
+3\. Invitee form field description
 
-* 受邀人ID：受邀玩家的ID。
-* 邀请码：受邀玩家的邀请码。
-* 注册时间：受邀玩家的注册时间。
-* 注册IP：受邀玩家的注册IP。
-* 首充时间：受邀玩家的首充时间。
-* 是否有效邀请：受邀玩家是否首充。首充为有效邀请，否则为否。
-* 总充值金额：受邀玩家总充值金额。
-* 总提现金额：受邀玩家总提现金额。
-* 钱包总金额：受邀玩家总钱包金额。
-* 总投注金额：受邀玩家总投注金额。
-* 上级代理ID：邀请者ID。
+* Invitee ID: The ID of the invited player.
+* Invitation code: The invitation code of the invited player.
+* Registration time: The registration time of invited players.
+* Registered IP: Registered IP of the invited player.
+* First recharge time: The first recharge time of invited players.
+* Whether the invitation is valid: whether the invited player has made the first deposit. The first deposit is a valid invitation, otherwise it is no.
+* Total recharge amount: The total recharge amount of invited players.
+* Total withdrawal amount: The total withdrawal amount of invited players.
+* Total wallet amount: The total wallet amount of invited players.
+* Total bet amount: The total bet amount of invited players.
+* Superior agent ID: Inviter ID.

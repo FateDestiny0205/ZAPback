@@ -2,42 +2,42 @@
 icon: message-dots
 ---
 
-# 轮播消息设置
+# Carousel message settings
 
-**1.功能说明**
+**1. Function description**
 
-可以设置跑马灯轮播消息
+You can set up marquee carousel messages
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
-可按归属运营商筛选
+Filter by carrier
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：轮播消息ID
+(1) ID: carousel message ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）轮播内容：具体的轮播内容，携带参数的话，参数代表如下，{1}玩家名，{2}游戏名称，{3}中奖倍数，{4}中奖金额
+(3) Carousel content: Specific carousel content. If parameters are carried, the parameters are represented as follows: {1} player name, {2} game name, {3} winning multiple, {4} winning amount
 
-（4）备注：轮播备注
+(4) Remarks: carousel remarks
 
-（5）携带参数：是否携带参数，携带参数就可以在文本中配置对应参数，参数代表如下，{1}玩家名，{2}游戏名称，{3}中奖倍数，{4}中奖金额
+(5) Carrying parameters: Whether to carry parameters. If you carry parameters, you can configure the corresponding parameters in the text. The parameters are represented as follows: {1} player name, {2} game name, {3} winning multiple, {4} winning amount
 
-（6）开关：轮播开关
+(6) Switch: carousel switch
 
-（7）操作：编辑或者删除轮播消息
+(7) Operation: Edit or delete carousel messages
 
-**4.新增轮播消息**
+**4. Add carousel message**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (107).png" alt="" width="93"><figcaption></figcaption></figure></div>
 
-（1）运营商：归属运营商
+(1) Operator: Belonging to the operator
 
-（2）轮播内容：轮播的内容
+(2) Carousel content: Carousel content
 
-（3）备注：轮播的备注
+(3) Remarks: Remarks for the carousel
 
-（4）携带参数：是否携带参数，携带参数就可以在文本中配置对应参数，参数代表如下，{1}玩家名，{2}游戏名称，{3}中奖倍数，{4}中奖金额
+(4) Carrying parameters: Whether to carry parameters. If you carry parameters, you can configure the corresponding parameters in the text. The parameters are represented as follows: {1} player name, {2} game name, {3} winning multiple, {4} winning amount
 
-（5）状态：开关状态
+(5) Status: switch status

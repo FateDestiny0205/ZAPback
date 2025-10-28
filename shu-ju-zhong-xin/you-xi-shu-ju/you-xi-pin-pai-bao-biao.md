@@ -2,29 +2,29 @@
 icon: layer-plus
 ---
 
-# 游戏品牌报表
+# Game brand report
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 游戏数据 → 游戏品牌报表。
-* 功能说明:以日期为维度统计游戏投注数据。
+* The left navigation bar path: Data Center → Game Data → Game Brand Report.
+* Function description: Statistics of game betting data based on date.
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 游戏厂商：玩家投注的游戏厂商名称。
-* 游戏类型：玩家投注的游戏类型。
-* 游戏品牌：玩家投注的游戏品牌。
-* 总投注局数：当前日期，当前游戏厂商，当前游戏大类玩家投注总局数。
-* 总投注金额：当前日期，当前游戏厂商，当前游戏大类玩家投注总金额。
-* 总投注人数：当前日期，当前游戏厂商，当前游戏大类玩家投注总人数。
-* 总返奖金额：当前日期，当前游戏厂商，当前游戏大类的总返奖金额。
-* 用户总盈亏：当前日期，当前游戏厂商，当前游戏大类投注总金额 - 游戏总返奖金额。
-* 盈利总人数：当前日期，当前游戏厂商，当前游戏大类的总投注人数中，派彩额 > 投注额的人数。
-* 亏损总人数：当前日期，当前游戏厂商，当前游戏大类的(总投注人数 - 盈利总人数)。
-* 人均局数：总投注局数 / 总投注人数。
-* 人均输赢：用户总盈亏 / 总投注人数。
-* RTP：总返奖金额 / 总投注金额。
-* 盈利人数比：盈利总人数 / 总投注人数。
-* 人均流水：总投注金额 / 总投注人数。
+* Game manufacturer: The name of the game manufacturer that the player bets on.
+* Game Type: The type of game the player bets on.
+* Game brand: The game brand that players bet on.
+* Total number of games bet: current date, current game manufacturer, total number of games bet by players in the current game category.
+* Total bet amount: current date, current game manufacturer, total bet amount of players in the current game category.
+* Total number of bettors: current date, current game manufacturer, total number of bettors in the current game category.
+* Total reward amount: the current date, the current game manufacturer, and the total reward amount of the current game category.
+* User's total profit and loss: current date, current game manufacturer, current total game category bet amount - total game reward amount.
+* Total number of people making profits: Among the total number of bettors on the current date, the current game manufacturer, and the current game category, the payout amount > the bet amount.
+* The total number of people losing money: the current date, the current game manufacturer, the current game category (total number of bettors - total number of people making profits).
+* Number of games per capita: total number of betting games/total number of bettors.
+* Per capita win and loss: total user profit and loss / total number of bettors.
+* RTP: total reward amount / total bet amount.
+* Ratio of profitable people: total number of profitable people/total number of bettors.
+* Per capita turnover: total betting amount / total number of bettors.

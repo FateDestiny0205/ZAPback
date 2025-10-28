@@ -2,76 +2,76 @@
 icon: square-list
 ---
 
-# 游戏列表
+# Game list
 
-**1.功能说明**
+**1. Function description**
 
-查看所有游戏，并可修改游戏基础配置
+View all games and modify basic game configurations
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-可按运营商来筛选
+Filter by operator
 
-2.2游戏信息
+2.2 Game information
 
-可按游戏类型、品牌、厂商、游戏名称、游戏ID、游戏UID实现对游戏的查找
+You can search for games by game type, brand, manufacturer, game name, game ID, and game UID.
 
-2.3状态和显示
+2.3 Status and display
 
-可按上下架状态和是否隐藏来筛选
+Can be filtered by on-off-shelf status and whether it is hidden
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：游戏列表中的ID
+(1) ID: ID in the game list
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）游戏ID：游戏的ID
+(3) Game ID: The ID of the game
 
-（4）锁定：点击编辑时会自动锁定，防止其他人修改冲突
+(4) Lock: When you click edit, it will be automatically locked to prevent other people from modifying conflicts.
 
-（5）是否热门：是否在推荐列表中
+(5) Whether it is popular: whether it is in the recommended list
 
-（6）封面图：游戏封面图
+(6) Cover image: game cover image
 
-（7）游戏/三方游戏ID：游戏名称/第三方游戏ID
+(7) Game/Three-party game ID: Game name/Third-party game ID
 
-（8）接入厂商：游戏接入厂商
+(8) Access manufacturer: game access manufacturer
 
-（9）游戏品牌：游戏的品牌
+(9) Game brand: the brand of the game
 
-（10）游戏类型：游戏的类型
+(10) Game type: type of game
 
-（11）是否隐藏：游戏的显示状态
+(11) Whether to hide: the display status of the game
 
-（12）品牌固定排序：游戏的显示状态
+(12) Brand fixed sorting: display status of the game
 
-（13）下注打码：下注的打码量
+(13) Bet coding: the amount of betting code
 
-（14）激活所需打码：配置的话游戏会上锁，打码量满足条件才会解锁
+(14) Activation of required coding: If configured, the game will be locked and will not be unlocked until the amount of coding meets the conditions.
 
-（15）充值解锁：配置的话游戏会上锁，充值金额满足条件才会解锁
+(15) Recharge to unlock: If configured, the game will be locked and will be unlocked only when the recharge amount meets the conditions.
 
-（16）维护开关：该游戏的入口关闭还是开启
+(16) Maintenance switch: whether the entrance to the game is closed or open
 
-（17）上下架状态：游戏的上下架状态
+(17) Up and down status: The up and down status of the game
 
-（18）操作：编辑或者删除游戏
+(18) Operation: Edit or delete the game
 
-**4.按钮操作**
+**4.Button operation**
 
-（1）批量上架：在列表中选中游戏后，批量进行上架
+(1) Batch launch: After selecting the games in the list, launch them in batches
 
-（2）批量下架：在列表中选中游戏后，批量进行下架
+(2) Batch removal: After selecting games in the list, remove them in batches
 
-（3）批量开启维护：在列表中选中游戏后，批量开启维护
+(3) Start maintenance in batches: After selecting the game in the list, start maintenance in batches
 
-（4）批量关闭维护：在列表中选中游戏后，批量关闭维护
+(4) Batch shutdown for maintenance: After selecting the game in the list, batch shutdown for maintenance
 
-（5）批量删除：在列表中选中游戏后，批量删除
+(5) Batch deletion: After selecting games in the list, delete them in batches
 
-（6）批量替换： 可以批量把游戏加到某个运营商身上
+(6) Batch replacement: You can add games to a certain operator in batches

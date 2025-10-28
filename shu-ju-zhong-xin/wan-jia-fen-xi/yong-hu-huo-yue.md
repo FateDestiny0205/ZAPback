@@ -2,17 +2,17 @@
 icon: chart-simple-horizontal
 ---
 
-# 用户活跃
+# User active
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 玩家分析 → 用户活跃。
-* 功能说明:查看商户各个推广商以及渠道的活跃用户数据。
+* The path in the left navigation bar: Data Center → Player Analysis → User Activity.
+* Function description: View the active user data of various promoters and channels of the merchant.
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 日活跃用户：今日登录玩家数量。
-* 周活跃用户：一周内至少登录一次的玩家数量。
-* 月活跃用户：一个月内至少登录一次的玩家数量。
+* Daily active users: The number of players logged in today.
+* Weekly active users: The number of players who log in at least once in a week.
+* Monthly active users: The number of players who log in at least once in a month.

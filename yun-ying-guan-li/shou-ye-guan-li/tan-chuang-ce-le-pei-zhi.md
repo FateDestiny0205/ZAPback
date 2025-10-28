@@ -2,105 +2,105 @@
 icon: display
 ---
 
-# 弹窗策略配置
+# Pop-up policy configuration
 
-**1.功能说明**
+**1. Function description**
 
-配置弹窗的弹出策略，针对不同标签的用户，可以配置不同的弹出策略
+Configure pop-up policies for pop-up windows. Different pop-up policies can be configured for users with different labels.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-选择某个运营商的弹窗策略进行查询
+Select a certain operator’s pop-up strategy to query
 
-2.2策略状态
+2.2 Strategy status
 
-策略是开启还是关闭，还是全部
+Is the policy on or off, or all of them?
 
-2.3弹窗链路
+2.3 Pop-up link
 
-弹窗是单链路还是多链路，还是全部  &#x20;
+Is the pop-up window a single link, multiple links, or all?
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">链路模式</td><td valign="top">含义</td><td valign="top">弹窗逻辑结构</td><td valign="top">典型用途</td></tr><tr><td valign="top">单链路</td><td valign="top">一条固定路径</td><td valign="top">A → B → C</td><td valign="top">固定流程类提示、引导</td></tr><tr><td valign="top">多链路</td><td valign="top">多条条件分支路径</td><td valign="top">A → (B/C/D)</td><td valign="top">根据不同行为展示不同弹窗</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Link mode</td><td valign="top">Meaning</td><td valign="top">Pop-up window logical structure</td><td valign="top">Typical uses</td></tr><tr><td valign="top">Single link</td><td valign="top">A fixed path</td><td valign="top">A → B → C</td><td valign="top">Fixed process prompts and guidance</td></tr><tr><td valign="top">Multiple links</td><td valign="top">Multiple conditional branch paths</td><td valign="top">A → (B/C/D)</td><td valign="top">Display different pop-up windows according to different behaviors</td></tr></tbody></table>
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：弹窗策略ID
+(1) ID: pop-up policy ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）策略标题：弹窗策略的标题
+(3) Strategy title: the title of the pop-up window strategy
 
-（4）用户标签：策略针对的用户标签
+(4) User label: the user label targeted by the policy
 
-（5）策略权重：如果有重复标签，同时满足多个弹窗策略触发条件时，触发权重最高的那个
+(5) Strategy weight: If there are duplicate tags and multiple pop-up window policy triggering conditions are met at the same time, the one with the highest trigger weight will be used.
 
-（6）排序：后台弹窗策略的排序
+(6) Sorting: Sorting of background pop-up window strategies
 
-（7）弹窗链路类型：是单链路还是多链路
+(7) Pop-up link type: single link or multiple links
 
-（8）弹窗链路详情：具体的链路触发详情
+(8) Pop-up link details: specific link trigger details
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (50).png" alt="" width="254"><figcaption></figcaption></figure></div>
 
-（9）状态：目前的开关状态
+(9) Status: current switch status
 
-（10）操作：编辑和删除目前的弹窗策略
+(10) Operation: Edit and delete the current pop-up window strategy
 
-**4.新增策略**
+**4.New strategy**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (54).png" alt="" width="77"><figcaption></figcaption></figure></div>
 
-点击新增策略按钮来新增策略
+Click the Add Strategy button to add a new strategy
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (55).png" alt="" width="328"><figcaption></figcaption></figure></div>
 
-1.运营商：归属运营商
+1. Operator: Belonging to the operator
 
-2.策略排序：弹窗策略在后台列表的排序
+2. Strategy sorting: sorting of pop-up strategies in the background list
 
-3.用户标签：弹窗策略对哪些用户标签生效，可单/多选
+3. User tags: Which user tags the pop-up policy is effective for, single/multiple selections possible
 
-4.策略标题：弹窗策略的标题
+4. Strategy title: the title of the pop-up window strategy
 
-5.策略权重：弹窗策略的权重，同时满足多个弹窗策略触发条件时，触发权重最高的那个
+5. Strategy weight: the weight of the pop-up strategy. When multiple pop-up strategy triggering conditions are met at the same time, the one with the highest trigger weight will be used.
 
-6.策略状态：弹窗策略的开启或关闭状态
+6. Policy status: the open or closed status of the pop-up window policy
 
-7.策略路径：配置具体的弹窗策略
+7. Policy path: Configure specific pop-up window strategies
 
-（1）单个弹窗设置
+(1) Single pop-up window settings
 
 <figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
-a.关联首个弹窗ID：与弹窗配置中的哪个弹窗关联
+a. Associate the first pop-up window ID: which pop-up window in the pop-up window configuration is associated with it
 
-b.当前弹窗展示位置：弹窗在哪个页面弹出
+b. Current pop-up window display position: On which page the pop-up window pops up
 
-c.首个弹窗每日展示次数：首个弹窗的展示次数，如果次数已达到配置值，则执行下一个弹窗逻辑
+c. The number of daily impressions of the first pop-up window: the number of impressions of the first pop-up window. If the number has reached the configured value, the next pop-up window logic will be executed.
 
-d.启动应用就弹：是否在启动应用时就弹出，启动应用就弹也会计入首个弹窗每日展示次数
+d. Pop up when you start the app: Whether to pop up when you start the app. Pop up when you start the app will also be included in the number of daily impressions of the first pop-up window.
 
-（2）新增弹窗
+(2) New pop-up window
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (57).png" alt="" width="81"><figcaption></figcaption></figure></div>
 
-点击新增下一弹窗按钮，可设置下一弹窗的逻辑
+Click the Add Next Pop-up Window button to set the logic of the next pop-up window.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (58).png" alt="" width="289"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (59).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">链路模式</td><td valign="top">含义</td><td valign="top">弹窗逻辑结构</td><td valign="top">典型用途</td></tr><tr><td valign="top">单链路</td><td valign="top">一条固定路径</td><td valign="top">A → B → C</td><td valign="top">固定流程类提示、引导</td></tr><tr><td valign="top">多链路</td><td valign="top">多条条件分支路径</td><td valign="top">A → (B/C/D)</td><td valign="top">根据不同行为展示不同弹窗</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Link mode</td><td valign="top">Meaning</td><td valign="top">Pop-up window logical structure</td><td valign="top">Typical uses</td></tr><tr><td valign="top">Single link</td><td valign="top">A fixed path</td><td valign="top">A → B → C</td><td valign="top">Fixed process prompts and guidance</td></tr><tr><td valign="top">Multiple links</td><td valign="top">Multiple conditional branch paths</td><td valign="top">A → (B/C/D)</td><td valign="top">Display different pop-up windows according to different behaviors</td></tr></tbody></table>
 
-（3）第二个及之后的弹窗设置
+(3) Second and subsequent pop-up window settings
 
 <figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
-a.第2个弹窗展示条件：参与上个弹窗活动，还是上个弹窗关闭次数（需要后面配置具体次数），还是上个弹窗弹出次数（需要后面配置具体次数）
+a. The second pop-up window display condition: participation in the last pop-up window activity, the number of times the last pop-up window was closed (the specific number of times needs to be configured later), or the number of times the last pop-up window popped up (the specific number of times needs to be configured later)
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (61).png" alt="" width="252"><figcaption></figcaption></figure></div>
 
@@ -108,16 +108,16 @@ a.第2个弹窗展示条件：参与上个弹窗活动，还是上个弹窗关�
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (63).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-b.关联第2个弹窗ID：与弹窗配置中的哪个弹窗关联
+b. Associate the second pop-up window ID: Which pop-up window in the pop-up window configuration is associated with it?
 
-c.当前弹窗展示位置：弹窗在哪个页面弹出
+c. Current pop-up window display position: On which page the pop-up window pops up
 
-d.第2个弹窗每日展示次数：首个弹窗的展示次数，如果次数已达到配置值，则执行下一个弹窗逻辑
+d. The number of daily impressions of the second pop-up window: the number of impressions of the first pop-up window. If the number has reached the configured value, the next pop-up window logic will be executed.
 
-e.与上个弹窗时间间隔：关闭上个弹窗N秒后，执行下个弹窗展示逻辑
+e. Time interval with the previous pop-up window: N seconds after closing the previous pop-up window, execute the next pop-up window display logic
 
-（4）删除当前弹窗
+(4) Delete the current pop-up window
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (64).png" alt="" width="85"><figcaption></figcaption></figure></div>
 
-可点击删除当前弹窗删除当前弹窗
+Click to delete the current pop-up window to delete the current pop-up window

@@ -2,60 +2,60 @@
 icon: outlet
 ---
 
-# 留存弹窗
+# Save pop-up window
 
-**1.功能说明**
+**1. Function description**
 
-配置老皮留存弹窗的开启关闭，展示内容等基础信息，纯活动展示弹窗
+Configure the opening and closing of the Laopi retention pop-up window, display content and other basic information, and purely active display pop-up windows.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-选择某个运营商的留存弹窗配置进行查询
+Select a certain operator's retained pop-up window configuration to query
 
-2.2弹窗名称
+2.2 Pop-up window name
 
-可以通过弹窗名称进行查询
+You can query by pop-up window name
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：弹窗ID
+(1) ID: pop-up window ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）弹窗名称：弹窗的名称
+(3) Pop-up window name: the name of the pop-up window
 
-（4）活动标签：对哪些用户标签适用
+(4) Activity tags: Which user tags are applicable to
 
-（5）活动1-5：展示的5个活动的图片
+(5) Activities 1-5: Pictures of the 5 activities displayed
 
-（6）弹窗总奖金提示：弹窗中的总奖金显示
+(6) Pop-up window total bonus prompt: total bonus display in the pop-up window
 
-（7）弹窗激活时间min：弹窗在首页停留多少分钟后才会触发
+(7) Pop-up window activation time min: How many minutes does the pop-up window stay on the homepage before it is triggered?
 
-（8）状态：弹窗的开关状态
+(8) Status: the switch status of the pop-up window
 
-（9）最后操作人：最后对弹窗操作的人
+(9) Last operator: The last person to operate the pop-up window
 
-（10）最后操作时间：最后对弹窗操作的时间
+(10) Last operation time: the last time the pop-up window was operated
 
-（8）操作：编辑和删除此弹窗
+(8) Operation: Edit and delete this pop-up window
 
-**4.新增弹窗**
+**4. New pop-up window**
 
-（1）运营商：弹窗归属的运营商
+(1) Operator: the operator to which the pop-up window belongs
 
-（2）弹窗名称：弹窗的名称
+(2) Pop-up window name: the name of the pop-up window
 
-（3）活动适用标签：活动适用于哪些标签的用户
+(3) Activity applicable tags: Users with which tags the activity is applicable to
 
-（4）活动图片：需要上传每个活动的图片，纯展示，无跳转逻辑
+(4) Activity pictures: You need to upload pictures of each activity, purely for display, without jump logic.
 
-（5）奖金提示：给玩家的奖金提示金额
+(5) Bonus tips: the amount of bonus tips given to players
 
-（6）激活时间min：弹窗在首页停留多少分钟后才会触发
+(6) Activation time min: How many minutes does the pop-up window stay on the homepage before it is triggered?
 
-（7）状态：弹窗的开关状态
+(7) Status: the switch status of the pop-up window

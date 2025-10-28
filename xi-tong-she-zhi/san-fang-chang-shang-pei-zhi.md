@@ -2,26 +2,26 @@
 icon: user-tie
 ---
 
-# 三方厂商配置
+# Third-party manufacturer configuration
 
-1\. 界面位置
+1\.Interface location
 
-* 左侧导航栏路径：系统设置 → 三方厂商配置。
-* 功能说明:设定商户的三方游戏厂商信息。
+* The path in the left navigation bar: System Settings → Third-party Vendor Configuration.
+* Function description: Set the merchant’s third-party game manufacturer information.
 
 <figure><img src="../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
-2\. 字段说明
+2\. Field description
 
-* 厂商类型：设定商户开启的游戏厂商。
-* 平台名称：取值omg后台生成商户名称。
-* App ID：取值omg后台生成APP\_ID。
-* App Key：取值omg后台生成商户密钥。
-* aes加密向量：ASE明文加密模式随机数，暂未使用。
-* 接口域名：游戏厂商专属接口域名。
-* 签名密钥：生成或验证签名的密钥，暂未使用。
-* IP白名单：设置IP白名单，支持输入多个IP，用英文逗号隔开。
-* RTP数量：游戏RTP返奖率，暂未使用。
-* 后台接口域名：游戏厂商专属后台接口域名。
-* 是否测试配置：功能废弃，暂未使用。
-* 是否默认配置：功能废弃，暂未使用。
+* Manufacturer type: Set the game manufacturer enabled by the merchant.
+* Platform name: The value omg generates the merchant name in the background.
+* App ID: The value omg generates APP\_ID in the background.
+* App Key: The value omg generates a merchant key in the background.
+* aes encryption vector: ASE plaintext encryption mode random number, not used yet.
+* Interface domain name: Game manufacturer’s exclusive interface domain name.
+* Signing key: The key used to generate or verify signatures. It is not used yet.
+* IP whitelist: Set the IP whitelist, support input of multiple IPs, separated by commas.
+* RTP quantity: game RTP reward rate, not used yet.
+* Backend interface domain name: Game manufacturer’s exclusive backend interface domain name.
+* Whether to test the configuration: The function is obsolete and is not used yet.
+* Whether to configure it by default: The function is obsolete and is not used yet.

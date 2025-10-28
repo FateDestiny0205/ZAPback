@@ -2,64 +2,64 @@
 icon: sack-dollar
 ---
 
-# 打码通用配置
+# Coding general configuration
 
-**1.功能说明**
+**1. Function description**
 
-汇总管理各个活动赠送彩金所需要的打码量及杀率信息
+Summarize and manage the coding volume and kill rate information required for bonus bonuses for each activity
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
-2.1渠道
+2.1 Channels
 
-可按国家、运营商进行筛选
+Filter by country and operator
 
-2.2 打码设置
+2.2 Coding settings
 
-可输入打码名称，或选择具体的打码分类、打码类型
+You can enter a coding name or select a specific coding category or coding type.
 
-2.3状态
+2.3 Status
 
-可筛选开关状态
+Filterable switch status
 
-**3.列表字段**
+**3.List fields**
 
-（1）运营商：打码配置的所属运营商
+(1) Operator: the operator to which the coding configuration belongs
 
-（2）打码名称：打码的名称
+(2) Coding name: the name of the coding
 
-（3）打码分类：打码活动或功能的大分类
+(3) Coding classification: a broad classification of coding activities or functions
 
-（4）打码类型：打码的具体活动或者功能
+(4) Coding type: specific activities or functions of coding
 
-（5）打码倍数：该活动或功能赠送彩金所需的打码倍数
+(5) Coding multiplier: the coding multiplier required to give bonuses for this activity or function
 
-（6）杀率：可以选择具体标签的用户，配置彩金杀率，比如杀率50%，即此活动获取的50%彩金都会受到用户管理模块—标签RTP调控值的调控
+(6) Kill rate: You can select users with specific tags and configure the bonus kill rate. For example, the kill rate is 50%, that is, 50% of the bonus obtained from this activity will be controlled by the user management module-tag RTP control value.
 
-（7）是否开启：当前是否为开启状态
+(7) Whether it is turned on: whether it is currently turned on
 
-（8）操作人：此打码配置的操作人
+(8) Operator: the operator of this coding configuration
 
-（9）操作时间：此打码配置的操作时间
+(9) Operation time: the operation time of this coding configuration
 
-（10）操作：编辑此打码配置，不能删除
+(10) Operation: Edit this coding configuration and cannot delete it.
 
-**4.新增打码通用配置**
+**4. Added general coding configuration**
 
-（1）运营商：打码配置的所属运营商
+(1) Operator: the operator to which the coding configuration belongs
 
-（2）打码名称：打码的名称
+(2) Coding name: the name of the coding
 
-（3）打码分类：打码活动或功能的大分类
+(3) Coding classification: a broad classification of coding activities or functions
 
-（4）打码类型：打码的具体活动或者功能
+(4) Coding type: specific activities or functions of coding
 
-（5）打码倍数：该活动或功能赠送彩金所需的打码倍数
+(5) Coding multiplier: the coding multiplier required to give bonuses for this activity or function
 
-（6）状态：当前是否为开启状态
+(6) Status: Is it currently on?
 
-（7）标签控制：如果开启则可以选择特定用户标签进行杀率调控
+(7) Tag control: If turned on, you can select specific user tags to control the killing rate.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (109).png" alt="" width="236"><figcaption></figcaption></figure></div>

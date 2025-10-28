@@ -2,20 +2,20 @@
 icon: rings-wedding
 ---
 
-# 提现配置
+# Withdrawal configuration
 
-1\. 界面位置
+1\.Interface location
 
-* 左侧导航栏路径：财务管理 → 提现管理 → 提现配置。
-* 功能说明:用于设置用户单笔最低提现金额和提现手续费。
+* The path in the left navigation bar: Financial Management → Withdrawal Management → Withdrawal Configuration.
+* Function description: Used to set the minimum single withdrawal amount and withdrawal fee for users.
 
 <figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
-* 最低提现金额：用户每次提现时，最低提现金额。
-* 提现手续费(%)：用户每次提现时，需支付的提现手续费百分比。
+* Minimum withdrawal amount: The minimum withdrawal amount each time the user withdraws cash.
+* Withdrawal fee (%): The percentage of withdrawal fee that users need to pay each time they withdraw cash.
 
-&#x20;
 
-前端界面展示:
+
+Front-end interface display:
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (207).png" alt="" width="170"><figcaption></figcaption></figure></div>

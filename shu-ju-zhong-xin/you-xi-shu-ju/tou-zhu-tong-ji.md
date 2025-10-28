@@ -2,25 +2,25 @@
 icon: table-rows
 ---
 
-# 投注统计
+# Betting statistics
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 游戏数据 → 投注统计。
-* 功能说明: 以游戏厂商、类别、品牌维度统计游戏投注数据。
+* The left navigation bar path: Data Center → Game Data → Betting Statistics.
+* Function description: Statistics of game betting data based on game manufacturer, category, and brand dimensions.
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 游戏厂商：玩家投注的游戏厂商名称。
-* 游戏类型：玩家投注的游戏类型。
-* 游戏ID：玩家投注的游戏ID。
-* 游戏名称：玩家投注的游戏名称。
-* 投注人数：该游戏投注总人数。
-* 总注单量：该游戏投注总次数。
-* 总有效投注：该游戏总有效投注金额。
-* 返奖金额：该游戏总返奖金额。
-* 占单量：游戏投注次数/选定条件下总投注次数。
-* 投注金额占比：单游戏投注金额/选定条件下总投注金额。
-* RTP：总返奖金额 / 总投注金额。
+* Game manufacturer: The name of the game manufacturer that the player bets on.
+* Game Type: The type of game the player bets on.
+* Game ID: The game ID that the player bets on.
+* Game Name: The name of the game that players bet on.
+* Number of bettors: The total number of bettors on this game.
+* Total bet amount: the total number of bets in this game.
+* Total effective bets: The total effective bet amount of this game.
+* Reward amount: The total reward amount of this game.
+* Order volume: number of game bets/total number of bets under selected conditions.
+* Proportion of betting amount: single game betting amount/total betting amount under selected conditions.
+* RTP: total reward amount / total bet amount.

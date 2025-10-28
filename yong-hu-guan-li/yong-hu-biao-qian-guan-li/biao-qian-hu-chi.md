@@ -2,50 +2,50 @@
 icon: user-slash
 ---
 
-# 标签互斥
+# Tags are mutually exclusive
 
-**1.功能说明**
+**1. Function description**
 
-配置了互斥条件的基础标签之间，在满足多个条件时取权重最高的基础标签，未被取的基础标签会被斥掉，进而间接影响包含这些基础标签的用户标签
+Between the basic tags configured with mutually exclusive conditions, when multiple conditions are met, the basic tag with the highest weight will be taken. The basic tags that are not taken will be excluded, which will indirectly affect the user tags containing these basic tags.
 
-**2.列表字段**
+**2.List fields**
 
-（1）ID：互斥配置的ID
+(1) ID: ID of mutually exclusive configuration
 
-（2）互斥标签：具体配置的会互斥的基础标签
+(2) Mutually exclusive tags: specifically configured basic tags that are mutually exclusive
 
-（3）备注：此标签互斥的备注
+(3) Remarks: Mutually exclusive remarks for this label
 
-（4）创建者：创建标签互斥的人
+(4) Creator: the person who created the mutually exclusive tags
 
-（5）创建时间：创建标签互斥的时间![](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
+(5) Creation time: the time when the tags are mutually exclusive![](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
 
-（6）更新时间：更新该互斥标签的时间
+(6) Update time: the time to update the mutually exclusive label
 
-（7）状态：互斥标签的开关状态
+(7) Status: switch status of mutually exclusive tags
 
-（8）    操作：编辑或者删除互斥标签
+(8) Operation: Edit or delete mutually exclusive tags
 
-a.基础标签：可以新增或者删除基础标签
+a. Basic tags: You can add or delete basic tags
 
-b.是否启用：是否启用该互斥标签
+b. Whether to enable: whether to enable the mutually exclusive label
 
-c.备注：互斥标签的备注
+c. Remarks: Remarks for mutually exclusive tags
 
-d.权重：多个互斥标签的权重，同时满足条件时，权重最高的生效，其他的被斥
+d. Weight: The weight of multiple mutually exclusive tags. When the conditions are met at the same time, the one with the highest weight will take effect and the others will be excluded.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (174).png" alt="" width="336"><figcaption></figcaption></figure></div>
 
-**3.新增互斥**
+**3. New mutual exclusion**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (175).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-（1）基础标签：可以新增或者删除基础标签
+(1) Basic tags: You can add or delete basic tags
 
-（2）是否启用：是否启用该互斥标签
+(2) Whether to enable: whether to enable the mutually exclusive label
 
-（3）备注：互斥标签的备注
+(3) Remarks: Remarks for mutually exclusive tags
 
-（4）权重：多个互斥标签的权重，同时满足条件时，权重最高的生效，其他的被斥
+(4) Weight: The weight of multiple mutually exclusive tags. When the conditions are met at the same time, the one with the highest weight will take effect, and the others will be excluded.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (176).png" alt="" width="336"><figcaption></figcaption></figure></div>

@@ -2,5 +2,5 @@
 icon: gear-complex
 ---
 
-# 系统设置
+# System settings
 

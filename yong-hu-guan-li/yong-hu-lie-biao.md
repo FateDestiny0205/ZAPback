@@ -2,528 +2,528 @@
 icon: file-user
 ---
 
-# 用户列表
+# User list
 
-**1.功能说明**
+**1. Function description**
 
-用户列表用于展示和管理平台玩家的基础信息与关键数据
+The user list is used to display and manage the basic information and key data of platform players.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
-2.1渠道
+2.1 Channels
 
-可按国家、运营商、渠道 进行筛选，便于分析不同市场与来源的差异。
+You can filter by country, operator, and channel to facilitate analysis of differences in different markets and sources.
 
-2.2用户信息
+2.2 User information
 
-可按用户ID、用户昵称、用户手机、VIP等级这几个用户信息来进行筛选，便于定位特定用户
+You can filter by user ID, user nickname, user mobile phone, and VIP level to facilitate locating specific users.
 
-2.3时间类型
+2.3 Time type
 
-可选择不限、按照注册时间、登录时间来实现自定义时间的筛选
+You can choose to filter by any time, based on registration time and login time.
 
-2.4注册信息
+2.4 Registration information
 
-可按注册IP、注册设备实现对注册信息的筛选
+Registration information can be filtered by registered IP and registered device.
 
-**3.列表字段**
+**3.List fields**
 
-（1）用户ID：用户ID
+(1) User ID: User ID
 
-（2）用户昵称：用户昵称
+(2) User nickname: User nickname
 
-（3）用户标签：用户标签，鼠标悬停可查看具体描述
+(3) User tag: User tag, hover the mouse to view the detailed description
 
-（4）用户手机：用户手机，即注册时输入的手机号
+(4) User mobile phone: User’s mobile phone number, which is the mobile phone number entered during registration.
 
-（5）VIP等级：用户VIP等级
+(5) VIP level: User VIP level
 
-（6）渠道来源：用户渠道来源
+(6) Channel source: User channel source
 
-（7）注册时间：账号注册时间
+(7) Registration time: account registration time
 
-（8）注册IP：账号注册IP
+(8) Register IP: Account registration IP
 
-（9）注册设备：账号注册设备
+(9) Registration equipment: Account registration equipment
 
-（10）登录时间：用户最近一次的登录时间
+(10) Login time: the user’s last login time
 
-（11）登录设备：用户最近一次的登录使用的设备
+(11) Login device: the device used by the user for the most recent login
 
-（12）首充时间：用户首充的时间
+(12) First recharge time: the time when the user first recharges
 
-（13）总流水金额：用户总投注金额
+(13) Total turnover amount: user’s total betting amount
 
-（14）总充值金额：用户总充值金额
+(14) Total recharge amount: total recharge amount of the user
 
-（15）总提现金额：用户总提现金额
+(15) Total withdrawal amount: total withdrawal amount of the user
 
-（16）真金余额：真金余额
+(16) Real gold balance: Real gold balance
 
-（17）彩金余额：彩金余额
+(17) Lottery balance: Lottery balance
 
-**4.用户详情**
+**4.User details**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (110).png" alt="" width="291"><figcaption></figcaption></figure></div>
 
-点击蓝色的用户ID，可进入用户详情页面
+Click the blue user ID to enter the user details page
 
 <figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
-**4.1上方面板数据及详情**
+**4.1 Upper panel data and details**
 
 <figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
-（1）用户ID：用户ID编号，可点击蓝色icon复制
+(1) User ID: User ID number, click the blue icon to copy
 
 <div align="left"><figure><img src="../.gitbook/assets/image (113).png" alt="" width="122"><figcaption></figcaption></figure></div>
 
-（2）VIP等级：用户当前VIP等级
+(2) VIP level: user’s current VIP level
 
-（3）账号状态：当前账号的状态，是否正常
+(3) Account status: the status of the current account, whether it is normal
 
-（4）打码量：当前所需打码量，可以点击新增按钮新增打码量
+(4) Coding volume: The current required coding volume, you can click the Add button to add a new coding volume
 
 <div align="left"><figure><img src="../.gitbook/assets/image (114).png" alt="" width="124"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../.gitbook/assets/image (115).png" alt="" width="333"><figcaption></figcaption></figure></div>
 
-（5）手机号：玩家注册时的手机号码，可以点击修改手机号和密码
+(5) Mobile phone number: The mobile phone number used by the player when registering. You can click to modify the mobile phone number and password.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (116).png" alt="" width="191"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../.gitbook/assets/image (117).png" alt="" width="313"><figcaption></figcaption></figure></div>
 
-（6）用户标签：用户身上的标签
+(6) User tag: tag on the user
 
 <div align="left"><figure><img src="../.gitbook/assets/image (118).png" alt="" width="103"><figcaption></figcaption></figure></div>
 
-（7）备注：给用户的备注，可以点击修改备注
+(7) Remarks: Remarks for users, you can click to modify the remarks
 
 <div align="left"><figure><img src="../.gitbook/assets/image (120).png" alt="" width="88"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../.gitbook/assets/image (121).png" alt="" width="306"><figcaption></figcaption></figure></div>
 
-**4.2下方面板数据及详情**
+**4.2 Lower panel data and details**
 
-**4.21用户详情**
+**4.21 User Details**
 
-（1）账户详情
+(1) Account details
 
 <figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
-a.姓名：用户的姓名
+a. Name: user’s name
 
-b.银行：用户的银行
+b. Bank: user’s bank
 
-c.卡号：用户的卡号
+c. Card number: user’s card number
 
-d.钱包总余额：总余额，真金余额+彩金余额
+d. Total wallet balance: total balance, real gold balance + bonus balance
 
-e.真金余额：真金余额，可点击明细查看来源
+e. Real gold balance: Real gold balance, you can click on the details to view the source
 
 <div align="left"><figure><img src="../.gitbook/assets/image (123).png" alt="" width="131"><figcaption></figcaption></figure></div>
 
-f.彩金余额：彩金余额，可点击明细查看来源
+f. Lottery balance: Lottery balance, you can click on the details to view the source
 
 <div align="left"><figure><img src="../.gitbook/assets/image (124).png" alt="" width="128"><figcaption></figcaption></figure></div>
 
-g.佣金余额：代理的佣金余额，可点击明细查看来源
+g. Commission balance: The agent’s commission balance. You can click on the details to view the source.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (125).png" alt="" width="131"><figcaption></figcaption></figure></div>
 
-h.今日输赢/历史输赢：今日的输赢金额/历史的输赢金额，输赢=返奖-投注
+h. Today’s win/loss/historical win/loss: today’s win/loss amount/historical win/loss amount, win/loss=reward-bet
 
-（2）存取款
+(2) Deposits and withdrawals
 
 <figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
-a.总充值：总充值金额和充值的笔数
+a. Total recharge: total recharge amount and number of recharges
 
 <div align="left"><figure><img src="../.gitbook/assets/image (127).png" alt="" width="99"><figcaption></figcaption></figure></div>
 
-b.总提差：用户总充值-总提现
+b. Total withdrawal difference: user’s total recharge – total withdrawal
 
-c.首充时间：用户的首充时间
+c. First recharge time: the user’s first recharge time
 
-d.总流水：用户到现在为止的总下注金额
+d. Total turnover: the total amount of bets made by the user so far
 
-e.总提现：显示总提现金额，其中包括已提现金额和提现中金额
+e. Total withdrawal: displays the total withdrawal amount, including the amount already withdrawn and the amount in progress
 
 <div align="left"><figure><img src="../.gitbook/assets/image (128).png" alt="" width="174"><figcaption></figcaption></figure></div>
 
-f.冻结资金：玩家的冻结资金，可以点击解冻按钮解冻，解冻需要输入解冻金额
+f. Frozen funds: Players’ frozen funds can be unfrozen by clicking the unfreeze button. To unfreeze, you need to enter the unfrozen amount.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (129).png" alt="" width="126"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../.gitbook/assets/image (130).png" alt="" width="306"><figcaption></figcaption></figure></div>
 
-（3）注册
+(3)Registration
 
 <figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
-a.注册IP：玩家的注册IP及同IP的用户数
+a.Registered IP: The player’s registered IP and the number of users with the same IP
 
 <div align="left"><figure><img src="../.gitbook/assets/image (132).png" alt="" width="138"><figcaption></figcaption></figure></div>
 
-b.注册域名：该玩家的注册域名
+b. Registered domain name: the player’s registered domain name
 
-c.注册时间：该玩家的注册时间
+c. Registration time: the player’s registration time
 
-d.注册设备：该玩家的注册设备
+d. Registered device: the player’s registered device
 
-e.注册设备ID：该玩家注册设备的ID
+e. Registered device ID: The ID of the player's registered device
 
-f.渠道来源：该玩家所属的渠道
+f. Channel source: the channel to which the player belongs
 
-g.注册浏览器标识：该玩家的注册浏览器标识
+g. Registered browser ID: The player’s registered browser ID
 
-（4）登录
+(4) Login
 
 <figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
-a.登录IP：玩家的最近登录IP及同IP的用户数
+a. Login IP: The player’s latest login IP and the number of users with the same IP
 
 <div align="left"><figure><img src="../.gitbook/assets/image (134).png" alt="" width="132"><figcaption></figcaption></figure></div>
 
-b.登录域名：该玩家的登录域名
+b. Login domain name: the player’s login domain name
 
-c.登录时间：该玩家的登录时间
+c. Login time: the player’s login time
 
-d.登录设备：该玩家的登录设备
+d. Login device: the player’s login device
 
-e.登录设备ID：该玩家登录设备的ID
+e. Login device ID: The ID of the player's login device
 
-f.登录活跃天数：该玩家的连续登录天数
+f. Login active days: the number of consecutive login days for the player
 
-**4.22风控数据**
+**4.22 Risk Control Data**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (136).png" alt="" width="332"><figcaption></figcaption></figure></div>
 
-（1）字段及定义
+(1) Fields and definitions
 
-a.登录设备
+a. Log in to the device
 
-当前用户数据：系统设置设置了1小时，就会查询这个玩家最后登录时间前面1小时登录过的设备数。
+Current user data: If the system settings are set to 1 hour, the number of devices that the player has logged in to one hour before the last login time will be queried.
 
-关联账户数据：系统设置设置了1小时，就会查询这个玩家最后登录时间前后1小时这个设备登录的账户数量。
+Associated account data: If the system settings are set to 1 hour, the number of accounts logged in from this device 1 hour before and after the player's last login time will be queried.
 
-b.登录IP
+b.Login IP
 
-当前用户数据：系统设置设置了1小时， 就会查询这个玩家最后登录时间前面1小时登录过的IP数。
+Current user data: If the system settings are set to 1 hour, the number of IPs logged in 1 hour before the last login time of this player will be queried.
 
-关联账户数据：系统设置设置了1小时，就会查询这个玩家最后登录时间前后1小时这个IP登录的账户数量。
+Associated account data: If the system settings are set to 1 hour, the number of accounts logged in from this IP 1 hour before and after the last login time of this player will be queried.
 
-c.注册设备
+c. Register device
 
-当前用户数据：系统设置设置了1小时， 就会查询这个玩家最后登录时间前面1小时注册过的设备数(永远为1)。
+Current user data: If the system settings are set to 1 hour, the number of devices registered 1 hour before the player's last login time will be queried (always 1).
 
-关联账户数据：系统设置设置了1小时，就会查询这个玩家最后登录时间前后1小时这个设备注册的账户数量。
+Associated account data: If the system settings are set to 1 hour, it will query the number of accounts registered on this device 1 hour before and after the player's last login time.
 
-d.注册IP
+d.Register IP
 
-当前用户数据：系统设置设置了1小时， 就会查询这个玩家最后登录时间前面1小时注册过的IP数(永远为1)。
+Current user data: If the system settings are set to 1 hour, the number of IPs registered 1 hour before the player's last login time will be queried (always 1).
 
-关联账户数据：系统设置设置了1小时，就会查询这个玩家最后登录时间前后1小时这个IP注册的账户数量。
+Associated account data: If the system settings are set for 1 hour, the number of accounts registered with this IP 1 hour before and after the last login time of this player will be queried.
 
-（2）当前用户数据详情
+(2) Current user data details
 
 <div align="left"><figure><img src="../.gitbook/assets/image (137).png" alt="" width="60"><figcaption></figcaption></figure></div>
 
-点击当前用户数据的数字，可查看详情
+Click on the number of the current user data to view details
 
-（3）关联账户数量
+(3) Number of associated accounts
 
 <div align="left"><figure><img src="../.gitbook/assets/image (138).png" alt="" width="60"><figcaption></figcaption></figure></div>
 
-点击关联账户的数字，可弹出关联账户详情页面
+Click on the number of the associated account to pop up the associated account details page
 
 <figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
-可输入用户ID来查询特定用户，并且可以多选列表中的用户进行批量封禁、批量解封、IP封禁操作
+User ID can be entered to query specific users, and users in the multi-select list can be batch banned, batch unblocked, and IP banned.
 
-a.用户ID：用户ID编号
+a.User ID: User ID number
 
-b.注册时间：用户的注册时间
+b. Registration time: user’s registration time
 
-c.注册IP：用户的注册IP
+c.Registered IP: User’s registered IP
 
-d.设备特征码：用户设备特征码
+d. Device feature code: User device feature code
 
-e.注册设备：用户的注册设备
+e. Registered device: user’s registered device
 
-f.登录时间：用户最近一次的登录时间
+f. Login time: the user’s last login time
 
-g.首充时间：用户首充的时间
+g. First recharge time: the time when the user first recharges
 
-h.总流水金额：用户总投注金额
+h. Total turnover amount: the total betting amount of the user
 
-i.总充值金额：用户总充值金额
+i.Total recharge amount: The total recharge amount of the user
 
-j.总提现金额：用户总提现金额
+j. Total withdrawal amount: The total withdrawal amount of the user
 
-k.是否封禁：用户是否处于封禁状态
+k. Whether to ban: whether the user is in a banned state
 
-l.操作：可执行封禁操作
+l. Operation: You can perform ban operations
 
-m.数据显示：总充值金额、总提现金额、总充提差（总充值-总提现）、总流水金额
+m. Data display: total recharge amount, total withdrawal amount, total deposit and withdrawal difference (total recharge - total withdrawal), total turnover amount
 
 <div align="left"><figure><img src="../.gitbook/assets/image (140).png" alt="" width="228"><figcaption></figcaption></figure></div>
 
-**4.23订单数据**
+**4.23 Order Data**
 
 <figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
-（1）功能说明
+(1) Function description
 
-可以查看订单详细数据，方便进行问题定位与追踪
+You can view order details to facilitate problem location and tracking.
 
-（2）筛选与查询功能
+(2) Filtering and query functions
 
-a.局号：可以输入具体局号查询该局信息
+a. Bureau number: You can enter a specific bureau number to query the bureau information.
 
-b.游戏类型：可以选择特定的类型，筛选所有特定类型在时间筛选内的全部数据
+b. Game type: You can select a specific type and filter all data of the specific type within the time filter.
 
-c.时间筛选：可以进行自定义时间段筛选
+c. Time filtering: Custom time period filtering can be performed
 
-（3）字段及定义
+(3) Fields and definitions
 
-a.局号：游戏的对局编号
+a. Game number: the game number
 
-b.游戏类型：游戏的所属类型
+b. Game type: the type of game
 
-c.品牌：游戏的品牌
+c. Brand: The brand of the game
 
-d.子游戏名称：游戏名称及游戏ID
+d. Sub-game name: game name and game ID
 
-e.接入厂商：游戏接入的厂商
+e. Access manufacturer: The manufacturer that the game is connected to
 
-f.类型：订单的类型
+f. Type: type of order
 
-g.投注金额：该局投注金额
+g. Betting amount: The amount of betting in the game
 
-h.派彩金额：该局返奖金额
+h. Lottery amount: the amount of the prize returned by the game
 
-i.赠送金额：该局赠送金额
+i. Gift amount: The bureau’s gift amount
 
-j.取消金额：该局取消金额
+j.Cancellation amount: The amount canceled by the bureau
 
-k.会员盈亏：该局返奖金额-该局投注金额，负数为红色，正数为绿色
+k. Member profit and loss: the reward amount of the game - the betting amount of the game, negative numbers are red, positive numbers are green
 
-l.订单状态：订单的状态
+l. Order status: the status of the order
 
-m.投注时间：该局投注时间
+m. Betting time: Betting time of the game
 
-（4）统计数据
+(4) Statistical data
 
 <div align="left"><figure><img src="../.gitbook/assets/image (142).png" alt="" width="288"><figcaption></figcaption></figure></div>
 
-根据筛选结果会在上方显示一个汇总数据
+Based on the filter results, a summary data will be displayed above
 
-a.参与次数：筛选结果的次数之和
+a. Number of participations: the sum of the number of filtered results
 
-b.流水金额：筛选结果的投注金额之和
+b. Turnover amount: the sum of the betting amounts of the filtered results
 
-c.游戏盈亏：筛选结果的返奖金额-投注金额
+c. Game profit and loss: Reward amount of screening results - betting amount
 
-**4.24提款记录**
+**4.24 Withdrawal Record**
 
 <figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
-（1）功能说明
+(1) Function description
 
-可以查看提现订单详细数据，方便进行问题定位与追踪
+You can view the detailed data of withdrawal orders to facilitate problem location and tracking.
 
-（2）筛选与查询功能
+(2) Filtering and query functions
 
-a.提现订单号：可以输入具体提现订单号查询该笔提现信息
+a. Withdrawal order number: You can enter the specific withdrawal order number to query the withdrawal information
 
-b.时间类型：可以选择时间的类型，是按照全部时间列出所有提现信息，还是按照完成时间还是申请时间进行时间范围的筛选
+b. Time type: You can choose the type of time, whether to list all withdrawal information according to all times, or to filter the time range according to completion time or application time.
 
-（3）字段及定义
+(3) Fields and definitions
 
-a.序号：筛选结果的序号
+a. Serial number: the sequence number of the filtered results
 
-b.锁定：是否是锁定状态，如果锁定后，其他人无法对该条进行操作
+b. Locked: Whether it is locked. If locked, others cannot operate on the item.
 
-c.订单号：提现订单号
+c. Order number: withdrawal order number
 
-d.提现真金金额：提现订单的提现金额
+d. Real money withdrawal amount: the withdrawal amount of the withdrawal order
 
-e.提现信息-姓名：提现时输入的姓名
+e. Withdrawal information-name: the name entered when withdrawing money
 
-f.提现信息-内容：提现时输入的内容
+f. Withdrawal information-content: the content entered when withdrawing
 
-g.提现信息-CPF：提现时输入的CPF
+g. Withdrawal information-CPF: CPF entered when withdrawing money
 
-h.首次提现：是否是首次提现
+h. First withdrawal: whether it is the first withdrawal
 
-i.手续费：当前提现订单的手续费
+i. Handling fee: the current handling fee for withdrawing orders
 
-j.实际到账：提现成功后实际给用户到账的金额
+j. Actual arrival: the amount actually deposited to the user’s account after the withdrawal is successful.
 
-k.操作：对该笔提现进行操作
+k. Operation: perform operations on the withdrawal
 
-（4）统计数据
+(4) Statistical data
 
 <div align="left"><figure><img src="../.gitbook/assets/image (144).png" alt="" width="291"><figcaption></figcaption></figure></div>
 
-根据筛选结果会在上方显示一个汇总数据
+Based on the filter results, a summary data will be displayed above
 
-a.成功提现次数：成功提现的次数
+a. Number of successful withdrawals: the number of successful withdrawals
 
-b.成功提现真金：成功提现的真金金额
+b. Successful withdrawal of real gold: the amount of real gold successfully withdrawn
 
-c.成功提现彩金：成功提现的彩金金额
+c. Successful withdrawal of bonus: The amount of bonus successfully withdrawn
 
-**4.25充值记录**
+**4.25 recharge record**
 
 <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
-（1）功能说明
+(1) Function description
 
-可以查看充值订单详细数据，方便进行问题定位与追踪
+You can view the detailed data of recharge orders to facilitate problem location and tracking.
 
-（2）筛选与查询功能
+(2) Filtering and query functions
 
-a.订单号：可以输入具体充值订单号查询该笔充值信息
+a. Order number: You can enter the specific recharge order number to query the recharge information.
 
-b.订单状态：充值订单的订单状态选择
+b. Order status: Order status selection for recharge orders
 
-c.通道单号：通道单号筛选
+c. Channel number: Filter by channel number
 
-d.支付通道：支付通道筛选
+d. Payment channel: payment channel screening
 
-e.时间选择：选择筛选的时间范围，空就是全部时间范围
+e. Time selection: Select the time range for filtering, empty means the entire time range
 
-（3）字段及定义
+(3) Fields and definitions
 
-a.序号：筛选结果的序号
+a. Serial number: the sequence number of the filtered results
 
-b.订单号：用户充值订单号
+b. Order number: User’s recharge order number
 
-c.通道单号：通道单号
+c. Channel number: Channel number
 
-d.支付金额：该笔充值的支付金额
+d. Payment amount: the payment amount of the recharge
 
-e.获得金额：该笔充值可获得金额
+e. Obtained amount: The amount that can be obtained from this recharge
 
-f.订单状态：充值订单的状态
+f. Order status: status of recharge order
 
-g.支付通道：调取的支付通道
+g. Payment channel: the retrieved payment channel
 
-h.是否首充：该订单是否首充
+h. Whether it is the first charge: whether the order is the first charge
 
-i.手续费：当前提现订单的手续费
+i. Handling fee: the current handling fee for withdrawing orders
 
-j.时间：分为创建时间和支付时间
+j. Time: divided into creation time and payment time
 
-k.操作：对该笔充值进行操作
+k. Operation: perform operations on the recharge
 
-l.赠送金额：当前充值订单赠送的金额
+l. Gift amount: The amount given for the current recharge order
 
-（4）统计数据
+(4) Statistical data
 
 <div align="left"><figure><img src="../.gitbook/assets/image (146).png" alt="" width="198"><figcaption></figcaption></figure></div>
 
-根据筛选结果会在上方显示一个汇总数据
+Based on the filter results, a summary data will be displayed above
 
-a.成功充值次数：成功充值的次数
+a. Number of successful recharges: Number of successful recharges
 
-b.成功充值金额：成功充值的金额
+b. Successful recharge amount: The amount of successful recharge
 
-**4.26资产变动**
+**4.26 Asset changes**
 
 <figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
-（1）功能说明
+(1) Function description
 
-可以查看用户的资产变动数据，方便进行问题定位与追踪
+User’s asset change data can be viewed to facilitate problem location and tracking.
 
-（2）筛选与查询功能
+(2) Filtering and query functions
 
-a.变动原因：资产变动原因，可多选
+a. Reason for change: Reason for asset change, multiple choices available
 
-b.时间选择：选择筛选的时间范围，空就是全部时间范围
+b. Time selection: Select the time range for filtering. Empty means the entire time range.
 
-（3）字段及定义
+(3) Fields and definitions
 
-a.ID：资产变动ID
+a.ID: Asset change ID
 
-b.变更方式：资产变动方式
+b. Change method: Asset change method
 
-c.变动原因：资产变动原因
+c. Reasons for changes: Reasons for changes in assets
 
-d.状态：资产变动状态
+d. Status: asset change status
 
-e.变动前余额：变动前的总额、真金、彩金、打码量
+e. Balance before change: total amount, real money, bonus, and coding amount before change
 
 <div align="left"><figure><img src="../.gitbook/assets/image (148).png" alt="" width="75"><figcaption></figcaption></figure></div>
 
-f.变动金额：变动的总额、真金、彩金、打码量具体值，红色为负数，绿色为正数
+f. Change amount: the specific value of the total change, real gold, bonus, and coding amount. Red is a negative number, green is a positive number.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (149).png" alt="" width="85"><figcaption></figcaption></figure></div>
 
-g.变动后金额：变动后的总额、真金、彩金、打码量
+g. Amount after change: total amount after change, real gold, bonus, and coding amount
 
 <div align="left"><figure><img src="../.gitbook/assets/image (150).png" alt="" width="82"><figcaption></figcaption></figure></div>
 
-h.变动时间：资产变动的时间
+h. Change time: the time when the asset changes
 
-（4）统计数据
+(4) Statistical data
 
 <div align="left"><figure><img src="../.gitbook/assets/image (151).png" alt="" width="350"><figcaption></figcaption></figure></div>
 
-根据筛选结果会在上方显示一个汇总数据
+Based on the filter results, a summary data will be displayed above
 
-a.总赢：总赢的金额
+a. Total win: total win amount
 
-b.总输：总输的金额
+b. Total loss: total amount of loss
 
-c.总输赢：总赢+总输的金额
+c. Total wins and losses: total wins + total losses
 
-b.失败金额：资产变动失败的金额
+b. Failure amount: The amount of failed asset changes
 
-**4.27投注记录**
+**4.27 betting record**
 
 <figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
-（1）功能说明
+(1) Function description
 
-可以查看投注详细数据，方便进行问题定位与追踪
+Detailed betting data can be viewed to facilitate problem location and tracking.
 
-（2）筛选与查询功能
+(2) Filtering and query functions
 
-a.游戏类型：可以筛选具体游戏类型
+a. Game type: You can filter specific game types
 
-b.厂商：可以筛选游戏厂商
+b.Manufacturer: You can filter game manufacturers
 
-c.品牌：可以筛选游戏品牌
+c. Brand: You can filter game brands
 
-d.时间选择：选择筛选的时间范围，空就是全部时间范围
+d. Time selection: Select the time range for filtering, empty means the entire time range
 
-（3）字段及定义
+(3) Fields and definitions
 
-a.序号：筛选结果的序号
+a. Serial number: the sequence number of the filtered results
 
-b.游戏类型：游戏类型
+b. Game type: Game type
 
-c.厂商：游戏厂商
+c.Manufacturer: game manufacturer
 
-d.游戏品牌：游戏品牌
+d. Game brand: Game brand
 
-e.游戏名称：游戏的名称
+e. Game name: the name of the game
 
-f.总注单量：该游戏的总注单量
+f. Total bet amount: the total bet amount of the game
 
-g.返奖金额：该游戏的返奖金额
+g. Reward amount: the reward amount of the game
 
-h.用户输赢：返奖金额-投注金额
+h. User’s win or loss: Rebate amount – Bet amount
 
-i.占单量：该游戏注单量/总注单量
+i. Order volume: The amount of bets in this game / the total amount of bets
 
-j.投注金额占比：单游戏投注金额/选定条件下总投注金额
+j. Proportion of betting amount: single game betting amount/total betting amount under selected conditions
 
-k.RTP：返奖金额/投注金额
+k.RTP: Rebate amount/bet amount
 
-l.总投注金额：该游戏总投注金额
+l. Total bet amount: the total bet amount of the game

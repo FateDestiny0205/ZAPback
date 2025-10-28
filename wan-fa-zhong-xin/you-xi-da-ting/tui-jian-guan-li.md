@@ -2,44 +2,44 @@
 icon: award
 ---
 
-# 推荐管理
+# Recommendation management
 
-**1.功能说明**
+**1. Function description**
 
-可以管理网页上的推荐游戏
+Can manage recommended games on the web page
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-可按运营商来筛选
+Filter by operator
 
-2.2游戏ID
+2.2 Game ID
 
-可按具体的游戏ID来搜索
+You can search by specific game ID
 
-2.3状态
+2.3 Status
 
-可按全部、上架、下架来筛选
+You can filter by all, on-shelf, and off-shelf
 
-**3.列表字段**
+**3.List fields**
 
-（1）游戏ID：游戏的ID
+(1) Game ID: The ID of the game
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）封面图：推荐管理封面图
+(3) Cover image: Recommended management cover image
 
-（4）游戏名称：游戏的名称
+(4) Game name: the name of the game
 
-（5）固定热门排序：数值越大排序越靠前
+(5) Fixed popular ranking: the larger the value, the higher the ranking.
 
-（6）是否热门：开启或者关闭状态
+(6) Whether it is popular: open or closed status
 
-（7）操作：可以编辑该推荐游戏、也能从推荐列表中删除
+(7) Operation: You can edit the recommended game or delete it from the recommended list
 
-**4.新增推荐**
+**4.New recommendations**
 
-如果想新增游戏到推荐游戏，需要在玩法中心-游戏大厅-游戏列表中把对应的游戏的热门开关打开，就会自动变为推荐
+If you want to add a game to the recommended games, you need to turn on the popular switch of the corresponding game in the Game Center-Game Hall-Game List, and it will automatically become a recommended game.

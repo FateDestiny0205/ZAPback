@@ -2,74 +2,74 @@
 icon: braille
 ---
 
-# 弹窗配置
+# Pop-up window configuration
 
-**1.功能说明**
+**1. Function description**
 
-配置弹窗的开启关闭，跳转和样式等基础信息
+Configure basic information such as opening and closing of the pop-up window, jump and style
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-选择某个运营商的弹窗配置进行查询
+Select a certain operator's pop-up window configuration to query
 
-2.2跳转类型
+2.2Jump type
 
-是跳转活动、弹窗还是页面
+Is it a jump activity, pop-up window or page?
 
-2.3弹窗状态
+2.3 Pop-up window status
 
-弹窗是开启还是关闭，还是全部
+Whether the pop-up window is open or closed, or all
 
-2.4弹窗标题
+2.4 Pop-up window title
 
-可以通过标题文字进行查询
+You can search by title text
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：弹窗ID
+(1) ID: pop-up window ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）弹窗标题：弹窗的标题
+(3) Pop-up window title: the title of the pop-up window
 
-（4）跳转类型：点击弹窗跳转的页面
+(4) Jump type: Click the pop-up window to jump to the page
 
-（5）弹窗封面图片：如果配置了弹窗封面图片，就会在这里显示缩略图，可点击预览
+(5) Pop-up cover image: If a pop-up cover image is configured, a thumbnail will be displayed here, and you can click to preview it.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (84).png" alt="" width="85"><figcaption></figcaption></figure></div>
 
-（6）排序：可点击上下箭头手动拖动整行上下位置进行排序
+(6) Sorting: You can click the up and down arrows to manually drag the upper and lower positions of the entire row to sort.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (85).png" alt="" width="62"><figcaption></figcaption></figure></div>
 
-（7）状态：当前是开启还是关闭状态
+(7) Status: Is it currently on or off?
 
-（8）操作：编辑和删除此弹窗
+(8) Operation: Edit and delete this pop-up window
 
-**4.新增弹窗**
+**4. New pop-up window**
 
-（1）运营商：弹窗归属的运营商
+(1) Operator: the operator to which the pop-up window belongs
 
-（2）弹窗标题：弹窗的标题
+(2) Pop-up window title: the title of the pop-up window
 
-（3）跳转类型：弹窗跳转活动、弹窗还是页面，需要在下拉列表中选择跳转位置
+(3) Jump type: pop-up window jump activity, pop-up window or page, you need to select the jump location in the drop-down list
 
 <figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
-（4）封面图片：选择弹窗的封面图片
+(4) Cover image: Select the cover image of the pop-up window
 
-（5）弹窗状态：弹窗的开启、关闭状态
+(5) Pop-up window status: the open and closed status of the pop-up window
 
-（6）排序：弹窗配置后台页面的排序，值越大越靠前
+(6) Sorting: The pop-up window configures the sorting of the background page. The larger the value, the higher it is.
 
-**5.保留当前顺序**
+**5.Keep current order**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (87).png" alt="" width="98"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (88).png" alt="" width="91"><figcaption></figcaption></figure></div>
 
-手动修改过排序后，点击此按钮可按照当前顺序保留
+After manually modifying the sorting, click this button to keep it in the current order.

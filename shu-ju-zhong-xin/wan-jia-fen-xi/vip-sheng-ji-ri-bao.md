@@ -2,27 +2,27 @@
 icon: crown
 ---
 
-# VIP升级日报
+# VIP upgrade daily report
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 玩家分析 → VIP升级日报。
-* 功能说明:查看商户各个推广商以及渠道的用户VIP统计数据。
+* The path in the left navigation bar: Data Center → Player Analysis → VIP Upgrade Daily.
+* Function description: View the user VIP statistics of various promoters and channels of the merchant.
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* VIP等级：VIP等级。
-* 总人数：当前VIP等级总人数。
-* 当日升级人数：当天升级到该VIP等级的人数。
-* 昨日升级人数：昨天升级到该VIP等级的人数。
-* 近7日升级人数：近七日升级到该VIP等级的人数。
-* 当月降级人数：当月降级到该VIP等级的人数。
-* 总投注金额：该VIP等级玩家总投注金额。
-* 充值金额：该VIP等级玩家总充值金额。
-* 提款金额：该VIP等级玩家总提款金额。
-* 充提差：该VIP等级玩家总充值金额 - 该VIP等级玩家总提款金额。
-* 彩金金额：该VIP等级玩家获得的总彩金金额。
-* 佣金金额：该VIP等级玩家获得的总佣金金额。
-* RTP：该VIP等级玩家，(总返奖金额 / 总投注金额) \* 100%。
+* VIP level: VIP level.
+* Total number of people: The total number of people at the current VIP level.
+* Number of people upgraded on the day: the number of people upgraded to the VIP level on the day.
+* Number of people who upgraded yesterday: The number of people who upgraded to this VIP level yesterday.
+* Number of people who have upgraded in the past seven days: The number of people who have upgraded to this VIP level in the past seven days.
+* Number of people who were downgraded in the current month: the number of people who were downgraded to this VIP level in the current month.
+* Total bet amount: The total bet amount of players of this VIP level.
+* Recharge amount: The total recharge amount of players at this VIP level.
+* Withdrawal amount: The total withdrawal amount of players at this VIP level.
+* Deposit and withdrawal difference: the total deposit amount of players of this VIP level - the total withdrawal amount of players of this VIP level.
+* Bonus amount: The total bonus amount received by players of this VIP level.
+* Commission amount: The total commission amount obtained by players of this VIP level.
+* RTP: For this VIP level player, (total reward amount / total betting amount) \* 100%.

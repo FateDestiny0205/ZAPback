@@ -2,50 +2,50 @@
 icon: toilet-paper-slash
 ---
 
-# 注册IP限制
+# Register IP restrictions
 
-**1.功能说明**
+**1. Function description**
 
-可以查看不同运营商的IP汇总的注册人数，可以批量封禁出问题的注册IP
+You can view the number of registered IPs from different operators, and block problematic registered IPs in batches.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-可按国家、运营商进行筛选查询
+You can filter and query by country and operator
 
-2.2 IP
+2.2IP
 
-可按IP进行查询，精准定位某个IP
+You can query by IP to accurately locate an IP
 
-2.3封禁状态
+2.3 Ban status
 
-可按封禁状态进行查询，查看被封禁/未被封禁的IP
+You can query by blocking status to view blocked/unblocked IPs
 
-**3.列表字段**
+**3.List fields**
 
-（1）序号：筛选结果的序号，按照注册人数由多到少进行的排序
+(1) Serial number: The serial number of the screening results, sorted from the most to the least number of registered people
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）IP：注册IP
+(3) IP: Register IP
 
-（4）地区：IP所属地区
+(4) Region: the region to which the IP belongs
 
-（5）注册人数：IP的注册总人数
+(5) Number of registrants: Total number of registrants of IP
 
-（6）封禁时间：IP的封禁时间
+(6) Banning time: IP banning time
 
-（7）解封时间：IP的解封时间
+(7) Unblocking time: IP unblocking time
 
-（8）封禁原因：封禁时填写的原因
+(8) Reason for ban: the reason filled in when banning
 
-（9）解封原因：解封时填写的原因
+(9) Reason for unblocking: the reason filled in when unblocking
 
-（10）目前是否封禁：目前是否处于封禁状态
+(10) Whether it is currently banned: whether it is currently in a banned state
 
-（11）操作人：执行封禁/解封操作的操作人
+(11) Operator: the operator who performs the blocking/unblocking operation
 
-（12）操作：封禁/解封操作，需要输入原因
+(12) Operation: ban/unblock operation, the reason needs to be entered

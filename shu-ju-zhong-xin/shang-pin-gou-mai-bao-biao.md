@@ -2,21 +2,21 @@
 icon: circle-three-quarters
 ---
 
-# 商品购买报表
+# Product purchase report
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 商品购买报表。
-* 功能说明: 统计商户购买商品相关数据。
+* The left navigation bar path: Data Center → Product Purchase Report.
+* Function description: Statistics of data related to merchandise purchased by merchants.
 
 <figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 商品ID:系统自定义的商品ID
-* 商品面值:充值商品的价格
-* 绑定活动类型:玩家充值绑定活动类型
-* 首充购买次数:玩家首充购买此商品次数
-* 首充购买次数占比: 玩家首充购买此商品次数 / 购买商品总次数
-* 复充购买次数: 玩家复充购买此商品次数
-* 复充购买次数占比: 玩家复充购买此商品次数 / 购买商品总次数
+* Product ID: Product ID customized by the system
+* Product face value: the price of the recharged product
+* Binding activity type: player recharge binding activity type
+* Number of first-time recharge purchases: The number of times the player purchased this product with first-time recharge
+* Proportion of first-time recharge purchases: Number of times players purchased this product with first recharge / Total number of product purchases
+* Number of recharge purchases: The number of times the player recharges to purchase this product
+* Proportion of recharge purchases: Number of times players recharge to purchase this product / Total number of purchases

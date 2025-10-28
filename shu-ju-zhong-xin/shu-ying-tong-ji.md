@@ -2,42 +2,42 @@
 icon: hands-clapping
 ---
 
-# 输赢统计
+# Win and loss statistics
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 输赢统计。
-* 功能说明: 统计商户的玩家输赢数据。
+* The left navigation bar path: Data Center → Win and Loss Statistics.
+* Function description: Statistics of the merchant’s players’ winning and losing data.
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 注册人数:新注册人数
-* 注册充值人数: 新注册并充值人数
-* 总RTP:总返奖 / 总投注
-* 赢玩家人数:(玩家游戏派彩金额 - 玩家游戏投注金额) > 0 的人数
-* 赢率: 赢玩家人数 / 玩家人数
-* 赢钱当天提现人数: 赢玩家人数并当天提现的人数
-* 赢钱当天提现玩家百分比: 赢钱当天提现人数 / 赢玩家人数
-* 赢钱玩家总局数: 赢玩家人数投注总局数
-* 赢钱玩家平均局数: 赢玩家人数 / 赢玩家人数投注总局数
-* 赢钱玩家次日登录(人): 今日赢玩家人数，在次日登录的人数
-* 赢钱玩家次日登录比: 今日赢玩家人数，在次日登录的人数 / 今日赢玩家人数
-* 赢钱玩家次日充值(人): 今日赢玩家人数，在次日充值的人数
-* 赢钱玩家次日充值比: 今日赢玩家人数，在次日充值的人数 / 今日赢玩家人数
-* 赢钱玩家次日下注(人): 今日赢玩家人数，在次日下注的人数
-* 赢钱玩家次日下注比: 今日赢玩家人数，在次日下注的人数 / 今日赢玩家人数
-* 赢玩家RTP:赢玩家总返奖 / 赢玩家总投注
-* 绑定活动类型:玩家充值绑定活动类型
-* 输玩家人数:(玩家游戏派彩金额 - 玩家游戏投注金额) < 0 的人数
-* 输率: 输玩家人数 / 玩家人数
-* 输钱玩家总局数: 输玩家人数投注总局数
-* 输钱玩家平均局数: 输玩家人数 / 输玩家人数投注总局数
-* 输钱玩家次日登录(人): 今日输玩家人数，在次日登录的人数
-* 输钱玩家次日登录比: 今日输玩家人数，在次日登录的人数 / 今日输玩家人数
-* 输钱玩家次日充值(人): 今日输玩家人数，在次日充值的人数
-* 输钱玩家次日充值比: 今日输玩家人数，在次日充值的人数 / 今日输玩家人数
-* 输钱玩家次日下注(人): 今日输玩家人数，在次日下注的人数
-* 输钱玩家次日下注比: 今日输玩家人数，在次日下注的人数 / 今日输玩家人数
-* 输玩家RTP: 输玩家总返奖 / 输玩家总投注
+* Number of registrants: number of new registrants
+* Number of registered recharges: Number of newly registered and recharged people
+* Total RTP: Total Rewards / Total Betting
+* Number of winning players: (player’s game payout amount – player’s game betting amount) > 0
+* Win rate: number of winning players / number of players
+* The number of players who won and cashed out on the same day: the number of players who won and cashed out on the same day
+* The percentage of players who withdraw money on the day they win: the number of people who withdraw money on the day they win / the number of players who win
+* Total number of winning players: Number of winning players and total number of betting games
+* Average number of games won by winning players: number of winning players / number of winning players total number of games bet
+* Players who won money logged in the next day (person): The number of players who won today and the number of people who logged in the next day
+* Ratio of players who won money and logged in the next day: Number of players who won today, number of people who logged in the next day / Number of players who won today
+* Players who won money will recharge the next day (person): The number of players who won today and the number of players who will recharge the next day.
+* Ratio of players who won money and recharge the next day: Number of players who won today, number of people who recharged money the next day / Number of players who won today
+* The number of players who won money and placed bets the next day (person): the number of players who won today and the number of people who placed bets the next day
+* Ratio of winning players’ bets the next day: number of players who won today, number of players who placed bets the next day / number of players who won today
+* Winning Player RTP: Winning Player Total Rebate / Winning Player Total Bet
+* Binding activity type: player recharge binding activity type
+* Number of losing players: (player’s game payout amount – player’s game betting amount) < 0
+* Loss rate: Number of losing players / Number of players
+* The total number of games lost by players: The total number of games lost by the number of players betting.
+* Average number of games lost by players: Number of losing players / Number of losing players Total number of games bet
+* Players who lost money will log in the next day (people): The number of players who lost money today and the number of people who logged in the next day
+* The ratio of players who lost money to log in the next day: the number of players who lost today, the number of people who logged in the next day / the number of players who lost today
+* The number of players who lost money and recharged the next day (person): the number of players who lost money today and the number of people who recharged the next day
+* The recharge ratio of losing players on the next day: the number of players who lost today, the number of people who recharged on the next day / the number of players who lost today
+* The number of players who lost money and placed bets the next day (person): The number of players who lost money today and the number of people who placed bets the next day
+* Ratio of losing players’ bets the next day: number of players who lost today, number of people who bet on the next day / number of players who lost today
+* Losing player RTP: Losing player’s total reward / Losing player’s total bet

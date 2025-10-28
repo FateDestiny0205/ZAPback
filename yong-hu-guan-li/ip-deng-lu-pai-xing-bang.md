@@ -2,52 +2,52 @@
 icon: mobile-signal
 ---
 
-# IP登录排行榜
+# IP login ranking list
 
-**1.功能说明**
+**1. Function description**
 
-展示各运营商下的 IP 登录情况，帮助运营和风控人员快速识别异常登录行为。系统会统计每个 IP 的地区、登录人数及关联账号数，并提供封禁管理功能。支持查看封禁与解封的时间、原因，以及当前封禁状态，方便追踪和处理风险。
+Displays the IP login status of each operator to help operations and risk control personnel quickly identify abnormal login behavior. The system will count the region, number of logins, and number of associated accounts for each IP, and provide ban management functions. Supports viewing the time and reason for bans and unblocks, as well as the current ban status, to facilitate tracking and handling risks.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
-2.1渠道
+2.1 Channels
 
-可按国家、运营商、渠道 进行筛选，便于分析不同市场与来源的差异。
+You can filter by country, operator, and channel to facilitate analysis of differences in different markets and sources.
 
-2.2 IP
+2.2IP
 
-可输入IP，便于定位特定IP
+IP can be entered to facilitate locating specific IP
 
-2.3是否封禁
+2.3 Whether to ban
 
-可选择全部、是、否来实现对封禁状态的筛选
+You can select All, Yes, or No to filter the ban status
 
-**3.列表字段**
+**3.List fields**
 
-（1）序号：即按照条件筛选后的排行榜名次
+(1) Serial number: that is, the ranking list after filtering according to conditions
 
-（2）运营商：用户归属的运营商
+(2) Operator: the operator to which the user belongs
 
-（3）IP：登录、注册IP统计的具体IP
+(3) IP: specific IP for login and registration IP statistics
 
-（4）地区：IP所属地区，内网有专门的标识
+(4) Region: The region to which the IP belongs. The intranet has a special logo.
 
-（5）登录人数：该IP的登录总人数
+(5) Number of people logged in: the total number of people logged in to this IP
 
-（6）关联账号数：使用该IP注册的总人数
+(6) Number of associated accounts: the total number of people registered using this IP
 
-（7）封禁时间：IP的封禁时间
+(7) Banning time: IP banning time
 
-（8）解封时间：IP的解封时间
+(8) Unblocking time: IP unblocking time
 
-（9）封禁原因：封禁的具体原因
+(9) Reason for ban: specific reason for ban
 
-（10）解封原因：解封的具体原因
+(10) Reason for unblocking: specific reason for unblocking
 
-（11）目前是否封禁：目前是否处于封禁状态，是/否
+(11) Whether it is currently banned: whether it is currently banned, yes/no
 
-（12）操作人：封禁/解封的操作人
+(12) Operator: the operator of the ban/unblock
 
-（13）操作： 可封禁或者解封，需要输入原因
+(13) Operation: Can be blocked or unblocked, need to enter the reason

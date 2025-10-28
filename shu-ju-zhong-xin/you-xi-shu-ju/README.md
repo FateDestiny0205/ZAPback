@@ -2,5 +2,5 @@
 icon: slot-machine
 ---
 
-# 游戏数据
+# game data
 

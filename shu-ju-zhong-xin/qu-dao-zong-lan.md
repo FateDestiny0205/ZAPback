@@ -2,47 +2,47 @@
 icon: cart-shopping-fast
 ---
 
-# 渠道总览
+# Channel overview
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 渠道总览。
-* 功能说明:用于查看商户各推广商和推广渠道统计数据。
+* The left navigation bar path: Data Center → Channel Overview.
+* Function description: Used to view the statistical data of each promoter and promotion channel of the merchant.
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 新增：今日注册的没有上级的用户。
-* 裂变：今日注册的有上级的用户。
-* 老用户：今日之前注册的用户。
-* 注册数:今日新增用户人数。
-* 活跃玩家:今日登录的玩家。
-* 首充人数:今天第一次充值所有用户。
-* 首充首笔总金额:所有首充用户第一笔充值总金额。
-* 平均首充首笔金额:首充首笔总金额 / 首充人数。
-* 首充充值总金额:所有首充用户累计充值金额。
-* 充值人数:今日充值人数。
-* 充值金额:今日充值金额。
-* 提现人数:今日提现人数。
-* 提现金额:今日提现人数。
-* 充提差:充值金额 - 提现金额。
-* ROAS:用户累积总充值金额 / 累积总费用。
-* ROI:充提差 / 广告投放金额。
-* 盈余率:充提差 / 充值金额。
-* 提现占比:充提差 / 充值金额。
-* 注充率:今日首充人数 / 注册数（只有今日注册用户才算今日首充）。
-* 复充率:当日复充用户 / 当日首充用户数量。
-* 有效投注:本金加彩金总投注。
-* 总彩金:全体用户获得彩金总金额(除佣金金额以外)。
-* 未充值用户领取总彩金:未充值用户获得彩金总金额(除佣金金额以外)。
-* 已充值用户领取总彩金:已充值用户获得彩金总金额(除佣金金额以外)。
-* 代理总佣金:代理返佣+代理返现+宝箱。
-* 代理佣金:代理返佣+代理返现。
-* 代理宝箱:代理返佣+代理返现。
-* 真金输赢:真金下注 - 真金返奖。
-* 彩金输赢:彩金下注 - 彩金返奖。
-* 游戏输赢:本金输赢 + 彩金输赢。
-* 打码倍数:有效投注 / 充值金额。
-* ARPPU:充值金额 / 充值人数。
-* RTP:返奖金额 / 有效投注。
+* Newly added: Users without superiors registered today.
+* Fission: There are superior users registered today.
+* Old users: users who registered before today.
+* Number of registrations: Number of new users today.
+* Active players: Players logged in today.
+* Number of first-time rechargers: All users who recharge for the first time today.
+* The total amount of the first recharge: the total amount of the first recharge of all first-time recharge users.
+* Average first deposit amount: total first deposit amount / number of first deposits.
+* Total first-time recharge amount: The cumulative recharge amount of all first-time recharge users.
+* Number of people recharging: The number of people recharging today.
+* Recharge amount: Today’s recharge amount.
+* Number of withdrawals: The number of withdrawals today.
+* Withdrawal amount: The number of people withdrawing money today.
+* Difference between deposit and withdrawal: deposit amount - withdrawal amount.
+* ROAS: The total accumulated recharge amount of the user / the total accumulated fees.
+* ROI: difference between deposits and withdrawals/advertising amount.
+* Profit rate: difference between deposit and withdrawal / deposit amount.
+* Withdrawal ratio: difference between deposits and withdrawals / deposit amount.
+* Deposit and recharge rate: the number of people making their first deposit today / the number of registrations (only registered users today are counted as their first deposit today).
+* Recharge rate: users who recharge on the day / number of users who recharge for the first time on the day.
+* Valid bets: Total bets of principal plus bonus.
+* Total bonus: The total amount of bonus received by all users (excluding commission amount).
+* The total bonus received by users who have not recharged: The total amount of bonus received by users who have not recharged (excluding the commission amount).
+* The total bonus received by recharged users: The total amount of bonus received by recharged users (excluding commission amount).
+* Total agent commission: agent rebate + agent cash rebate + treasure chest.
+* Agency commission: agency rebate + agency cash rebate.
+* Agency Treasure Box: Agency Commission Rebate + Agency Cash Rebate.
+* Real Money Win or Lose: Real Money Betting – Real Money Rebates.
+* Bonus win or loss: Bonus bet - bonus rebate.
+* Game win or loss: principal win or loss + bonus win or loss.
+* Code multiplier: effective bet/recharge amount.
+* ARPPU: recharge amount/number of rechargers.
+* RTP: Rebate amount / valid bets.

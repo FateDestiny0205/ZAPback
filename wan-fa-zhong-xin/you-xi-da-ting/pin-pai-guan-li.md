@@ -2,82 +2,82 @@
 icon: router
 ---
 
-# 品牌管理
+# Brand management
 
-**1.功能说明**
+**1. Function description**
 
-管理运营商的游戏品牌的基础信息
+Manage the basic information of the operator’s game brand
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-可按运营商来筛选
+Filter by operator
 
-2.2游戏信息
+2.2 Game information
 
-可按游戏品牌、是否上架来筛选
+You can filter by game brand and availability
 
-**3.列表字段**
+**3.List fields**
 
-（1）运营商：归属运营商
+(1) Operator: Belonging to the operator
 
-（2）游戏品牌：游戏品牌类型
+(2) Game brand: Game brand type
 
-（3）品牌名称：游戏品牌名称
+(3) Brand name: game brand name
 
-（4）品牌LOGO：游戏品牌的LOGO
+(4) Brand LOGO: The LOGO of the game brand
 
-（5）打码解锁：配置的话游戏会上锁，打码量满足条件才会解锁
+(5) Coding to unlock: If configured, the game will be locked and will be unlocked only when the amount of coding meets the conditions.
 
-（6）充值解锁：配置的话游戏会上锁，充值金额满足条件才会解锁
+(6) Recharge to unlock: If configured, the game will be locked and will be unlocked only when the recharge amount meets the conditions.
 
-（7）游戏/三方游戏ID：游戏名称/第三方游戏ID
+(7) Game/Three-party game ID: Game name/Third-party game ID
 
-（8）接入厂商：游戏接入厂商
+(8) Access manufacturer: game access manufacturer
 
-（9）游戏品牌：游戏的品牌
+(9) Game brand: the brand of the game
 
-（10）游戏类型：游戏的类型
+(10) Game type: type of game
 
-（11）是否隐藏：游戏的显示状态
+(11) Whether to hide: the display status of the game
 
-（12）品牌固定排序：游戏的显示状态
+(12) Brand fixed sorting: display status of the game
 
-（13）下注打码：下注的打码量
+(13) Bet coding: the amount of betting code
 
-（14）激活所需打码：配置的话游戏会上锁，打码量满足条件才会解锁
+(14) Activation of required coding: If configured, the game will be locked and will not be unlocked until the amount of coding meets the conditions.
 
-（15）充值解锁：配置的话游戏会上锁，充值金额满足条件才会解锁
+(15) Recharge to unlock: If configured, the game will be locked and will be unlocked only when the recharge amount meets the conditions.
 
-（16）是否上架：品牌上下架开关
+(16) Whether to put it on the shelf: brand on and off the shelf switch
 
-（17）排序：品牌排序，排序越高越靠前
+(17) Sorting: Brand sorting, the higher the sorting, the higher it is.
 
-（18）操作：编辑或者删除游戏
+(18) Operation: Edit or delete the game
 
-**4.按钮操作**
+**4.Button operation**
 
-（1）新增品牌：在列表中选中游戏后，批量进行上架
+(1) Add a new brand: After selecting the game in the list, add it to the shelves in batches
 
-a.运营商：归属运营商
+a. Operator: Belonging to the operator
 
-b.游戏品牌：游戏的品牌
+b. Game brand: the brand of the game
 
-c.名称品牌：品牌名称
+c. Name brand: brand name
 
-d.打码解锁：配置的话游戏会上锁，打码量满足条件才会解锁
+d. Coding to unlock: If configured, the game will be locked and will be unlocked only when the amount of coding meets the conditions.
 
-e.充值解锁：配置的话游戏会上锁，充值金额满足条件才会解锁
+e. Recharge to unlock: If configured, the game will be locked and will be unlocked only when the recharge amount meets the conditions.
 
-f.品牌LOGO：上传品牌的LOGO
+f. Brand LOGO: Upload the brand’s LOGO
 
-g.排序：品牌的排序，数字越高越靠前
+g. Sorting: Sorting of brands, the higher the number, the higher the number.
 
-h.是否上架：是否上架该品牌
+h. Whether to put the brand on the shelves: whether to put the brand on the shelves
 
-（2）批量上架：在列表中选中品牌后，批量进行下架
+(2) Batch listing: After selecting the brand in the list, remove it from the shelf in batches
 
-（3）批量下架：在列表中选中品牌后，批量开启维护
+(3) Batch removal: After selecting the brand in the list, start maintenance in batches

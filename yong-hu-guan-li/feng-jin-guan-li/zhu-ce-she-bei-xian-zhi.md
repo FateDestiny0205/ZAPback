@@ -2,48 +2,48 @@
 icon: phone-slash
 ---
 
-# 注册设备限制
+# Register device restrictions
 
-**1.功能说明**
+**1. Function description**
 
-可以查看不同运营商的设备ID汇总的注册人数，可以批量封禁出问题的设备ID
+You can view the number of registered users of device IDs from different operators, and block problematic device IDs in batches.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-可按国家、运营商进行筛选查询
+You can filter and query by country and operator
 
-2.2设备ID
+2.2 Device ID
 
-可按设备ID进行查询，精准定位某个设备ID
+Query by device ID to accurately locate a device ID
 
-2.3封禁状态
+2.3 Ban status
 
-可按封禁状态进行查询，查看被封禁/未被封禁的设备ID
+You can query by ban status to view the device IDs that are blocked/unbanned.
 
-**3.列表字段**
+**3.List fields**
 
-（1）序号：筛选结果的序号，按照注册人数由多到少进行的排序
+(1) Serial number: The serial number of the screening results, sorted from the most to the least number of registered people
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）设备ID：注册设备ID
+(3) Device ID: Register device ID
 
-（4）注册人数：该设备的注册总人数
+(4) Number of registered people: the total number of registered people for the device
 
-（6）封禁时间：设备ID的封禁时间
+(6)Block time: the ban time of the device ID
 
-（7）解封时间：设备ID的解封时间
+(7) Unblocking time: Unblocking time of device ID
 
-（8）封禁原因：封禁时填写的原因
+(8) Reason for ban: the reason filled in when banning
 
-（9）解封原因：解封时填写的原因
+(9) Reason for unblocking: the reason filled in when unblocking
 
-（10）目前是否封禁：目前是否处于封禁状态
+(10) Whether it is currently banned: whether it is currently in a banned state
 
-（11）操作人：执行封禁/解封操作的操作人
+(11) Operator: the operator who performs the blocking/unblocking operation
 
-（12）操作：封禁/解封操作，需要输入原因
+(12) Operation: ban/unblock operation, the reason needs to be entered

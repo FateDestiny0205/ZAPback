@@ -2,48 +2,48 @@
 icon: file-user
 ---
 
-# 账号管理
+# Account management
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：账号管理 → 账号管理。
-* 功能说明:用于创建、编辑和删除商户后台登录账号。
+* The path in the left navigation bar: Account Management → Account Management.
+* Function description: Used to create, edit and delete merchant backend login accounts.
 
 <figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
-**2. 筛选条件**
+**2. Filter conditions**
 
-* 运营商：选择需要查询的运营商。
-* 账号类型：支持根据运营商户账号类型查询，类型分类:主账号、子账号。
-* 账户类型：支持根据运营商户账户类型查询，类型分类:管理员、运营商、渠道。
-* 账号：支持根据运营商账号查询。
-* 创建时间：支持按照运营商账号创建时间查询。
-* 重置：清空所有筛选条件。
-* 查询：根据筛选条件检索数据。
+* Operator: Select the operator to be queried.
+* Account type: Supports query based on operator account type, type classification: main account, sub-account.
+* Account type: Supports query based on operator account type, type classification: administrator, operator, channel.
+* Account: Supports query based on operator account.
+* Creation time: Supports querying based on operator account creation time.
+* Reset: Clear all filters.
+* Query: Retrieve data based on filter conditions.
 
-**3. 表格字段说明**
+**3. Form field description**
 
-* 运营商：账户所属运营商。
-* 账号昵称：账户昵称。
-* 账号：运营商户账号。
-* 角色名称：账号角色权限。
-* 账户类型：运营商户账号类型。
-* 状态：运营商账号状态。
-* 锁定状态：开启锁定时，其他账号无法操作该账号信息。
-* 创建时间：商户创建时间。
-* 登录时间：商户最后一次登录时间。
-* 操作->编辑：点击后打开编辑运营商账号面板。
-* 操作->删除：点击后打开二次确认删除面板，点击删除按钮则删除此条数据。
+* Operator: The operator to which the account belongs.
+* Account Nickname: Account nickname.
+* Account: Operator account.
+* Role name: Account role permissions.
+* Account type: Operator account type.
+* Status: Operator account status.
+* Locked status: When the lock is turned on, other accounts cannot operate the account information.
+* Creation time: Merchant creation time.
+* Login time: The last login time of the merchant.
+* Operation->Edit: Click to open the edit operator account panel.
+* Operation->Delete: Click to open the secondary confirmation deletion panel. Click the delete button to delete this piece of data.
 
-**4. 新增/编辑运营商账号面板功能说明**
+**4. Add/edit operator account panel function description**
 
-* 账号类型：设定账号类型。
-* 运营商：设定账号操作的运营商，账号类型管理员时可多选，账号类型为运营商时，只能单选。
-* 账号：设置后台登录账号。
-* 账号昵称：设置后台账号昵称。
-* 邮箱：账号关联邮箱账号，可删除。
-* 密码：设置后台登录密码。
-* 角色：设定账号权限角色。
-* 选择推广商：账户类型为运营商时，设置该后台账号的推广商。取值来源: 渠道管理 / 渠道账号
-* 谷歌验证码：开启后，登录商户后台需要输入谷歌验证码。
-* 登录IP白名单：设置后台登录的IP白名单，支持输入多个IP，用英文逗号隔开。
+* Account type: Set the account type.
+* Operator: Set the operator for account operation. When the account type is administrator, you can select multiple options. When the account type is operator, you can only select a single option.
+* Account: Set the background login account.
+* Account nickname: Set the background account nickname.
+* Email: The email account associated with the account can be deleted.
+* Password: Set the background login password.
+* Role: Set account permission roles.
+* Select a promoter: When the account type is an operator, set the promoter of the backend account. Value source: channel management/channel account
+* Google verification code: After turning it on, you need to enter the Google verification code to log in to the merchant backend.
+* Login IP whitelist: Set the IP whitelist for background login. Multiple IPs can be entered, separated by commas.

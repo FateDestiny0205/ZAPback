@@ -2,128 +2,128 @@
 icon: ranking-star
 ---
 
-# 玩家排行榜
+# Player rankings
 
-**1.功能说明**
+**1. Function description**
 
-展示各运营商和渠道下所有玩家的排行情况，默认按照总充值金额由高到低进行排序，可按照需求点击上下箭头来切换排序规则，同时可直接在页面上对用户进行点控。
+The rankings of all players under each operator and channel are displayed. By default, they are sorted from high to low according to the total recharge amount. You can click the up and down arrows to switch the sorting rules according to your needs. At the same time, you can click and control users directly on the page.
 
-具体可排序的字段包括总充值、总输赢、总提现、总充提差、总投注、宝箱奖励、总邀请人数、提现充值比、账户余额、历史RTP、历史充值金额、历史提现金额、历史充提差、历史投注金额、历史有效投注金额、历史输赢金额、历史邀请人数。
+Specific fields that can be sorted include total deposits, total wins and losses, total withdrawals, total deposit-withdrawal differences, total bets, treasure chest rewards, total number of invitees, withdrawal-to-recharge ratio, account balance, historical RTP, historical recharge amount, historical withdrawal amount, historical deposit-withdrawal difference, historical bet amount, historical effective bet amount, historical win-loss amount, and historical number of invitees.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
-2.1渠道
+2.1 Channels
 
-可按国家、运营商、渠道 进行筛选，便于分析不同市场与来源的差异。
+You can filter by country, operator, and channel to facilitate analysis of differences in different markets and sources.
 
-2.2用户信息
+2.2 User information
 
-可选择用户在线状态（全部、在线、离线）或者输入用户ID来定位特定用户
+You can select user online status (all, online, offline) or enter user ID to target specific users
 
-2.3时间类型
+2.3 Time type
 
-可实现自定义时间的筛选
+Custom time filtering possible
 
-**3.列表字段**
+**3.List fields**
 
-（1）运营商：用户归属的运营商
+(1) Operator: the operator to which the user belongs
 
-（2）渠道：用户注册的渠道
+(2) Channel: channel for user registration
 
-（3）用户ID：用户ID编号
+(3) User ID: User ID number
 
-（4）用户标签：用户的全部标签
+(4) User tags: all tags of the user
 
-（5）总充值：时间筛选期间内总充值金额
+(5) Total recharge: total recharge amount during the time screening period
 
-（6）总输赢：时间筛选期间内总输赢金额，正数表示赢钱，负数表示输钱
+(6) Total wins and losses: The total amount of wins and losses during the time screening period. Positive numbers represent winnings, and negative numbers represent losing money.
 
-（7）总提现：时间筛选期间内总提现金额
+(7) Total cash withdrawal: total cash withdrawal amount during the time screening period
 
-（8）总充提差：时间搜索范围内，充值金额-提现金额，负数为红色，正数为绿色
+(8) Total deposit and withdrawal difference: Within the time search range, the deposit amount - the withdrawal amount, negative numbers are red, positive numbers are green
 
-（9）总充提笔数：时间搜索范围内，充值次数+提现次数总和，点击后打开该用户的总充提笔数详情面板，可根据数据统计类型全部、充值、提现进行筛选
+(9) Total number of deposits and withdrawals: within the time search range, the sum of the number of recharges + the number of withdrawals. Click to open the user's total number of deposits and withdrawals details panel, which can be filtered according to data statistics type All, recharge, and withdrawal
 
 <figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
-a.序号：排序序号
+a. Serial number: sorting sequence number
 
-b.用户ID：用户的ID编号，点击可打开用户详情面板
+b. User ID: The user’s ID number. Click to open the user details panel.
 
-c.充值开始时间：打开充值页面的时间
+c. Recharge start time: the time when the recharge page is opened
 
-d.充值支付时间：支付完成的时间
+d. Recharge payment time: time when payment is completed
 
-e.充值金额：充值的金额
+e. Recharge amount: the amount of recharge
 
-f.玩家余额：本次充值成功到下次充值成功之间的时间段内，玩家最大余额
+f. Player balance: The maximum balance of the player during the period between the successful recharge and the successful next recharge.
 
-g.投注额：本次充值成功到下次充值成功之间的时间段内，玩家投注额
+g. Betting amount: The player’s betting amount during the period between the successful recharge of this time and the successful recharge of the next time.
 
-h.提现开始时间：提现开始的时间
+h. Withdrawal start time: the time when withdrawal starts
 
-i.提现完成时间：提现完成的时间
+i. Withdrawal completion time: The time when the withdrawal is completed
 
-j提现金额：提现的金额
+jWithdrawal amount: The amount of withdrawal
 
-（10）总投注：时间筛选期间内总投注金额，包含彩金和真金投注
+(10) Total bets: Total bets during the time screening period, including bonuses and real money bets
 
-（11）总真金投注：时间筛选期间内总真金投注金额，不包含彩金投注
+(11) Total real money bets: Total real money bets during the time screening period, excluding bonus bets
 
-（12）宝箱奖励：从邀请宝箱活动获取的总奖励
+(12) Treasure Chest Rewards: Total rewards obtained from invitation treasure chest activities
 
-（13）总邀请人数： 时间筛选期间内用户的总邀请人数
+(13) Total number of invitees: Total number of invitees by users during the time screening period
 
-（14）提现充值比： 提现金额/充值金额的比值
+(14) Withdrawal and recharge ratio: Ratio of withdrawal amount/recharge amount
 
-（15）账户余额： 当前账户余额
+(15) Account balance: Current account balance
 
-（16）历史RTP： 即总返奖金额/总投注金额
+(16) Historical RTP: Total reward amount/total betting amount
 
-（17）在线状态： 当前是在线还是离线状态
+(17) Online status: Is it currently online or offline?
 
-（18）历史总充值金额： 即总充值金额
+(18) Historical total recharge amount: That is, the total recharge amount
 
-（19）历史充提差： 即总充值金额-总提现金额
+(19) Historical deposit and withdrawal difference: that is, total deposit amount - total withdrawal amount
 
-（20）历史投注金额： 即总投注金额
+(20) Historical betting amount: that is, the total betting amount
 
-（21）历史有效投注金额：即总打码量
+(21) Historical effective betting amount: that is, the total code amount
 
-（22）历史输赢金额：即总输赢金额，正数表示赢钱，负数表示输钱
+(22) Historical winning and losing amount: that is, the total winning and losing amount, a positive number indicates winning, and a negative number indicates losing money.
 
-（23）历史邀请人数：即总邀请人数
+(23) Number of historical invitations: that is, the total number of invitations
 
-**4.用户操作**
+**4.User operation**
 
 <figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
-（1）新增点控：对选中的用户进行点控
+(1) Added point control: click control on the selected user
 
-a.点控用户ID：需要增加点控的用户ID，可单/多选
+a. Point control user ID: The user ID of point control needs to be added. Single/multiple selections are available.
 
-b.点控类型：养客、杀客、k哥数值养客、k哥数值杀客，k哥数值养客和杀客属于不同的数值体系
+b. Point control type: Keeping customers, killing customers, Brother K’s numerical value keeps customers, and Brother K’s numerical value kills customers. Brother K’s numerical value of keeping customers and killing customers belong to different numerical systems.
 
-c.养/杀客值：选择养客/杀客后，需要输入的值，此值为开始养/杀客模式后 用户投注-返奖 的值。达到设定值后停止
+c. Customer Raising/Killing Value: The value that needs to be entered after selecting Customer Raising/Killing Customers. This value is the value of user bet-reward after starting the Customer Raising/Killing mode. Stop after reaching the set value
 
-（2）点控列表：所选运营商当前的点控列表，可输入玩家ID查询特定玩家，也可批量选中玩家解除点控
+(2) Point control list: The current point control list of the selected operator. You can enter the player ID to query specific players, or you can select players in batches to release point control.
 
 <figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
-a.用户ID：用户ID编号
+a.User ID: User ID number
 
-b.点控内容：点控的内容，是养客还是杀客，金额是多少
+b. Click control content: The content of the click control, whether it is to attract customers or kill customers, and what is the amount?
 
-c.开始时携带金额：点控开始时用户的余额
+c. Amount carried at the beginning: the user’s balance at the beginning of the point control
 
-d.当前盈利：点控开始到目前的盈利状态，正数为红色，负数为绿色，且会显示正负号
+d. Current profit: From the beginning of the point control to the current profit status, the positive number is red, the negative number is green, and the plus and minus signs will be displayed.
 
-e.创建人：点控的创建人
+e. Creator: the creator of Point Control
 
-f.创建时间：点控的创建时间
+f. Creation time: creation time of point control
 
-g.操作：可以手动解除点控
+g. Operation: You can manually release point control
 
-（3）用户筛选：可以点击切换是看全部用户还是只看高危用户
+(3) User filtering: You can click to switch whether to view all users or only high-risk users.

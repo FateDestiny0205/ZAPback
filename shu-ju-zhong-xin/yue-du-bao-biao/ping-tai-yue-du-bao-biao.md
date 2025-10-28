@@ -2,23 +2,23 @@
 icon: box-circle-check
 ---
 
-# 平台月度报表
+# Platform monthly report
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 月度报表 → 平台月度报表。
-* 功能说明:以月为单位，查看商户整体的充提数据。
+* The left navigation bar path: Data Center → Monthly Report → Platform Monthly Report.
+* Function description: View the overall deposit and withdrawal data of the merchant on a monthly basis.
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 平台盈利：平台投注金额-返奖金额。
-* 充提差：充值金额-提现金额。
-* 现金直充：人工充值金额。
-* 订单充值: 通道订单充值金额。
-* 订单提现: 成功提现的金额。
-* 提现手续费: 提现扣除的手续费。
-* PWA下载人数: PWA下载人数。
-* PWA费用: PWA单用户费用 \* PWA下载人数。
-* GGR费用: 真金输赢 \* 真金比例 + 彩金输赢 \* 彩金比例。
+* Platform profit: platform betting amount - reward amount.
+* Difference between deposit and withdrawal: deposit amount - withdrawal amount.
+* Direct cash recharge: Manual recharge amount.
+* Order recharge: channel order recharge amount.
+* Order Withdrawal: The amount successfully withdrawn.
+* Withdrawal fee: The fee deducted for withdrawal.
+* Number of PWA downloaders: Number of PWA downloaders.
+* PWA cost: PWA single user cost \* Number of PWA downloaders.
+* GGR fee: real money win or loss \* real money ratio + bonus win or loss \* bonus ratio.

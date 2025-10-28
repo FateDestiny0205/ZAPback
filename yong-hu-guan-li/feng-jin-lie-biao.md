@@ -2,86 +2,86 @@
 icon: ban
 ---
 
-# 封禁列表
+# Ban list
 
-**1.功能说明**
+**1. Function description**
 
-可查看用户的封禁状态与基本信息，并可以执行封禁和解封操作
+You can view the user's blocking status and basic information, and perform blocking and unblocking operations.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
-2.1渠道
+2.1 Channels
 
-可按国家、运营商、渠道 进行筛选，便于分析不同市场与来源的差异。
+You can filter by country, operator, and channel to facilitate analysis of differences in different markets and sources.
 
-2.2用户信息
+2.2 User information
 
-可按用户ID、用户手机这几个用户信息来进行筛选，便于定位特定用户
+You can filter by user ID, user mobile phone and other user information to facilitate locating specific users.
 
-2.3是否封禁
+2.3 Whether to ban
 
-可选择全部、是、否来实现对封禁状态的筛选
+You can select All, Yes, or No to filter the ban status
 
-2.4时间类型
+2.4 Time type
 
-选择全部则为全时间筛选
+Select All to filter all time
 
-选择注册时间则可按照注册时间进行筛选
+Select the registration time to filter based on the registration time.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (156).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-选择封禁时间则可按照封禁时间进行筛选
+Select the ban time to filter based on the ban time.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (157).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**3.批量操作**
+**3.Batch operation**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (158).png" alt="" width="156"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../.gitbook/assets/image (159).png" alt="" width="211"><figcaption></figcaption></figure></div>
 
-批量选中需要操作的用户，然后可执行批量封禁/解封操作
+Select the users who need to be operated in batches, and then perform batch ban/unblock operations.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (160).png" alt="" width="200"><figcaption></figcaption></figure></div>
 
-点击最上方按钮可全选中本页全部用户
+Click the top button to select all users on this page
 
-**4.列表字段**
+**4.List fields**
 
-（1）运营商：用户归属的运营商
+(1) Operator: the operator to which the user belongs
 
-（2）用户ID：用户ID，点击可进入用户详情页面，也可点击复制标识复制
+(2) User ID: User ID, click to enter the user details page, or click to copy the logo to copy
 
-（3）用户昵称：用户昵称
+(3) User nickname: User nickname
 
-（4）用户手机：用户手机，即注册时输入的手机号
+(4) User mobile phone: User’s mobile phone number, which is the mobile phone number entered during registration.
 
-（5）渠道：用户归属渠道
+(5) Channel: User attribution channel
 
-（6）上级ID：用户上级的ID，点击可进入用户详情页面，也可点击复制标识复制
+(6) Superior ID: The ID of the user's superior. Click to enter the user details page, or click the copy logo to copy.
 
-（7）真金余额：真金的余额
+(7) Real gold balance: the balance of real gold
 
-（8）彩金余额：彩金的余额
+(8) Lottery balance: the balance of the lottery
 
-（9）状态：正常或封禁状态
+(9) Status: normal or banned status
 
-（10）注册IP：用户注册时的IP
+(10) Registration IP: IP when user registers
 
-（11）注册时间：用户注册的时间
+(11) Registration time: the time when the user registered
 
-（12）登录时间：用户登录的时间
+(12) Login time: the time the user logged in
 
-（13）封禁时间： 封禁的时间
+(13) Banning time: Banning time
 
-（14）封禁原因： 封禁的备注
+(14) Reason for ban: Remarks on ban
 
-（15）解封时间： 解封的时间
+(15) Unblocking time: Unblocking time
 
-（16）解封原因：解封的备注
+(16) Reason for unblocking: Remarks for unblocking
 
-（17）操作人：封禁/解封操作人的名称
+(17) Operator: Name of the ban/unblock operator
 
-（18）操作：正常玩家可以封禁，封禁玩家可以解封，需要输入备注
+(18) Operation: Normal players can be banned, and banned players can be unblocked. Notes need to be entered.

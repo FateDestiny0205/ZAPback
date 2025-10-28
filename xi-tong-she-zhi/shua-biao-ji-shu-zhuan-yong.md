@@ -2,10 +2,10 @@
 icon: gear-complex-code
 ---
 
-# 刷表(技术专用)
+# Brush the table (technical only)
 
-1.左侧导航栏路径：系统设置 → 刷表
+1.Left navigation bar path: System Settings → Refresh Table
 
-2.功能说明:用于同步banner、游戏、活动等相关配置。
+2. Function description: Used to synchronize related configurations such as banners, games, activities, etc.
 
 <figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>

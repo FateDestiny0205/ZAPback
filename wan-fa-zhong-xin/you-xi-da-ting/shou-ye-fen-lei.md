@@ -2,40 +2,40 @@
 icon: bars-sort
 ---
 
-# 首页分类
+# Home Category
 
-**1.功能说明**
+**1. Function description**
 
-运营商的首页分类类型，必须配置
+The operator's homepage classification type, which must be configured
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-可按运营商来筛选
+Filter by operator
 
-2.2分类名称
+2.2 Category name
 
-首页分类的名称
+Home page category name
 
-2.3状态
+2.3 Status
 
-可按全部、上架、下架来筛选
+You can filter by all, on-shelf, and off-shelf
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：首页分类ID
+(1) ID: Home page category ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）分类名称：首页分类的名称
+(3) Category name: the name of the homepage category
 
-（4）排序：后台排序
+(4) Sorting: background sorting
 
-（5）状态：首页分类开关状态
+(5) Status: homepage classification switch status
 
-（6）操作：编辑分类信息
+(6) Operation: Edit classification information
 
 ![](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)

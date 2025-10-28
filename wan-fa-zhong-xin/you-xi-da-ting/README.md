@@ -2,5 +2,5 @@
 icon: gamepad-modern
 ---
 
-# 游戏大厅
+# Game lobby
 

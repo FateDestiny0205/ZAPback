@@ -2,22 +2,22 @@
 icon: garage
 ---
 
-# 数据概况
+# Data overview
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 数据概况。
-* 功能说明:以月为单位，查看商户各个渠道的投注和盈利数据。
+* The left navigation bar path: Data Center → Data Overview.
+* Function description: View the merchant's betting and profit data from various channels on a monthly basis.
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 活跃用户数：登录总用户。
-* 新增用户数：新增注册用户数量。
-* 充值用户数：充值用户数量。
-* 下单用户数: 参与玩法，产生消费的玩家数量。
-* 订单数量: 下订单总数量。
-* 充值金额: 充值总金额。
-* ARPU: 用户充值总额/活跃用户。
-* ARPPU: 用户充值总额/充值人数。
+* Number of active users: Total logged in users.
+* Number of new users: the number of new registered users.
+* Number of recharge users: Number of recharge users.
+* Number of users who placed orders: The number of players who participated in the gameplay and made purchases.
+* Order Quantity: The total quantity of the order placed.
+* Recharge amount: The total recharge amount.
+* ARPU: Total user recharge/active users.
+* ARPPU: Total user recharge/number of recharges.

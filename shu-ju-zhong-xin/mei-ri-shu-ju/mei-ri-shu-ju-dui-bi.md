@@ -2,29 +2,29 @@
 icon: window-frame
 ---
 
-# 每日数据对比
+# Daily data comparison
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 每日数据 → 每日数据对比。
-* 功能说明: 查看商户每半个小时的统计数据，以及该时间段近一周的数据对比。
+* The left navigation bar path: Data Center → Daily Data → Daily Data Comparison.
+* Function description: View the merchant's statistical data every half hour, and compare the data for the past week during this time period.
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 访问IP：该时间段内IP访问数量。
-* 登录用户：该时间段内登录用户数量 。
-* 新增用户：该时间段内新注册用户数量。
-* 投注用户: 该时间段内投注的人数。
-* 首充用户: 该时间段内首充人数。
-* 充值用户: 该时间段内充值人数。
-* 首充金额: 该时间段内首充金额。
-* 平台盈利：该时间段内投注金额-返奖金额。
-* 订单充值：该时间段内通道订单充值金额 。
-* 订单提现：该时间段内通道订单提现金额。
-* 充提差: 该时间段内充值金额-提现金额。
-* 彩金赠送: 该时间段内赠送彩金金额。
-* 佣金赠送: 该时间段内赠送佣金金额。
-* 首充下注留存: 该时间段内完成首充且随后有下注的用户，在下个统计周期继续下注的用户。
-* 首充付费留存: 该时间段内完成首充的用户，在下个统计周期继续充值的用户。
+* Visited IP: The number of IP visits during this time period.
+* Login users: Number of logged in users during this time period.
+* New users: Number of newly registered users during this time period.
+* Betting users: The number of people betting during this time period.
+* First-time deposit users: The number of first-time deposit users during this period.
+* Recharge users: The number of people who recharged during this time period.
+* First deposit amount: The first deposit amount within this time period.
+* Platform profit: the amount of bets during this period - the amount of rebate.
+* Order recharge: The channel order recharge amount within this time period.
+* Order withdrawal: The amount of channel order withdrawal during this time period.
+* Difference between deposit and withdrawal: deposit amount - withdrawal amount during this time period.
+* Bonus bonus: The bonus amount will be given during this time period.
+* Commission bonus: The commission amount will be given away during this time period.
+* First deposit and bet retention: Users who completed their first deposit within this time period and subsequently placed bets, and users who continue to place bets in the next statistical period.
+* First recharge paid retention: users who complete their first recharge within this time period and those who continue to recharge in the next statistical period.

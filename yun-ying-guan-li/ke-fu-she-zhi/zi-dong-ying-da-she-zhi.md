@@ -2,52 +2,52 @@
 icon: robot
 ---
 
-# 自动应答设置
+# Auto answer settings
 
-**1.功能说明**
+**1. Function description**
 
-可以设置客服自动应答
+Customer service can be set up to answer automatically
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
-可按归属运营商筛选
+Filter by carrier
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：自动应答ID
+(1) ID: Automatic response ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）问题：问题描述
+(3) Problem: Problem description
 
-（4）自动应答：自动回复的内容
+(4) Automatic response: content of automatic reply
 
-（5）创建时间：该条应答的创建时间
+(5) Creation time: the creation time of the response
 
-（6）排序ID：自动应答的排序，排序越大越靠前
+(6) Sorting ID: the sorting of automatic responses. The larger the sorting, the higher it is.
 
-（7）是否热门：是否热门问题
+(7) Is it popular: Is it a popular question?
 
-（8）语言：问答语种
+(8) Language: Question and answer language
 
-（9）状态：问题开启或关闭
+(9) Status: Question is open or closed
 
-（10）操作：编辑或者删除问答
+(10) Operation: Edit or delete Q&A
 
-**4.新增自动应答**
+**4. Added automatic answer**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (105).png" alt="" width="96"><figcaption></figcaption></figure></div>
 
-（1）运营商：归属运营商
+(1) Operator: Belonging to the operator
 
-（2）问题：问题描述
+(2) Problem: Problem description
 
-（3）自动应答：自动回复的内容
+(3) Automatic response: content of automatic reply
 
-（4）排序ID：自动应答的排序，排序越大越靠前
+(4) Sorting ID: the sorting of automatic responses, the larger the sorting, the higher it is.
 
-（5）语种：问答语种
+(5) Language: Question and answer language
 
-（6）是否热门：是否热门问题
+(6) Is it popular: Is it a popular question?
 
-（7）是否生效：是否生效
+(7) Whether it is effective: whether it is effective

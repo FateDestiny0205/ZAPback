@@ -2,25 +2,25 @@
 icon: game-board-simple
 ---
 
-# 充值套餐列表
+# Recharge package list
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：财务管理 → 充值管理 → 充值套餐列表。
-* 功能说明:关联充值通道和商品，并用于前端充值界面顶部展示。
+* The path in the left navigation bar: Financial Management → Recharge Management → Recharge Package List.
+* Function description: Associate recharge channels and products, and display them at the top of the front-end recharge interface.
 
 <figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
-**2. 创建套餐字段说明**
+**2. Create package field description**
 
-&#x20;![](<../../.gitbook/assets/image (221).png>)
+![](<../../.gitbook/assets/image (221).png>)
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (222).png" alt="" width="130"><figcaption></figcaption></figure></div>
 
-* 运营商：设定套餐来源商户。
-* 所属支付方式：设置支付通道，取值来源:通道管理 / 支付方式配置。
-* 套餐名称：用户在充值界面看到的名称。
-* 状态：开启后用户能在充值界面看到。
-* 商品模板：关联充值商品。
-* 重置：清空所有筛选条件。
-* 查询：根据筛选条件检索数据。
+* Operator: Set the package source merchant.
+* Affiliated payment method: Set payment channel, value source: channel management/payment method configuration.
+* Package name: The name that users see on the recharge interface.
+* Status: After enabled, users can see it on the recharge interface.
+* Product template: associated recharge products.
+* Reset: Clear all filters.
+* Query: Retrieve data based on filter conditions.

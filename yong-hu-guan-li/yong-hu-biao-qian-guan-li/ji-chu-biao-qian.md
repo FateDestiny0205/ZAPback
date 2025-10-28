@@ -2,70 +2,70 @@
 icon: user-check
 ---
 
-# 基础标签
+# Basic tags
 
-**1.功能说明**
+**1. Function description**
 
-基础标签是系统中最小粒度的用户行为条件规则，用于对玩家的充值、下注、返奖等行为进行量化描述。它本身不是直接给用户打的最终标签，而是构成用户标签的基础组件
+Basic tags are the smallest granular user behavior condition rules in the system, which are used to quantitatively describe players' recharge, betting, reward rebate and other behaviors. It itself is not the final label directly given to the user, but the basic component that constitutes the user label.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
-2.1标签
+2.1 Tags
 
-可按用户标签（标签名称），标签类型（标签所属的功能模块）进行筛选查询
+Filtering and querying can be performed by user tag (tag name) and tag type (functional module to which the tag belongs)
 
-2.2 状态
+2.2 Status
 
-即标签目前所处的开启/关闭状态
+That is, the current open/closed state of the label
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：基础标签的ID
+(1) ID: ID of the basic tag
 
-（2）用户标签名称：一般会把基础标签的行为条件和条件数值写清楚
+(2) User tag name: Generally, the behavior conditions and condition values ​​of the basic tag will be clearly written.
 
-（3）标签类型：基础标签所属的功能模块
+(3) Tag type: the functional module to which the basic tag belongs
 
-（4）行为条件：基础标签的行为条件和条件数值
+(4) Behavior conditions: Behavior conditions and condition values ​​of basic tags
 
-（5）删除开关：是否能被删除，配置的话就要配置删除的条件
+(5) Delete switch: whether it can be deleted. If configured, the conditions for deletion must be configured.
 
-（6）删除标签类型： 删除条件对应的标签类型
+(6) Delete label type: Delete the label type corresponding to the condition
 
-（7）删除行为条件： 具体的删除条件和数值
+(7) Deletion behavior conditions: specific deletion conditions and values
 
-（8）更新时间：基础标签更新的时间
+(8)Update time: the time when the basic label is updated
 
-（9）过期时长：不会过期则显示永久，会过期就会显示过期时长
+(9) Expiration time: If it does not expire, it will be displayed forever; if it will expire, it will show the expiration time.
 
-（10）状态：基础标签的开关
+(10) Status: switch of basic label
 
-（11）操作：删除该基础字段
+(11) Operation: Delete the basic field
 
-**4.新增基础标签**
+**4. Add basic tags**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (164).png" alt="" width="74"><figcaption></figcaption></figure></div>
 
-（1）标签名称：基础标签的名称，把基础标签的条件和数值写清楚
+(1) Tag name: the name of the basic tag. Write clearly the conditions and values ​​of the basic tag.
 
-（2）标签类型：基础标签所属的功能模块
+(2) Tag type: the functional module to which the basic tag belongs
 
-（3）条件选择：对应功能模块的条件，可多选
+(3) Condition selection: Corresponding to the conditions of the functional module, multiple selections are possible
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (165).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-需要在下方的条件设置来配置对应的条件和数值
+You need to configure the corresponding conditions and values ​​in the condition settings below
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (166).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-（4）过期开关：是否会过期，如果开启则需要配置过期的时长
+(4) Expiration switch: whether it will expire. If it is turned on, you need to configure the expiration time.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (167).png" alt="" width="263"><figcaption></figcaption></figure></div>
 
-（5）删除开关： 是否能被删除，如果开启就需要配置删除条件，具体删除条件和基础标签选择的条件有关
+(5) Delete switch: Whether it can be deleted. If it is turned on, you need to configure the deletion conditions. The specific deletion conditions are related to the basic tag selection conditions.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (168).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-（6）是否启用： 是否启用该基础标签
+(6) Whether to enable: Whether to enable this basic tag

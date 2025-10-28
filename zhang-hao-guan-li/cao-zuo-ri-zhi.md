@@ -2,24 +2,24 @@
 icon: hard-drive
 ---
 
-# 操作日志
+# Operation log
 
-**1.界面位置**
+**1.Interface location**
 
-* 左侧导航栏路径：账号管理 → 操作日志。
-* 功能说明:用于记录全部账号的操作记录日志。
+* The path in the left navigation bar: Account Management → Operation Log.
+* Function description: Used to record the operation log of all accounts.
 
 <figure><img src="../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 操作人：操作者的ID和昵称。
-* IP地址：操作者的ID和昵称。
-* 操作时间：操作者操作的时间。
-* 请求路径：操作者触发操作动作时请求路径。
-* 请求参数：操作者触发操作动作时接口请求参数。
-* 请求方法：HTTP协议标准的请求方法。
-* 返回参数：操作者触发操作动作时接口返回参数。
-* 耗时：操作时长。
-* 代理头：请求接口的代理头信息。
-* 请求状态：请求结果状态信息。
+* Operator: ID and nickname of the operator.
+* IP address: ID and nickname of the operator.
+* Operation time: the time the operator operates.
+* Request path: The operator requests the path when triggering the operation action.
+* Request parameters: interface request parameters when the operator triggers the operation action.
+* Request method: HTTP protocol standard request method.
+* Return parameters: The parameters returned by the interface when the operator triggers the operation action.
+* Time consuming: Operation time.
+* Proxy header: Proxy header information of the request interface.
+* Request status: request result status information.

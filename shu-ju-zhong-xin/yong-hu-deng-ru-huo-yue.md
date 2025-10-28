@@ -2,27 +2,27 @@
 icon: universal-access
 ---
 
-# 用户登入活跃
+# User login is active
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 用户登入活跃。
-* 功能说明:查看商户各个推广商以及渠道的活跃用户数据。
+* The left navigation bar path: Data Center → User login is active.
+* Function description: View the active user data of various promoters and channels of the merchant.
 
 <figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 时间：记录玩家注册和最后登录时间。
-* IP：记录玩家注册和登录IP。
-* 注册来源：记录玩家推广渠道。
-* 上级代理：玩家上级代理ID。
-* 充值金额：玩家充值金额。
-* 充值笔数：玩家充值次数。
-* 赠送：玩家获得彩金金额。
-* 提现：玩家提现金额。
-* 投注额：玩家投注金额。
-* 派彩金额：玩家游戏派彩金额。
-* 游戏盈亏：玩家派彩金额 - 玩家投注金额。
-* 首充时间：玩家首次充值的时间
-* 首充金额：玩家首次充值的金额
+* Time: Record player registration and last login time.
+* IP: Record player registration and login IP.
+* Registration source: Record player promotion channels.
+* Superior agent: The ID of the player's superior agent.
+* Recharge amount: The player's recharge amount.
+* Number of recharges: The number of times the player has recharged.
+* Gift: Players receive bonus amounts.
+* Withdrawal: The amount of cash withdrawn by the player.
+* Bet Amount: The player’s bet amount.
+* Payout amount: Player’s game payout amount.
+* Game profit and loss: player payout amount - player bet amount.
+* First recharge time: the time when the player recharges for the first time
+* First recharge amount: The amount of the player’s first recharge

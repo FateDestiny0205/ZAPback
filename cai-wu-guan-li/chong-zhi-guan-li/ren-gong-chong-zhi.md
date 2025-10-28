@@ -2,24 +2,24 @@
 icon: user-doctor
 ---
 
-# 人工充值
+# Manual recharge
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：财务管理 → 充值管理 → 人工充值。
-* 功能说明:用于人工给用户账号进行彩金或者真金充值，并设定打码倍数。
+* The path in the left navigation bar: Financial Management → Recharge Management → Manual Recharge.
+* Function description: Used to manually recharge user accounts with bonuses or real money, and set the coding multiplier.
 
 <figure><img src="../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
-**2.字段说明:**
+**2.Field description:**
 
-* 用户ID：输入需要充值的用户ID。
-* 充值JCoin：人工充值彩金金额。
-* 流水倍数：人工充值彩金流水倍数。
-* 充值Cash：人工充值可提现金额。
-* 流水倍数：人工充值真金流水倍数。
-* 备注：本次人工充值的备注信息。
+* User ID: Enter the user ID that needs to be recharged.
+* Recharge JCoin: Manually recharge the bonus amount.
+* Turnover multiple: Turnover multiple of manual recharge bonus.
+* Recharge Cash: The amount of cash that can be withdrawn through manual recharge.
+* Turnover multiple: Turnover multiple of real gold for manual recharge.
+* Remarks: Remarks information for this manual recharge.
 
-人工充值成功后，会在 财务管理 / 人工充值操作记录表 生成记录。
+After the manual recharge is successful, a record will be generated in the Financial Management/Manual Recharge Operation Record Table.
 
-&#x20;
+

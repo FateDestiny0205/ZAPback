@@ -2,26 +2,26 @@
 icon: file-chart-pie
 ---
 
-# 用户首充
+# User's first recharge
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 玩家分析 → 用户首充。
-* 功能说明:查看商户各个推广商以及渠道的用户首充数据。
+* The path in the left navigation bar: Data Center → Player Analysis → User’s First Recharge.
+* Function description: Check the user's first deposit data of various promoters and channels of the merchant.
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 注册时间：用户注册时间。
-* 注册地区：用户注册地区。
-* 首充时间：用户首充时间。
-* 首充间隔注册时长(分钟)：用户首充时间 – 用户注册时间。
-* 复充次数：用户复充次数。
-* 复充金额：用户总复充金额。
-* 总充值金额：用户总充值金额。
-* 总提现金额：用户总提现金额。
-* 总赠送彩金：用户获得总彩金金额。
-* 总流水：用户总下注金额。
+* Registration time: User registration time.
+* Registration area: User registration area.
+* First recharge time: The user’s first recharge time.
+* Registration time between first recharge (minutes): user’s first recharge time – user registration time.
+* Number of recharges: The number of times the user has recharged.
+* Recharge amount: The total recharge amount of the user.
+* Total recharge amount: The total recharge amount of the user.
+* Total withdrawal amount: The total withdrawal amount of the user.
+* Total bonus bonus: The total bonus amount received by the user.
+* Total turnover: The total amount of bets made by the user.
 
-总游戏输赢：用户总下注金额 – 用户总派彩金额。
+Total game wins and losses: the total bet amount of the user – the total payout amount of the user.

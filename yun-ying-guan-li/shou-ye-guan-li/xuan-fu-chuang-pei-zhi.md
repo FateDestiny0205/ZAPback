@@ -2,82 +2,82 @@
 icon: circle-waveform-lines
 ---
 
-# 悬浮窗配置
+# Floating window configuration
 
-**1.功能说明**
+**1. Function description**
 
-配置首页悬浮窗的样式、展示位置等基础信息
+Configure basic information such as the style and placement of the floating window on the homepage
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (78).png" alt="" width="182"><figcaption></figcaption></figure></div>
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-选择某个运营商的悬浮窗配置进行查询
+Select a certain operator's floating window configuration to query
 
-2.2悬浮窗名称
+2.2 Floating window name
 
-搜索特定名称的悬浮窗
+Search for a floating window with a specific name
 
-2.3位置
+2.3 Location
 
-悬浮窗是在左边、右边还是全部
+Is the floating window on the left, right or all?
 
-2.4状态
+2.4 Status
 
-开关状态或者全部
+switch state or all
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：悬浮窗 ID
+(1) ID: floating window ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）悬浮窗名称：悬浮窗的名称
+(3) Floating window name: the name of the floating window
 
-（4）图标：悬浮窗的图标
+(4) Icon: icon of floating window
 
-（5）位置：悬浮窗是在左右哪个位置
+(5) Position: Where is the floating window on the left and right?
 
-（6）排序：悬浮窗的排序，可以手动上下拖动来改变悬浮窗排序
+(6) Sorting: The sorting of floating windows can be manually dragged up and down to change the sorting of floating windows.
 
-（7）展示用户标签：悬浮窗适合的用户标签
+(7) Display user tags: user tags suitable for floating windows
 
-（8）跳转类型：悬浮窗的跳转类型
+(8) Jump type: jump type of floating window
 
-（9）状态：悬浮窗的开关状态
+(9) Status: the switch status of the floating window
 
-（10）操作：编辑或者删除悬浮窗
+(10) Operation: Edit or delete floating window
 
-**4.新增悬浮窗**
+**4. Added floating window**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (80).png" alt="" width="84"><figcaption></figcaption></figure></div>
 
-点击新增悬浮窗按钮可新增悬浮窗
+Click the Add floating window button to add a floating window
 
-（1）运营商：归属运营商
+(1) Operator: Belonging to the operator
 
-（2）浮窗名称：悬浮窗的名称
+(2) Floating window name: the name of the floating window
 
-（3）浮窗位置：悬浮窗是在左边还是右边
+(3) Floating window position: whether the floating window is on the left or right
 
-（4）跳转类型：是跳转活动、弹窗还是页面，后面可根据类型选择对象
+(4) Jump type: whether it is a jump activity, pop-up window or page. You can select the object according to the type later.
 
-（5）活动icon：悬浮窗的icon
+(5) Activity icon: icon of the floating window
 
-（6）展示用户标签：悬浮窗展示给哪些用户标签
+(6) Display user tags: Which user tags are displayed in the floating window?
 
-（7）排序：悬浮窗的排序，可以手动上下拖动来改变悬浮窗排序
+(7) Sorting: The sorting of floating windows can be manually dragged up and down to change the sorting of floating windows.
 
-（8）状态：悬浮窗的开关状态
+(8) Status: the switch status of the floating window
 
-**5.保留当前顺序**
+**5.Keep current order**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (81).png" alt="" width="98"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (82).png" alt="" width="91"><figcaption></figcaption></figure></div>
 
-手动修改过排序后，点击此按钮可按照当前顺序保留
+After manually modifying the sorting, click this button to keep it in the current order.

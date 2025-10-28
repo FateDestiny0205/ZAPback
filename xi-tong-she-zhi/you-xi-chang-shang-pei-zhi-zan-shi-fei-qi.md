@@ -2,10 +2,10 @@
 icon: face-sunglasses
 ---
 
-# 游戏厂商配置(暂时废弃)
+# Game manufacturer configuration (temporarily abandoned)
 
-1.左侧导航栏路径：系统设置 → 游戏厂商配置
+1. The left navigation bar path: System Settings → Game Manufacturer Configuration
 
-2.功能说明: 给商户配置三方游戏厂商以及品牌游戏。
+2. Function description: Configure third-party game manufacturers and brand games for merchants.
 
 <figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>

@@ -2,32 +2,32 @@
 icon: replyd
 ---
 
-# 代投日报
+# Daitou Daily
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 投放报表 → 代投日报。
-* 功能说明:查看商户各个运营商以及渠道质量数据。
+* The path in the left navigation bar: Data Center → Delivery Report → Agency Investment Daily.
+* Function description: Check the quality data of each operator and channel of the merchant.
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 今日消耗：当日开销费用。
-* 展示量：广告被用户看到的次数。
-* 千展费用CPM：每展示 1000 次广告所需的费用。
-* 访问量: 用户看到广告后点击广告跳转到落地页的次数。
-* IP: 访问的“不同IP地址”数量。
-* UV: 访问你网站的不同用户数。
-* PV：用户活跃度、点击行为。
-* 访问率CTR：展示次数中点击了广告的比例。
-* 平均访问量CPC: 每获得一次点击所付出的平均广告成本。
-* 新增注册: 广告进入的用户。
-* 注册成本: 今日消耗 / 新增注册。
-* 首充人数: 今日直推的首充人数。
-* 当日首充成本：今日消耗 / 今日直推的首充人数。
-* 首笔总金额：今日直推的人数首笔充值总金额。
-* 首充总金额：今日直推的首充人数充值总金额。
-* 总首充ROAS: 今日直推的首充人数充值总金额 / 今日消耗。
+* Today’s consumption: Expenses for the day.
+* Impressions: The number of times an ad is seen by users.
+* CPM per thousand impressions: The cost per 1,000 ad impressions.
+* Visits: The number of times a user clicks on the ad to jump to the landing page after seeing the ad.
+* IP: The number of "different IP addresses" visited.
+* UV: The number of unique users visiting your website.
+* PV: User activity, click behavior.
+* Visit rate CTR: The proportion of impressions that were clicked on the ad.
+* Average visit CPC: The average advertising cost per click.
+* New registration: Users entered by advertisements.
+* Registration cost: Today’s consumption / new registration.
+* Number of first-time depositors: The number of first-time depositors directly promoted today.
+* Cost of first recharge on the day: consumption today / number of people directly recharging for the first time today.
+* The total amount of the first recharge: the total amount of the first recharge of the people who were directly promoted today.
+* Total first recharge amount: The total recharge amount of the first-time rechargers directly promoted today.
+* Total first deposit ROAS: the total recharge amount of the number of people who directly promoted the first deposit today / today’s consumption.
 
-&#x20; •   注册充值率: 今日直推的首充人数 / 新增注册。
+• Registration recharge rate: number of first-time depositors directly promoted today/new registrations.

@@ -2,44 +2,44 @@
 icon: landmark-magnifying-glass
 ---
 
-# 点控记录
+# Point control record
 
-**1.功能说明**
+**1. Function description**
 
-显示被点控玩家的点控信息，此页面无法解除点控
+Displays the click control information of the clicked player. Click control cannot be released on this page.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
-2.1渠道
+2.1 Channels
 
-可按国家、运营商、渠道 进行筛选，便于分析不同市场与来源的差异。
+You can filter by country, operator, and channel to facilitate analysis of differences in different markets and sources.
 
-2.2用户ID
+2.2 User ID
 
-可输入用户ID来定位特定用户
+User ID can be entered to target specific users
 
-2.3时间类型
+2.3 Time type
 
-可实现自定义时间的筛选
+Custom time filtering possible
 
-3.列表字段
+3. List fields
 
-（1）序号：筛选结果排序序号
+(1) Serial number: the sorting sequence number of filter results
 
-（2）用户ID：用户的ID编号
+(2) User ID: User’s ID number
 
-（3）点控内容：点控的内容，是养客还是杀客，金额是多少
+(3) Click control content: The content of the click control, whether it is to support customers or kill customers, and what is the amount?
 
-（4）点控期间盈利：点控开始到目前的盈利状态，正数为红色，负数为绿色，且会显示正负号
+(4) Profit during the point control period: From the start of point control to the current profit status, positive numbers are red, negative numbers are green, and the plus and minus signs will be displayed.
 
-（5）开始时携带金额：点控开始时用户的余额
+(5) Amount carried at the beginning: the user’s balance at the beginning of the point control
 
-（6）结束时携带金额：点控结束时用户的余额
+(6) Amount carried at the end: the user’s balance at the end of the point control
 
-（7）状态：是否处于点控中的状态
+(7) Status: Whether it is in the state of point control
 
-（8）操作人：点控的操作人
+(8) Operator: point control operator
 
-（8）操作时间：点控的操作时间
+(8) Operation time: point control operation time

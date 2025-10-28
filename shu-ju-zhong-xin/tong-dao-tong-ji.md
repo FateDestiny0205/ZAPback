@@ -2,29 +2,29 @@
 icon: calendars
 ---
 
-# 通道统计
+# Channel statistics
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 通道统计。
-* 功能说明: 统计商户充提通道代收代付数据。
+* Path in the left navigation bar: Data Center → Channel Statistics.
+* Function description: Statistics of merchant deposit and withdrawal channel collection and payment data.
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 代收金额:统计期内所有代收订单的金额之和
-* 代付金额:统计期内所有代付订单的金额之和
-* 代收费率:代收通道对每笔代收收取的比例费率
-* 代付费率:代付通道对每笔代付收取的比例费率
-* 代收手续费:代收产生的费用金额
-* 代付手续费:代付产生的费用金额
-* 代收实际金额:代收金额 − 代收手续费
-* 代付实际金额:代付金额 + 代付手续费
-* 代收代付差:代收实际金额合计 − 代付实际金额合计
-* 代收订单数:统计期内的代收订单数量
-* 代收成功订单数:统计期内的代收成功订单数量
-* 代收成功率:代收成功订单数量/代收订单数量
-* 代付订单数:统计期内的代付订单数量
-* 代付成功订单数:统计期内的代付成功订单数量
-* 代付成功率:代付成功订单数量/代付订单数量
+* Collection amount: the sum of the amounts of all collection orders during the statistical period
+* Payment amount: the sum of the amounts of all payment orders during the statistical period
+* Charging rate: the proportional rate charged by the collection channel for each collection
+* Payment rate: the proportional rate charged by the payment channel for each payment
+* Collection fee: the amount of fees incurred for collection
+* Payment handling fee: the amount of fees incurred by the agency
+* Actual amount collected: Amount collected − Collection fee
+* Actual amount paid: amount paid + payment handling fee
+* Difference between collection and payment: Total actual amount collected − Total actual amount paid
+* Number of collection orders: Number of collection orders during the statistical period
+* Number of successful collection orders: Number of successful collection orders during the statistical period
+* Collection success rate: number of successful orders/number of orders collected
+* Number of payment orders: number of payment orders during the statistical period
+* Number of successful payment orders: number of successful payment orders during the statistical period
+* Success rate of payment: number of successful orders/number of orders paid

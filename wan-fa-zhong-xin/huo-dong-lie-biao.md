@@ -2,42 +2,42 @@
 icon: square-person-confined
 ---
 
-# 活动列表
+# Activity list
 
-**1.功能说明**
+**1. Function description**
 
-可以总览活动的开启、关闭状态、打码量等信息，是个总览列表
+You can get an overview of information such as the opening and closing status of the activity, the amount of coding, etc. It is an overview list.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
-2.1渠道
+2.1 Channels
 
-可按国家、运营商来筛选
+Filter by country and operator
 
-2.2活动信息
+2.2 Activity information
 
-可按具体的活动类型、活动开启关闭状态来筛选
+You can filter by specific activity type and activity on and off status
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：活动ID
+(1) ID: activity ID
 
-（2）活动名称：活动名称
+(2) Activity name: activity name
 
-（3）活动类型：活动的类型
+(3) Activity type: type of activity
 
-（4）活动状态：进行中、已关闭状态
+(4) Activity status: in progress, closed status
 
-（5）参与活动标签：可以触发该活动的所有标签
+(5) Tags participating in the event: all tags that can trigger the event
 
-（6）打码量：该活动赠送彩金所需的打码量
+(6) Coding amount: the amount of coding required to give out bonuses in this activity
 
-（7）状态开关：可以开启、关闭活动
+(7) Status switch: can turn on and off activities
 
-（8）最后操作人：该活动的最后操作人
+(8) Last operator: the last operator of the activity
 
-（9）最后操作时间：该活动的最后操作时间
+(9) Last operation time: the last operation time of the activity
 
-（10）操作：点击编辑按钮，可以直接打开对应活动的编辑页面
+(10) Operation: Click the edit button to directly open the editing page of the corresponding activity

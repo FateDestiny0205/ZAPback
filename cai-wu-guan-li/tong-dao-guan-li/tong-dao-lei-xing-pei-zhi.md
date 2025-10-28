@@ -2,24 +2,24 @@
 icon: scribble
 ---
 
-# 通道类型配置
+# Channel type configuration
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：财务管理 → 通道管理 → 通道类型配置。
-* 功能说明:设置通道类型。
+* The path in the left navigation bar: Financial Management → Channel Management → Channel Type Configuration.
+* Function description: Set channel type.
 
 <figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
-**2.表格字段说明**
+**2.Form field description**
 
-* 通道类型：通道类型名称。
-* 创建时间：创建该通道的时间。
-* 状态：开或关，开启后可正常使用该通道。
-* 操作->编辑：点击后打开编辑通道类型面板。
-* 操作->删除：点击后打开二次确认删除面板，点击删除按钮则删除此条数据。
+* Channel type: Channel type name.
+* Creation time: The time when the channel was created.
+* Status: On or off, the channel can be used normally after being turned on.
+* Operation->Edit: Click to open the edit channel type panel.
+* Operation->Delete: Click to open the secondary confirmation deletion panel. Click the delete button to delete this piece of data.
 
-**3. 新增/编辑通道类型面板功能说明**
+**3. Add/edit channel type panel function description**
 
-* 通道类型：通道类型名称。
-* 状态：开或关，开启后可正常使用该通道。
+* Channel type: Channel type name.
+* Status: On or off, the channel can be used normally after being turned on.

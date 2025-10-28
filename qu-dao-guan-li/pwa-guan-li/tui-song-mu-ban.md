@@ -2,31 +2,31 @@
 icon: list-timeline
 ---
 
-# 推送模板
+# Push template
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：渠道管理 → PWA管理 → 推送模板。
-* 功能说明:配置PWA推送模板。
+* The path in the left navigation bar: Channel Management → PWA Management → Push Template.
+* Function description: Configure PWA push template.
 
 <figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
-**2. 新增推送模板流程**
+**2. Added push template process**
 
-1.点击新增模板，打开新增模板面板
+1. Click New Template to open the New Template panel.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (246).png" alt="" width="186"><figcaption></figcaption></figure></div>
 
-* 运营商：选择新增模板的运营商。
-* 模版名称：下拉选择，未下载用户和已下载用户。
-* 推送标题：输入推送标题。
-* 推送内容：输入推送内容。
-* 自定义图标：上传图标。
-* 添加大图：可废弃。
-* 添加按钮：勾选后，展示按钮标题。
-* 按钮1标题： 输入按钮标题内容。
-* 点击跳转地址：新增功能
+* Operator: Select the operator of the new template.
+* Template name: drop-down selection, users who have not downloaded and users who have downloaded.
+* Push title: Enter the push title.
+* Push content: Enter push content.
+* Custom icon: Upload icon.
+* Add large image: Discardable.
+* Add button: When checked, the button title is displayed.
+* Button 1 title: Enter the button title content.
+* Click to jump to the address: New features
 
-未安装用户:PWA官方下载地址（若能用渠道的最好，不可以的话，才用官方兜底 ）
+Users who have not installed it: PWA official download address (if you can use the channel, it is best, if not, use the official one)
 
-已安装用户:主站域名(若能用渠道游戏链接最好，不可以的话，才用官方兜底)。
+Installed users: Main website domain name (if you can use the channel game link, it is best, if not, use the official website).

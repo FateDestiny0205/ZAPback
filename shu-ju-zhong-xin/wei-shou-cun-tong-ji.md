@@ -2,20 +2,20 @@
 icon: display-chart-up-circle-currency
 ---
 
-# 未首存统计
+# No first deposit statistics
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 未首存统计。
-* 功能说明: 统计新注册和活跃玩家每日首充拉起率。
+* Path in the left navigation bar: Data Center → Unfirst Deposit Statistics.
+* Function description: Statistics of the daily first deposit rate of new registrations and active players.
 
 <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 当日注册用户，拉起过首充：当日注册用户首充的人数。
-* 当日注册用户，未拉起首充：当日注册用户未首充的人数。
-* 当日注册用户，拉起率：当日注册用户，拉起过首充/当日注册人数。
-* 当日登录用户，拉起过首充：当日登录用户首充的人数。
-* 当日登录用户，未拉起首充：当日登录用户未首充的人数。
-* 当日登录用户，拉起率：当日登录用户，拉起过首充/当日登录人数。
+* Registered users on the day who made their first deposit: the number of registered users on the day who made their first deposit.
+* Registered users on the day who have not made their first deposit: the number of registered users on the day who have not made their first deposit.
+* The number of registered users on the same day, the pull-up rate: the number of registered users on the day who have made the first deposit/the number of registered users on the day.
+* Users who logged in on the day who made their first deposit: the number of users who logged in on the day who made their first deposit.
+* Users logged in on the day who have not made their first deposit: The number of users logged in on the day who have not made their first deposit.
+* The number of users who logged in on the day, the pull-up rate: the users who logged in on the day, the number of users who made the first deposit/the number of people who logged in on the day.

@@ -2,52 +2,52 @@
 icon: joystick
 ---
 
-# 标签RTP调控
+# Tag RTP control
 
-**1.功能说明**
+**1. Function description**
 
-可以通过用户标签对特定类型的用户进行RTP调控的功能
+The function of RTP control for specific types of users through user tags
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
-可按国家和运营商进行筛选
+Filter by country and carrier
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：调控ID
+(1) ID: Control ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）用户标签：该调控对应的单个/多个用户标签
+(3) User tag: single/multiple user tags corresponding to this control
 
-（4）彩金RTP调控值（杀率调控）：该调控值作用于「打码通用配置」里设定的杀率彩金部分。举例：如果某活动的彩金杀率为 50%，则玩家获得的彩金中有 50% 将受“杀率调控RTP”限制。如果没有配置 → 不进行调控。如果存在多条规则且有重叠 → 取最低的RTP值进行调控。![](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)![](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+(4) Bonus RTP control value (kill rate control): This control value acts on the kill rate bonus set in the "Coding General Configuration". For example: If the winnings kill rate for an event is 50%, then 50% of the winnings received by players will be subject to the "kill rate regulation RTP" limit. If not configured → no regulation. If there are multiple rules and overlap → use the lowest RTP value for control.![](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)![](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
 
 <figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (180).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-（5）彩金RTP调控值（非杀率调控）：该调控值作用于「打码通用配置」中非杀率彩金部分。调控顺序：先执行杀率调控；剩余彩金再由“非杀率调控RTP”限制。特殊情况：如果“杀率调控”未配置，而“非杀率调控”已配置 → 所有彩金都按“非杀率调控RTP”执行。
+(5) Bonus RTP control value (non-kill rate control): This control value acts on the non-kill rate bonus part in the "Coding General Configuration". Control sequence: Kill rate control is implemented first; the remaining bonus is then limited by the "non-kill rate control RTP". Special case: If "kill rate control" is not configured, but "non-kill rate control" is configured → all winnings will be executed according to "non-kill rate control RTP".
 
-（6）游戏最高倍数：即执行调控时玩家彩金部分的游戏最高倍数
+(6) The highest multiplier of the game: that is, the highest multiplier of the player’s bonus during the execution of the regulation.
 
-（7）状态：该调控的开关状态
+(7) Status: the switch status of the control
 
-（8）操作人：此调控的操作人
+(8) Operator: the operator of this control
 
-（9）操作时间：此调控的操作时间
+(9) Operation time: the operation time of this control
 
-（10）操作：编辑或者删除此调控
+(10) Operation: Edit or delete this control
 
-a.运营商：归属运营商
+a. Operator: Belonging to the operator
 
-b.用户标签：该调控对应的单个/多个用户标签
+b. User label: single/multiple user labels corresponding to this control
 
-c.RTP杀率调控：该调控值作用于「打码通用配置」里设定的杀率彩金部分。举例：如果某活动的彩金杀率为 50%，则玩家获得的彩金中有 50% 将受“杀率调控RTP”限制。如果没有配置 → 不进行调控。如果存在多条规则且有重叠 → 取最低的RTP值进行调控。
+c.RTP kill rate control: This control value acts on the kill rate bonus set in the "Coding General Configuration". For example: If the winnings kill rate for an event is 50%, then 50% of the winnings received by players will be subject to the "kill rate regulation RTP" limit. If not configured → no regulation. If there are multiple rules and overlap → use the lowest RTP value for control.
 
-d.RTP非杀率调控：该调控值作用于「打码通用配置」中非杀率彩金部分。调控顺序：先执行杀率调控；剩余彩金再由“非杀率调控RTP”限制。特殊情况：如果“杀率调控”未配置，而“非杀率调控”已配置 → 所有彩金都按“非杀率调控RTP”执行。
+d.RTP non-kill rate control: This control value acts on the non-kill rate bonus part of the "Coding General Configuration". Control sequence: Kill rate control is implemented first; the remaining bonus is then limited by the "non-kill rate control RTP". Special case: If "kill rate control" is not configured, but "non-kill rate control" is configured → all winnings will be executed according to "non-kill rate control RTP".
 
-e.游戏最高倍数：即执行调控时玩家彩金部分的游戏最高倍数
+e. The highest multiplier of the game: that is, the highest multiplier of the player’s bonus during the execution of the regulation.
 
-f.状态：该调控的开关状态
+f. Status: the switch status of the control

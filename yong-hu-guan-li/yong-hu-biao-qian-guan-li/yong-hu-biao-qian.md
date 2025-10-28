@@ -2,64 +2,64 @@
 icon: user-pen
 ---
 
-# 用户标签
+# User tag
 
-**1.功能说明**
+**1. Function description**
 
-根据用户行为给用户打上的标识，这些标识可用于RTP调控，用户分层，活动定向，风控等，是重要的玩家分类依据。
+Users are marked based on their behavior. These marks can be used for RTP control, user stratification, activity orientation, risk control, etc., and are an important basis for classifying players.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-可按运营商进行筛选查询，不同运营商标签设置不同
+You can filter and query by operator. Different operators have different label settings.
 
-2.2标签
+2.2 Tags
 
-可按用户标签（用户标签名称），基础标签（所有包含该基础标签的）进行筛选查询
+You can filter and query by user tag (user tag name) and basic tag (all those containing the basic tag)
 
-**3.列表字段**
+**3.List fields**
 
-（1）Tag ID：用户标签的ID
+(1) Tag ID: ID of user tag
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）渠道：归属渠道，是全渠道还是特定渠道
+(3) Channel: Attribution channel, whether it is an omni channel or a specific channel
 
-（4）标签名称：用户标签的名称
+(4) Tag name: the name of the user tag
 
-（5）基础标签：组成该用户标签的基础标签，鼠标悬停可查看详情
+(5) Basic tags: Basic tags that make up the user's tags. You can view details by hovering the mouse.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (170).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-（6）创建者： 创建用户标签的人
+(6) Creator: The person who created the user tag
 
-（7）更新时间： 用户标签如果有更新的话，更新时间
+(7) Update time: If the user label is updated, the update time
 
-（8）状态：目前的开关状态
+(8) Status: current switch status
 
-（9）操作：编辑或者删除用户标签操作
+(9) Operation: edit or delete user tag operation
 
-编辑的字段与新增的字段相同，会在下面3.4新增用户标签处说明
+The edited fields are the same as the newly added fields, which will be explained in 3.4 Adding User Labels below.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (171).png" alt="" width="210"><figcaption></figcaption></figure></div>
 
-4.新增用户标签
+4. Add user tags
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (172).png" alt="" width="302"><figcaption></figcaption></figure></div>
 
-（1）运营商：归属运营商
+(1) Operator: Belonging to the operator
 
-（2）是否全渠道：开启则为全渠道，如果关闭，则可选择单一/多个渠道
+(2) Whether it is omni-channel: if it is turned on, it will be omni-channel. If it is turned off, you can choose single/multiple channels.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (173).png" alt="" width="305"><figcaption></figcaption></figure></div>
 
-（3）标签名称：用户标签的名称
+(3) Tag name: the name of the user tag
 
-（4）基础标签：用户标签由单个/多个基础标签组成，可单选也可多选基础标签来决定用户标签的条件
+(4) Basic tags: User tags consist of single/multiple basic tags. You can select single or multiple basic tags to determine the conditions for user tags.
 
-（5）颜色编辑：用户标签在后台的显示颜色
+(5) Color editing: The display color of user tags in the background
 
-（6）是否启用：是否启用该用户标签
+(6) Whether to enable: whether to enable the user label

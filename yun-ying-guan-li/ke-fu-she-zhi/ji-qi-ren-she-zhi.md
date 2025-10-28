@@ -2,50 +2,50 @@
 icon: user-robot-xmarks
 ---
 
-# 机器人设置
+# Robot settings
 
-**1.功能说明**
+**1. Function description**
 
-可以设置客服机器人
+Customer service robot can be set up
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
-可按运营商筛选
+Filter by operator
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：机器人ID
+(1) ID: Robot ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）昵称：机器人昵称
+(3) Nickname: robot nickname
 
-（4）头像：机器人头像
+(4) Avatar: Robot avatar
 
-（5）欢迎语：机器人客服欢迎语
+(5) Welcome: robot customer service welcome
 
-（6）离线自动回复：机器人客服离线回复语
+(6) Offline automatic reply: offline reply from robot customer service
 
-（7）语言：问答语种
+(7) Language: Question and answer language
 
-（8）状态：问题开启或关闭
+(8) Status: Question is open or closed
 
-（9）操作：编辑或者删除机器人
+(9) Operation: Edit or delete robot
 
-**4.新增自动应答**
+**4. Added automatic answer**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (106).png" alt="" width="85"><figcaption></figcaption></figure></div>
 
-（1）运营商：归属运营商
+(1) Operator: Belonging to the operator
 
-（2）昵称：机器人客服昵称
+(2) Nickname: Robot customer service nickname
 
-（3）头像：机器人客服头像
+(3) Avatar: Robot customer service avatar
 
-（4）欢迎语：机器人客服欢迎语
+(4) Welcome: robot customer service welcome
 
-（5）离线自动回复：机器人客服离线自动回复语
+(5) Offline automatic reply: Robot customer service offline automatic reply
 
-（6）语种：机器人客服语种选择
+(6) Language: Robot customer service language selection
 
-（7）状态：开关状态
+(7) Status: switch status

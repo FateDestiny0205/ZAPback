@@ -2,10 +2,10 @@
 icon: money-bill-trend-up
 ---
 
-# 货币汇率配置
+# Currency exchange rate configuration
 
-1.左侧导航栏路径：系统设置 → 货币汇率配置。
+1. The left navigation bar path: System Settings → Currency Exchange Rate Configuration.
 
-2.功能说明: 设定多货币的名称、代码、符号、汇率信息。
+2. Function description: Set the name, code, symbol, and exchange rate information of multiple currencies.
 
 <figure><img src="../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>

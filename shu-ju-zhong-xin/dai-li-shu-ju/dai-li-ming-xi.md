@@ -2,26 +2,26 @@
 icon: calendar-circle-user
 ---
 
-# 代理明细
+# Agent details
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 代理数据 → 代理明细。
-* 功能说明: 以玩家为维度，统计玩家代理详情数据。
+* Path in the left navigation bar: Data Center → Agent Data → Agent Details.
+* Function description: Taking players as the dimension, count player agent details.
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 用户标签:玩家的标签名称
-* 今日返佣: 代理配置里的今日所有返佣金额
-* 今日返现:代理返现里今日的所有充值返现，打码返现
-* 下级:玩家的直属下级数量
-* 下级充值人数: 玩家的直属下级充值数量
-* 裂变充值率:今日直属下级的充值百分比
-* 下级充值金额: 今日直属下级充值总金额
-* 下级提现金额: 今日直属下级提现总金额
-* 下级充提差:今日直属下级总充值 - 直属下级总提现
-* 下级盈余率:今日直属下级充提差 / 直属下级总充值
-* 下级打码倍数: 今日直属下级总投注 / 直属下级总充值
-* 下级RTP:今日直属下级总返奖 / 直属下级总投注
+* User tag: player’s tag name
+* Today’s rebate: All today’s rebate amounts in the agent configuration
+* Today’s cashback: All recharges today in the agent’s cashback, coded cashback
+* Subordinates: The number of direct subordinates of the player
+* Number of subordinate recharges: The number of recharges of the player’s direct subordinates
+* Fission recharge rate: today’s recharge percentage of direct subordinates
+* Recharge amount of subordinates: Total recharge amount of direct subordinates today
+* Cash withdrawal amount of subordinates: Total cash withdrawal amount of direct subordinates today
+* Difference between deposits and withdrawals of subordinates: total deposits of direct subordinates today - total withdrawals of direct subordinates
+* Subordinate profitability rate: today’s difference between direct subordinates’ deposits and withdrawals / direct subordinates’ total deposits
+* Subordinate betting multiplier: Today’s total bets from direct subordinates / Total recharge from direct subordinates
+* Subordinate RTP: Today’s direct subordinate’s total rebate / direct subordinate’s total bet

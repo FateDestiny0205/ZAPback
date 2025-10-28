@@ -2,26 +2,26 @@
 icon: message-bot
 ---
 
-# OMG后台
+# OMG background
 
-**1.功能说明**
+**1. Function description**
 
-可以查看OMG后台的基础数据，可快速跳转无需登录
+You can view the basic data of OMG background and jump quickly without logging in.
 
-**2.列表字段**
+**2.List fields**
 
-（1）序号：排序序号
+(1) Serial number: sorting sequence number
 
-（2）ID：运营商的ID
+(2) ID: ID of the operator
 
-（3）运营商：账号所属运营商
+(3) Operator: the operator to which the account belongs
 
-（4）国家：国家
+(4) Country: Country
 
-（5）支持币种：该运营商支持的币种
+(5) Supported currencies: currencies supported by the operator
 
-（6）omg商户绑定：omg商户绑定
+(6) omg merchant binding: omg merchant binding
 
-（7）操作：可以点击进入OMG后台
+(7) Operation: You can click to enter the OMG background
 
 <div align="left"><figure><img src="../.gitbook/assets/image (102).png" alt="" width="47"><figcaption></figcaption></figure></div>

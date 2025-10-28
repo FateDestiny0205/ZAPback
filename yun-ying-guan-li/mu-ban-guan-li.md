@@ -2,58 +2,58 @@
 icon: oven
 ---
 
-# 模板管理
+# Template management
 
-**1.功能说明**
+**1. Function description**
 
-用于管理运营商模板，并且可以快捷复制配置
+Used to manage operator templates and quickly copy configurations
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
-2.1渠道
+2.1 Channels
 
-选择国家、运营商的模板
+Select country and operator templates
 
-2.2模板名称
+2.2 Template name
 
-可以通过模板名称进行查询
+You can query by template name
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：模板 ID
+(1) ID: Template ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）国家：运营商所属国家
+(3) Country: The country to which the operator belongs
 
-（4）模板名称：模板的名称
+(4) Template name: the name of the template
 
-（5）创建时间：模板的创建时间
+(5) Creation time: the creation time of the template
 
-（6）修改时间：模板的修改时间
+(6) Modification time: Modification time of the template
 
-（7）操作人：模板的操作人
+(7) Operator: The operator of the template
 
-（5）操作：编辑或者删除模板
+(5) Operation: Edit or delete template
 
-**4.新增模板**
+**4.New template**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (99).png" alt="" width="236"><figcaption></figcaption></figure></div>
 
-（1）国家：国家选择
+(1) Country: Country selection
 
-（2）运营商：用哪个运营商的配置做模板
+(2) Operator: Which operator’s configuration is used as the template?
 
-（3）模板名称：模板的名称
+(3) Template name: the name of the template
 
-**5.复制配置**
+**5.Copy configuration**
 
-运营商：选择某个运营商的具体哪个配置进行配置
+Operator: Select the specific configuration of a certain operator to configure.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (100).png" alt="" width="236"><figcaption></figcaption></figure></div>
 
-复制到运营商：具体把配置复制到单个/多个运营商，可选择
+Copy to operator: Specifically copy the configuration to single/multiple operators, optional
 
 <div align="left"><figure><img src="../.gitbook/assets/image (101).png" alt="" width="375"><figcaption></figcaption></figure></div>

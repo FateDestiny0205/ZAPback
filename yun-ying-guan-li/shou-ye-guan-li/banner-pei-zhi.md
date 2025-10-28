@@ -2,110 +2,110 @@
 icon: billboard
 ---
 
-# Banner配置
+# Banner configuration
 
-**1.功能说明**
+**1. Function description**
 
-配置各种活动banner的样式、展示位置等基础信息
+Configure basic information such as style and placement of various activity banners
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-选择某个运营商的banner配置进行查询
+Select the banner configuration of a certain operator to query
 
-2.2备注
+2.2 Remarks
 
-搜索特定备注的banner
+Search banners for specific notes
 
-2.3类型
+2.3 Type
 
-Banner的类型，分为以下几种
+The types of Banner are divided into the following types:
 
-首页Banner：首页大的横版Banner
+Home Page Banner: Large horizontal banner on the home page
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (66).png" alt="" width="236"><figcaption></figcaption></figure></div>
 
-活动主页Banner：活动页面的横版banner，同时也可选择是否显示在顶部
+Event homepage Banner: A horizontal banner on the event page. You can also choose whether to display it at the top.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (69).png" alt="" width="254"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (67).png" alt="" width="236"><figcaption></figcaption></figure></div>
 
-窗口Banner：小窗口Banner
+Window Banner: Small window Banner
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (70).png" alt="" width="236"><figcaption></figcaption></figure></div>
 
-充值Banner：老皮充值页面的Banner，排序最前的展示在最上方，后面的展示在最下方
+Recharge Banner: The Banner on the Laopi recharge page. The first-ordered one is displayed at the top, and the later ones are displayed at the bottom.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (71).png" alt="" width="202"><figcaption></figcaption></figure></div>
 
-2.4状态
+2.4 Status
 
-开关状态或者全部
+switch state or all
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：Banner ID
+(1) ID: Banner ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）类型：Banner的类型
+(3) Type: Banner type
 
-（4）备注：Banner的备注
+(4) Remarks: Banner’s remarks
 
-（5）封面图：Banner图片的预览
+(5) Cover image: Preview of Banner image
 
-（6）排序：Banner的排序，可以手动上下拖动来改变Banner排序
+(6) Sorting: Banner sorting, you can manually drag it up and down to change the Banner sorting
 
-（7）Banner用户标签：Banner适合的用户标签
+(7) Banner user tag: Banner suitable user tag
 
-（8）跳转类型：Banner的跳转类型
+(8) Jump type: Banner’s jump type
 
-（9）活动列表展示名称：在活动列表中的展示名称
+(9) Activity list display name: Display name in the activity list
 
-（10）侧边栏活动展示名称：在侧边栏和顶部Banner的展示名称
+(10) Sidebar activity display name: Display name of the sidebar and top Banner
 
-（11）应用于首页顶部：是否应用于首页顶部，最多显示6个
+(11) Apply to the top of the homepage: Whether to apply to the top of the homepage, display up to 6
 
-（12）首页顶部排序：在首页顶部的排序
+(12) Sorting at the top of the home page: Sorting at the top of the home page
 
-（13）状态：Banner的开关状态
+(13) Status: Banner’s switch status
 
-（14）操作：编辑或者删除Banner
+(14) Operation: Edit or delete Banner
 
-**4.新增Banner**
+**4. Added Banner**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (75).png" alt="" width="86"><figcaption></figcaption></figure></div>
 
-点击新增Banner按钮可新增Banner
+Click the Add Banner button to add a new Banner
 
-（1）运营商：归属运营商
+(1) Operator: Belonging to the operator
 
-（2）备注：Banner的备注
+(2) Remarks: Banner’s remarks
 
-（3）类型：Banner的类型
+(3) Type: Banner type
 
-（4）跳转类型：是跳转活动、弹窗还是页面，后面可根据类型选择对象
+(4) Jump type: whether it is a jump activity, pop-up window or page. You can select the object according to the type later.
 
-（5）活动列表展示名称：在活动列表中的展示名称
+(5) Activity list display name: Display name in the activity list
 
-（6）侧边栏活动展示名称：在侧边栏和顶部Banner的展示名称
+(6) Sidebar activity display name: display name in the sidebar and top Banner
 
-（7）排序：Banner的排序，数值越大越靠前
+(7) Sorting: Banner sorting, the larger the value, the higher it is.
 
-（8）封面图片：可以选择Banner图片
+(8) Cover image: You can choose a Banner image
 
-（9）展示用户标签：Banner展示给哪些用户标签
+(9) Display user tags: Which user tags are displayed to the Banner?
 
-（10）是否应用于首页顶部：如果类型是活动主页Banner，需要配置是否在首页顶部显示
+(10) Whether to apply to the top of the homepage: If the type is an active homepage Banner, you need to configure whether to display it at the top of the homepage.
 
-**5.保留当前顺序**
+**5.Keep current order**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (76).png" alt="" width="98"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (77).png" alt="" width="91"><figcaption></figcaption></figure></div>
 
-手动修改过排序后，点击此按钮可按照当前顺序保留
+After manually modifying the sorting, click this button to keep it in the current order.

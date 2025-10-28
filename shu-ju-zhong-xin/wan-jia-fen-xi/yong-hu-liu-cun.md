@@ -2,26 +2,26 @@
 icon: record-vinyl
 ---
 
-# 用户留存
+# User retention
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 玩家分析 → 用户留存。
-* 功能说明:查看商户各个推广商以及渠道的留存数据。
+* The path in the left navigation bar: Data Center → Player Analysis → User Retention.
+* Function description: View the retained data of various promoters and channels of the merchant.
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* N日首充付费留存：今日首充总人数中，在第N日继续充值的用户数量/今日首充总人数。
-* N日新增留存：今日新注册的总人数中，在第N日继续登录的用户数量/今日新注册的总人数。
-* N日活跃留存：今日登录的总人数中，在第N日继续登录的用户数量/今日登录的总人数。
-* N日下注留存：今日下注的总人数中，在第N日继续下注的用户数量/今日下注的总人数。
-* N日首充活跃留存：今日首充的总人数中，在第N日继续首充用户数量/今日首充的总人数。
-* N日老用户活跃留存：(第N日登录的总人数-第N日登录的新注册用户) / (今日的登录总人数-今日新注册的总人数)。
-* N日老用户付费留存：今日付费的老用户人数中，在第N日继续付费的老用户数量/今日付费的老用户人数。
+* Retention of paying for the first deposit on the Nth day: Among the total number of users who made the first deposit today, the number of users who continued to recharge on the Nth day/the total number of users who made the first deposit today.
+* New retention on day N: Among the total number of new registrations today, the number of users who continue to log in on the Nth day/the total number of new registrations today.
+* N-day active retention: Among the total number of people who logged in today, the number of users who continue to log in on the Nth day/the total number of people who logged in today.
+* N-day betting retention: Among the total number of people who placed bets today, the number of users who continued to place bets on the Nth day/the total number of people who placed bets today.
+* Active retention of the first deposit on the Nth day: among the total number of people who made the first deposit today, the number of users who continued to make the first deposit on the Nth day/the total number of people who made the first deposit today.
+* Active retention of old users on the Nth day: (Total number of people logged in on the Nth day - Newly registered users logged in on the Nth day) / (Total number of people logged in today - Total number of newly registered users today).
+* Paid retention of old users on the Nth day: among the number of old users who paid today, the number of old users who continued to pay on the Nth day/the number of old users who paid today.
 
-老用户付费人数=总付费人数-新注册付费的人数
+The number of old users who pay = the total number of people who pay - the number of new registered users who pay
 
-* N日首充下注留存：今日首充下注的总人数中，在第N日继续首充下注用户数量/今日首充下注的总人数。
-* N日充值用户付费留存：今日充值总人数中，在第N日继续充值用户数量/今日充值总人数。
+* Retention of first deposit bets on day N: Among the total number of people who placed bets with first deposit today, the number of users who continued to place bets with first deposit on day N/total number of users who placed bets with first deposit today.
+* Paid retention of users who recharged on the Nth day: Among the total number of people who recharged today, the number of users who continued to recharge on the Nth day/the total number of people who recharged today.

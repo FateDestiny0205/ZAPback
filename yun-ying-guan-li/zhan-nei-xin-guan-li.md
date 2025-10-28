@@ -2,80 +2,80 @@
 icon: envelope
 ---
 
-# 站内信管理
+# Site message management
 
-**1.功能说明**
+**1. Function description**
 
-可以给用户发送站内信，并可查看和撤回已发送的站内信
+You can send site messages to users, and you can view and withdraw sent site messages.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
-2.1运营商
+2.1 Operator
 
-归属运营商
+Owned by operator
 
-2.2标题
+2.2 Title
 
-按站内信的标题筛选
+Filter by title of in-site messages
 
-2.3发送者
+2.3 Sender
 
-按站内信的发送者筛选
+Filter by sender of site messages
 
-2.4收件用户标签
+2.4 Recipient user label
 
-按收件用户的标签筛选
+Filter by the recipient's label
 
-2.5发送状态
+2.5 Send status
 
-站内信的发送状态，全部、未发送、已发送、已删除
+The sending status of in-site messages, all, unsent, sent, deleted
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：站内信ID
+(1) ID: Site message ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）标题：站内信的标题
+(3) Title: the title of the letter on the site
 
-（4）发送者：创建站内信的后台人员
+(4) Sender: the backend staff who created the in-site message
 
-（5）收件用户类型：可收到站内信的用户类型
+(5) Recipient user type: User type that can receive site messages
 
-（6）收件用户标签：可收到站内信的用户标签
+(6) Recipient user tag: User tag that can receive in-site messages
 
-（7）收件用户账号：可收到站内信的用户账号
+(7) Receiving user account: User account that can receive in-site messages
 
-（8）赠送彩金：站内信奖励彩金
+(8) Bonus bonus: Lottery bonus from in-site messages
 
-（9）发送类型：站内信发送类型
+(9) Sending type: In-site message sending type
 
-（10）推送数量：当前站内信发送总数量
+(10) Push quantity: the total number of messages sent within the current site
 
-（11）打开人数：打开此站内信的总人数
+(11) Number of people who opened: the total number of people who opened messages on this site
 
-（12）领取人数：领取此站内信奖励的人数
+(12) Number of recipients: the number of recipients of the rewards in this site
 
-（13）充值人数：通过站内信（站内消息推送）引导并完成充值的用户数量
+(13) Number of recharges: the number of users who were guided and completed recharge through in-site messages (in-site message push)
 
-（14）发送时间：站内信的发送时间
+(14) Sending time: the sending time of the site message
 
-（15）操作：查看、撤回站内信
+(15) Operation: View and withdraw site messages
 
-**4.新增站内信**
+**4. Add site message**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (104).png" alt="" width="83"><figcaption></figcaption></figure></div>
 
-（1）运营商：归属运营商
+(1) Operator: Belonging to the operator
 
-（2）收件用户类型：用户标签还是玩家账户，选择用户标签后要选择全部还是特定的标签，选择玩家账户后可以输入单个/多个玩家账号
+(2) Recipient user type: user label or player account. After selecting the user label, you need to choose all or specific labels. After selecting the player account, you can enter single/multiple player accounts.
 
-（3）是否有奖励：有奖励的话需要输入奖励彩金以及打码倍数
+(3) Whether there are rewards: If there are rewards, you need to enter the bonus and code multiplier
 
-（4）发送类型：立即发送还是定时发送，选择定时发送的话可以选择日期和时间
+(4) Sending type: Immediate sending or scheduled sending. If you choose scheduled sending, you can select the date and time.
 
-（5）标题：站内信标题
+(5) Title: Title of the letter on the site
 
-（6）站内信内容：站内信的内容
+(6) Contents of on-site letters: Contents of on-site letters

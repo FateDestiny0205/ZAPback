@@ -2,21 +2,21 @@
 icon: sidebar
 ---
 
-# 每日报表
+# daily report
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 月度报表 → 每日报表。
-* 功能说明:以天为单位，查看商户整体的投注和盈利数据。
+* The left navigation bar path: Data Center → Monthly Report → Daily Report.
+* Function description: View the overall betting and profit data of the merchant on a daily basis.
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 当日投注：当日投注金额。
-* 当日派彩：当日游戏返奖金额。
-* 当日盈利：游戏投注金额-游戏返奖金额。
-* 本月盈利: 本月投注金额-本月返奖金额。
-* 当日RTP: 该厂商当日返奖/该厂商当日有效投注。
-* 税率: 游戏厂商收取的盈利百分比。
-* 报表费: 需要给厂商的费用。
+* Betting of the day: the amount of bets made on the day.
+* Same-day payout: the amount of game rewards for the day.
+* Profit for the day: game bet amount - game reward amount.
+* This month’s profit: this month’s betting amount – this month’s rebate amount.
+* RTP of the day: The manufacturer’s reward will be returned on the day/the manufacturer’s valid bets will be on the day.
+* Tax rate: The percentage of profit charged by game manufacturers.
+* Report fee: A fee that needs to be paid to the manufacturer.

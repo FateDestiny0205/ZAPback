@@ -2,5 +2,5 @@
 icon: calculator
 ---
 
-# 财务管理
+# financial management
 

@@ -2,28 +2,28 @@
 icon: coin-blank
 ---
 
-# 小时播报
+# hour broadcast
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 每日数据 → 小时播报。
-* 功能说明:查看商户每个小时的统计数据，以及对比昨天和前后一小时数据。
+* The left navigation bar path: Data Center → Daily Data → Hourly Report.
+* Function description: View the merchant's statistics for each hour, and compare yesterday's data with the hour before and after.
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 新增人数：该时间段内新注册用户数。
-* 一级首充人数：该时间段内直属下级首充人数 。
-* 投注人数：该时间段内投注的人数。
-* 充值人数: 该时间段内充值的人数。
-* 首充转换率: 该时间段内首充人数 / 注册人数。
-* 充值金额: 该时间段内充值的金额。
-* 首充用户充值金额：该时间段内首充用户的充值金额。
-* 非首充用户充值金额：该时间段内非首充用户的充值金额 。
-* ARPPU：该时间段内充值金额 / 充值人数。
-* 首充ARPPU: 该时间段内首充金额 / 首充人数。
-* 提现人数: 该时间段内提现人数。
-* 充提差: 该时间段内充值金额-提现金额。
-* 盈余率: 该时间段内充提差 / 充值金额。
-* 打码倍数: 该时间段内有效投注 / 充值金额。
+* Number of new users: the number of newly registered users during this time period.
+* The number of first-time depositors at the first level: the number of first-time depositors at the directly subordinate level within this time period.
+* Number of bettors: The number of bettors during this time period.
+* Number of people who recharged: The number of people who recharged during this time period.
+* First deposit conversion rate: number of first deposits / number of registrations during this period.
+* Recharge amount: The amount recharged during this time period.
+* Recharge amount for first-time users: The recharge amount for first-time users during this time period.
+* Recharge amount for non-first-time recharge users: Recharge amount for non-first-time recharge users during this period.
+* ARPPU: Recharge amount/number of recharges during this time period.
+* First deposit ARPPU: first deposit amount/number of first deposits during this period.
+* Number of withdrawals: The number of withdrawals during this time period.
+* Difference between deposit and withdrawal: deposit amount - withdrawal amount during this time period.
+* Profit rate: the difference between deposits and withdrawals/recharge amount during this time period.
+* Code multiplier: The effective betting/recharge amount within this time period.

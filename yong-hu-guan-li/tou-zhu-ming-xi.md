@@ -2,60 +2,60 @@
 icon: money-check-dollar
 ---
 
-# 投注明细
+# Betting details
 
-**1.功能说明**
+**1. Function description**
 
-投注明细表用于记录玩家在各类游戏中的投注情况
+The betting details table is used to record players’ betting status in various games.
 
-**2.筛选与查询功能**
+**2. Filtering and query functions**
 
 <figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
-2.1渠道筛选
+2.1 Channel screening
 
-可按国家、运营商、渠道进行筛选，便于分析不同市场与来源的差异。
+You can filter by country, operator, and channel to facilitate analysis of differences in different markets and sources.
 
-2.2用户信息
+2.2 User information
 
-可按用户ID、用户手机来进行筛选，便于定位特定用户
+You can filter by user ID and user mobile phone to facilitate locating specific users.
 
-2.3对局筛选
+2.3 Game screening
 
-可按厂商、局号对特定的厂商和对局进行筛选，方便定位特定游戏
+Specific manufacturers and games can be filtered by manufacturer and game number to facilitate locating specific games.
 
-2.4时间类型
+2.4 Time type
 
-可实现自定义时间的筛选
+Custom time filtering possible
 
-**3.列表字段**
+**3.List fields**
 
-（1）ID：游戏对局ID
+(1) ID: game match ID
 
-（2）运营商：归属运营商
+(2) Operator: Belonging to the operator
 
-（3）局号：游戏对局ID
+(3) Game number: game game ID
 
-（4）渠道：用户渠道来源
+(4) Channel: user channel source
 
-（5）用户ID：用户的ID，点击ID可打开用户详情页面
+(5) User ID: User’s ID. Click the ID to open the user details page
 
-（6）用户手机号：用户绑定的手机号
+(6) User mobile phone number: the mobile phone number bound by the user
 
-（7）游戏类型：用户玩的游戏的类型
+(7) Game type: the type of game played by the user
 
-（8）厂商：该游戏是属于哪个厂商
+(8)Manufacturer: Which manufacturer does this game belong to?
 
-（9）游戏品牌：该游戏是属于哪个品牌
+(9) Game brand: Which brand does the game belong to?
 
-（10）游戏名称：该游戏的名称
+(10) Game name: the name of the game
 
-（11）币种：该游戏下注的币种
+(11) Currency: The currency used for betting in this game
 
-（12）投注金额：单次投注金额
+(12) Betting amount: single betting amount
 
-（13）派彩金额：单次返奖金额
+(13) Lottery amount: single reward amount
 
-（14）输赢金额：单次返奖金额-单次投注金额，正数为赢，红色，负数为输，绿色
+(14) Amount of win or loss: single rebate amount - single bet amount, positive number is win, red, negative number is loss, green
 
-（15）投注时间：该局游戏的投注时间
+(15) Betting time: Betting time of the game

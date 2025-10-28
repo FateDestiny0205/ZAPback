@@ -2,31 +2,31 @@
 icon: toothbrush
 ---
 
-# 其他设置
+# Other settings
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：系统设置 → 其他设置。
-* 功能说明:给商户配置打码、审核、充值等系统运营设定项。
+* The left navigation bar path: System Settings → Other Settings.
+* Function description: Configure system operation settings such as coding, review, and recharge for merchants.
 
 <figure><img src="../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
-**2. 字段说明**
+**2. Field description**
 
-* 打码量自动清零额度：当余额低于该配置值时，用户剩余打码量自动清零。
-* 打码清零冷却时间：打码量自动清零间隔时间。
-* 同IP最大注册人数设定：同IP可以注册多少个号，最多设定3段。
-* 同设备最大注册人数设定：同设备可以注册多少个号，最多设定3段。
-* 搜索相同ip时间秒数：配置时间内【用户详情】-【风控数据】内检测的同登陆IP，注册IP数量。
-* 搜索相同设备时间秒数：配置时间内【用户详情】-【风控数据】内检测的同登陆设备，同注册设备数量。
-* 相同CPF绑定账号上限：同一个CPF可以绑定的游戏账号的数量。
-* 没充值不可进行游戏：打开活动“无”，引导进入充值面板；选择活动，引导进入活动主界面。
-* 没有充值时不可进行提现：打开活动“无”，引导进入充值面板；选择活动，引导进入活动主界面。
-* 充值总金额上线提醒：用户总充值达到配置金额，每日玩家在线或者上线后会语音提醒一次，提醒内容“金主来了’。
-* 盈利总金额上线提醒：用户总盈利达到配置金额，每日玩家在线或者上线后会语音提醒一次，提醒内容“高盈利用户来了"。
-* 最低充值金额隐藏开关：开启后，设定玩家累计充值额度满足设定金额 ,隐藏充值挡位。
-* 提现需充值开关：开启后，玩家提现满足设定时间充值，才可正常提现。
-* 轮播倍数播报：赢取的金额除以下注得值大于等于配置值，就会在首页跑马灯显示。
-* Telegram通知Chat ID：给机器人 [@dataPushNoticeNewBot ](https://t.me/dataPushNoticeNewBot)发送任一消息获得。选填，多个id使用。
-* 客服切换：选择商户客服。
-* 客服链接：输入商户客服地址。
+* Automatic clearing limit of coding volume: When the balance is lower than the configured value, the user's remaining coding volume will be automatically cleared.
+* Coding clearing cooling time: the interval between automatic clearing of coding volume.
+* Setting of the maximum number of registered users with the same IP: how many accounts can be registered with the same IP, up to 3 segments can be set.
+* Setting of the maximum number of registered users on the same device: how many numbers can be registered on the same device, up to 3 segments can be set.
+* The number of seconds to search for the same IP: the number of registered IPs and the same login IP detected within the configured time in [User Details]-[Risk Control Data].
+* Number of seconds to search for the same device: the number of the same logged-in devices and the same registered devices detected within the configured period of time [User Details]-[Risk Control Data].
+* The upper limit of accounts bound to the same CPF: the number of game accounts that can be bound to the same CPF.
+* You cannot play the game without recharging: open the activity "None" and be directed to the recharge panel; select the activity and be directed to the main activity interface.
+* Withdrawal is not possible when there is no recharge: open the activity "None" and be directed to the recharge panel; select the activity and be directed to the main event interface.
+* Online reminder for the total recharge amount: When the user's total recharge reaches the configured amount, a voice reminder will be given once every day when the player is online or after going online, with the content "The funder is here".
+* Online reminder for the total amount of profit: When the total profit of the user reaches the configured amount, a voice reminder will be given once every day when the player is online or after going online, and the content of the reminder is "Highly profitable users are coming."
+* Minimum recharge amount hidden switch: After turning it on, set the player's cumulative recharge amount to meet the set amount and hide the recharge gear.
+* Withdrawal requires recharge switch: After turning it on, players can withdraw money normally only after the player's withdrawal meets the recharge within the set time.
+* Carousel multiplier broadcast: If the winning amount divided by the bet value is greater than or equal to the configured value, it will be displayed on the home page.
+* Telegram Notification Chat ID: Give to Bot[@dataPushNoticeNewBot ](https://t.me/dataPushNoticeNewBot)Get it by sending any message. Optional, multiple IDs can be used.
+* Customer service switching: Select merchant customer service.
+* Customer service link: Enter the merchant’s customer service address.

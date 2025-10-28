@@ -2,17 +2,17 @@
 icon: id-card
 ---
 
-# 代理结算
+# Agency settlement
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 代理数据 → 代理结算。
-* 功能说明: 以渠道为维度，统计商户的代理佣金总数据。
+* The path in the left navigation bar: Data Center → Agent Data → Agent Settlement.
+* Function description: Taking the channel as the dimension, count the total agency commission data of merchants.
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 代理模式:计算玩家代理分佣模式
-* 结算总佣金: 结算总佣金包括代理返佣+代理返现
-* 结算代理人数:结算代理人数
+* Agency mode: Calculate player agency commission mode
+* Total settlement commission: Total settlement commission includes agent rebate + agent cash rebate
+* Number of settlement agents:Number of settlement agents

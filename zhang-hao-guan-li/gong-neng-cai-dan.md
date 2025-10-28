@@ -2,26 +2,26 @@
 icon: sim-card
 ---
 
-# 功能菜单
+# Function menu
 
-**1.左侧导航栏路径：**
+**1.Left navigation bar path:**
 
-账号管理 → 功能菜单
+Account Management → Function Menu
 
-**2.功能说明:**&#x20;
+**2. Function description:**
 
-用于新增、编辑后台界面功能以及排序。
+Used to add, edit backend interface functions and sort.
 
 <figure><img src="../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
-**3. 表格字段说明**
+**3. Form field description**
 
-* 菜单：后台菜单名称。
-* 图标：后台菜单图标。
-* 路由：后台菜单路由地址。
-* 类型：菜单类型，单界面记录为菜单，有子界面记录为目录。
-* 权限标识：菜单权限标识。
-* 组件：菜单组件。
-* 固定标签：是否固定该菜单。
-* 隐藏菜单：隐藏后，分配此菜单的角色账号登录后，无法查看。
-* 排序值：菜单排序值，从小到大升序排序，后台页签按照排序值来展示页签顺序。
+* Menu: Backend menu name.
+* Icon: Backend menu icon.
+* Routing: Backend menu routing address.
+* Type: Menu type, a single interface is recorded as a menu, and a sub-interface is recorded as a directory.
+* Permission ID: Menu permission ID.
+* Component: Menu component.
+* Fixed label: Whether to pin this menu.
+* Hidden menu: Once hidden, the menu cannot be viewed after the character account assigned to it is logged in.
+* Sorting value: menu sorting value, sorted in ascending order from small to large. The background tabs display the tab order according to the sorting value.

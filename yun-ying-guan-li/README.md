@@ -2,5 +2,5 @@
 icon: paste
 ---
 
-# 运营管理
+# operations management
 

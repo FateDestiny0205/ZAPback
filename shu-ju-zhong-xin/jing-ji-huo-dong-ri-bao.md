@@ -2,23 +2,23 @@
 icon: rocketchat
 ---
 
-# 经济活动日报
+# economic activity daily
 
-**1. 界面位置**
+**1. Interface location**
 
-* 左侧导航栏路径：数据中心 → 经济活动日报。
-* 功能说明: 统计商户各推广商以及渠道，参与活动统计数据。
+* The left navigation bar path: Data Center → Economic Activity Daily.
+* Function description: Statistics of various promoters and channels of merchants and participation in activities.
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-**2. 表格字段说明**
+**2. Form field description**
 
-* 活动类型:充值活动、留存活动、召回活动、打码活动
-* 活动名称:参与活动的名称
-* 领取人数:选取时间内领取奖励的总人数，需要去重
-* 领取人数占比:该活动领取人数占所有活动领取总人数的比例
-* 领取总金额:领取到玩家手里的总金额
-* 领取奖励占比:该活动领取到玩家手里的金额占所有活动领取总金额的比例
-* GGR占比:领取总金额 ÷ ( 投注额 - 派彩金 )
-* 下注留存率:领取该活动奖励的用户下注留存率
-* 充值留存率:领取该活动奖励的用户充值留存率
+* Activity types: recharge activities, retention activities, recall activities, coding activities
+* Activity name: Name of participating activity
+* Number of recipients: The total number of people who have received rewards within the selected time, need to remove duplicates
+* Proportion of the number of recipients: the proportion of the number of recipients of this activity to the total number of recipients of all activities
+* Total amount received: The total amount received from the player
+* Proportion of rewards received: the amount received by players from this activity as a proportion of the total amount received from all activities
+* GGR proportion: total amount received ÷ (bet amount – bonus distributed)
+* Betting retention rate: Betting retention rate of users who receive rewards from this activity
+* Recharge retention rate: the recharge retention rate of users who receive rewards from this event
